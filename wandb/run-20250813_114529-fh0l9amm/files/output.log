@@ -1,0 +1,830 @@
+Checkpoint tracker file does not exist: /disk3/yiran/yaoqi/l1/checkpoints/l1finetune/qwen2.5-1.5B-Instruct-l1_exact/latest_checkpointed_iteration.txt
+Training from scratch
+test_gen_batch meta info: {'eos_token_id': 151645, 'pad_token_id': 151643, 'recompute_log_prob': False, 'do_sample': False, 'validate': True, 'global_steps': 0}
+validation generation end
+delta_score: -0.6638999999999999, reward_response.is_correct: False, num_tokens: 3374, valid_response_length: 1161delta_score: -0.6638999999999999, reward_response.is_correct: False, num_tokens: 3374, valid_response_length: 1161
+
+delta_score: -0.6638999999999999, reward_response.is_correct: False, num_tokens: 3374, valid_response_length: 1161delta_score: -0.0927, reward_response.is_correct: False, num_tokens: 2357, valid_response_length: 2048delta_score: -0.0927, reward_response.is_correct: False, num_tokens: 2357, valid_response_length: 2048delta_score: -0.0927, reward_response.is_correct: False, num_tokens: 2357, valid_response_length: 2048delta_score: -0.6638999999999999, reward_response.is_correct: False, num_tokens: 3374, valid_response_length: 1161
+
+delta_score: -0.0927, reward_response.is_correct: False, num_tokens: 2357, valid_response_length: 2048
+delta_score: -0.6927, reward_response.is_correct: False, num_tokens: 3060, valid_response_length: 751
+
+delta_score: -0.6927, reward_response.is_correct: False, num_tokens: 3060, valid_response_length: 751
+
+delta_score: -0.6927, reward_response.is_correct: False, num_tokens: 3060, valid_response_length: 751delta_score: -0.8327999999999999, reward_response.is_correct: False, num_tokens: 3692, valid_response_length: 916delta_score: -0.8327999999999999, reward_response.is_correct: False, num_tokens: 3692, valid_response_length: 916delta_score: -0.27149999999999996, reward_response.is_correct: False, num_tokens: 1143, valid_response_length: 2048delta_score: -0.27149999999999996, reward_response.is_correct: False, num_tokens: 1143, valid_response_length: 2048delta_score: -0.27149999999999996, reward_response.is_correct: False, num_tokens: 1143, valid_response_length: 2048delta_score: -0.8327999999999999, reward_response.is_correct: False, num_tokens: 3692, valid_response_length: 916delta_score: -0.8327999999999999, reward_response.is_correct: False, num_tokens: 3692, valid_response_length: 916delta_score: -0.2909999999999999, reward_response.is_correct: False, num_tokens: 1970, valid_response_length: 1000
+
+
+delta_score: -0.27149999999999996, reward_response.is_correct: False, num_tokens: 1143, valid_response_length: 2048delta_score: -0.2909999999999999, reward_response.is_correct: False, num_tokens: 1970, valid_response_length: 1000
+
+delta_score: -0.09419999999999995, reward_response.is_correct: False, num_tokens: 689, valid_response_length: 375
+
+delta_score: -0.09419999999999995, reward_response.is_correct: False, num_tokens: 689, valid_response_length: 375delta_score: -0.5418, reward_response.is_correct: False, num_tokens: 3854, valid_response_length: 2048delta_score: -0.5418, reward_response.is_correct: False, num_tokens: 3854, valid_response_length: 2048delta_score: -0.2909999999999999, reward_response.is_correct: False, num_tokens: 1970, valid_response_length: 1000
+
+delta_score: -0.09419999999999995, reward_response.is_correct: False, num_tokens: 689, valid_response_length: 375delta_score: -0.2909999999999999, reward_response.is_correct: False, num_tokens: 1970, valid_response_length: 1000delta_score: -0.5418, reward_response.is_correct: False, num_tokens: 3854, valid_response_length: 2048
+delta_score: -0.6927, reward_response.is_correct: False, num_tokens: 3060, valid_response_length: 751delta_score: -0.5418, reward_response.is_correct: False, num_tokens: 3854, valid_response_length: 2048
+
+
+
+
+delta_score: -0.09419999999999995, reward_response.is_correct: False, num_tokens: 689, valid_response_length: 375
+
+
+
+
+
+
+
+reward_tensor's shape : torch.Size([32, 2048])
+len reward_extra_infos_dict['reward']: 32
+test_gen_batch meta info: {'eos_token_id': 151645, 'pad_token_id': 151643, 'recompute_log_prob': False, 'do_sample': False, 'validate': True, 'global_steps': 0}
+validation generation end
+delta_score: -0.6486, reward_response.is_correct: False, num_tokens: 3408, valid_response_length: 1246
+delta_score: -0.6486, reward_response.is_correct: False, num_tokens: 3408, valid_response_length: 1246
+delta_score: -0.6486, reward_response.is_correct: False, num_tokens: 3408, valid_response_length: 1246delta_score: -0.8795999999999999, reward_response.is_correct: False, num_tokens: 3335, valid_response_length: 403delta_score: -0.6486, reward_response.is_correct: False, num_tokens: 3408, valid_response_length: 1246delta_score: -0.8795999999999999, reward_response.is_correct: False, num_tokens: 3335, valid_response_length: 403
+
+delta_score: -0.8795999999999999, reward_response.is_correct: False, num_tokens: 3335, valid_response_length: 403delta_score: -0.8795999999999999, reward_response.is_correct: False, num_tokens: 3335, valid_response_length: 403
+delta_score: -0.13590000000000002, reward_response.is_correct: False, num_tokens: 932, valid_response_length: 479
+
+
+delta_score: -0.6645, reward_response.is_correct: False, num_tokens: 2740, valid_response_length: 525delta_score: -0.6645, reward_response.is_correct: False, num_tokens: 2740, valid_response_length: 525delta_score: -0.6645, reward_response.is_correct: False, num_tokens: 2740, valid_response_length: 525
+delta_score: -0.13590000000000002, reward_response.is_correct: False, num_tokens: 932, valid_response_length: 479
+delta_score: -0.7667999999999999, reward_response.is_correct: False, num_tokens: 3464, valid_response_length: 908delta_score: -0.13590000000000002, reward_response.is_correct: False, num_tokens: 932, valid_response_length: 479delta_score: -0.2259, reward_response.is_correct: False, num_tokens: 1295, valid_response_length: 2048delta_score: -0.711, reward_response.is_correct: False, num_tokens: 2762, valid_response_length: 392
+delta_score: -0.2259, reward_response.is_correct: False, num_tokens: 1295, valid_response_length: 2048delta_score: -0.2259, reward_response.is_correct: False, num_tokens: 1295, valid_response_length: 2048delta_score: -0.711, reward_response.is_correct: False, num_tokens: 2762, valid_response_length: 392delta_score: -0.6645, reward_response.is_correct: False, num_tokens: 2740, valid_response_length: 525delta_score: -0.5436, reward_response.is_correct: False, num_tokens: 3860, valid_response_length: 2048
+delta_score: -0.7667999999999999, reward_response.is_correct: False, num_tokens: 3464, valid_response_length: 908delta_score: -0.13590000000000002, reward_response.is_correct: False, num_tokens: 932, valid_response_length: 479delta_score: -0.5436, reward_response.is_correct: False, num_tokens: 3860, valid_response_length: 2048delta_score: -0.711, reward_response.is_correct: False, num_tokens: 2762, valid_response_length: 392delta_score: -0.7667999999999999, reward_response.is_correct: False, num_tokens: 3464, valid_response_length: 908
+
+delta_score: -0.7667999999999999, reward_response.is_correct: False, num_tokens: 3464, valid_response_length: 908delta_score: -0.5436, reward_response.is_correct: False, num_tokens: 3860, valid_response_length: 2048
+
+delta_score: -0.5436, reward_response.is_correct: False, num_tokens: 3860, valid_response_length: 2048delta_score: -0.711, reward_response.is_correct: False, num_tokens: 2762, valid_response_length: 392
+
+
+
+
+
+
+
+
+delta_score: -0.2259, reward_response.is_correct: False, num_tokens: 1295, valid_response_length: 2048
+
+
+
+
+
+
+reward_tensor's shape : torch.Size([32, 2048])
+len reward_extra_infos_dict['reward']: 64
+test_gen_batch meta info: {'eos_token_id': 151645, 'pad_token_id': 151643, 'recompute_log_prob': False, 'do_sample': False, 'validate': True, 'global_steps': 0}
+validation generation end
+delta_score: -0.02310000000000001, reward_response.is_correct: False, num_tokens: 679, valid_response_length: 756
+delta_score: -0.02310000000000001, reward_response.is_correct: False, num_tokens: 679, valid_response_length: 756delta_score: -0.02310000000000001, reward_response.is_correct: False, num_tokens: 679, valid_response_length: 756delta_score: -0.02310000000000001, reward_response.is_correct: False, num_tokens: 679, valid_response_length: 756delta_score: -0.7845, reward_response.is_correct: False, num_tokens: 3146, valid_response_length: 531
+
+delta_score: -0.7845, reward_response.is_correct: False, num_tokens: 3146, valid_response_length: 531
+delta_score: -0.7845, reward_response.is_correct: False, num_tokens: 3146, valid_response_length: 531delta_score: -0.7845, reward_response.is_correct: False, num_tokens: 3146, valid_response_length: 531
+delta_score: -0.6014999999999999, reward_response.is_correct: False, num_tokens: 2479, valid_response_length: 474
+delta_score: -0.6014999999999999, reward_response.is_correct: False, num_tokens: 2479, valid_response_length: 474delta_score: -0.23609999999999998, reward_response.is_correct: False, num_tokens: 332, valid_response_length: 1119delta_score: -0.23609999999999998, reward_response.is_correct: False, num_tokens: 332, valid_response_length: 1119delta_score: -0.23609999999999998, reward_response.is_correct: False, num_tokens: 332, valid_response_length: 1119
+delta_score: -0.9779999999999999, reward_response.is_correct: False, num_tokens: 3890, valid_response_length: 630
+delta_score: -0.9779999999999999, reward_response.is_correct: False, num_tokens: 3890, valid_response_length: 630delta_score: -0.9779999999999999, reward_response.is_correct: False, num_tokens: 3890, valid_response_length: 630delta_score: -0.6014999999999999, reward_response.is_correct: False, num_tokens: 2479, valid_response_length: 474delta_score: -0.23609999999999998, reward_response.is_correct: False, num_tokens: 332, valid_response_length: 1119delta_score: -0.9779999999999999, reward_response.is_correct: False, num_tokens: 3890, valid_response_length: 630delta_score: -0.025499999999999967, reward_response.is_correct: False, num_tokens: 1963, valid_response_length: 2048delta_score: -0.6014999999999999, reward_response.is_correct: False, num_tokens: 2479, valid_response_length: 474
+delta_score: -0.025499999999999967, reward_response.is_correct: False, num_tokens: 1963, valid_response_length: 2048delta_score: -0.025499999999999967, reward_response.is_correct: False, num_tokens: 1963, valid_response_length: 2048
+
+delta_score: -0.025499999999999967, reward_response.is_correct: False, num_tokens: 1963, valid_response_length: 2048
+delta_score: -0.609, reward_response.is_correct: False, num_tokens: 2436, valid_response_length: 406
+delta_score: -0.609, reward_response.is_correct: False, num_tokens: 2436, valid_response_length: 406
+delta_score: -0.9455999999999999, reward_response.is_correct: False, num_tokens: 3499, valid_response_length: 347delta_score: -0.609, reward_response.is_correct: False, num_tokens: 2436, valid_response_length: 406delta_score: -0.9455999999999999, reward_response.is_correct: False, num_tokens: 3499, valid_response_length: 347
+
+delta_score: -0.609, reward_response.is_correct: False, num_tokens: 2436, valid_response_length: 406
+delta_score: -0.9455999999999999, reward_response.is_correct: False, num_tokens: 3499, valid_response_length: 347delta_score: -0.9455999999999999, reward_response.is_correct: False, num_tokens: 3499, valid_response_length: 347
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+reward_tensor's shape : torch.Size([32, 2048])
+len reward_extra_infos_dict['reward']: 96
+test_gen_batch meta info: {'eos_token_id': 151645, 'pad_token_id': 151643, 'recompute_log_prob': False, 'do_sample': False, 'validate': True, 'global_steps': 0}
+validation generation end
+delta_score: -0.16410000000000002, reward_response.is_correct: False, num_tokens: 1155, valid_response_length: 608delta_score: -0.16410000000000002, reward_response.is_correct: False, num_tokens: 1155, valid_response_length: 608
+delta_score: -0.16410000000000002, reward_response.is_correct: False, num_tokens: 1155, valid_response_length: 608
+delta_score: -0.20489999999999997, reward_response.is_correct: False, num_tokens: 1155, valid_response_length: 472delta_score: -0.8165999999999999, reward_response.is_correct: False, num_tokens: 3177, valid_response_length: 455
+delta_score: -0.8165999999999999, reward_response.is_correct: False, num_tokens: 3177, valid_response_length: 455
+delta_score: -0.7988999999999999, reward_response.is_correct: False, num_tokens: 3177, valid_response_length: 514
+delta_score: -0.7988999999999999, reward_response.is_correct: False, num_tokens: 3177, valid_response_length: 514delta_score: -0.1251, reward_response.is_correct: False, num_tokens: 648, valid_response_length: 1065
+delta_score: -0.08279999999999998, reward_response.is_correct: False, num_tokens: 648, valid_response_length: 924
+
+delta_score: -0.08279999999999998, reward_response.is_correct: False, num_tokens: 648, valid_response_length: 924
+
+delta_score: -0.5868, reward_response.is_correct: False, num_tokens: 2658, valid_response_length: 702delta_score: -0.5871, reward_response.is_correct: False, num_tokens: 2658, valid_response_length: 701delta_score: -0.5868, reward_response.is_correct: False, num_tokens: 2658, valid_response_length: 702delta_score: -0.5868, reward_response.is_correct: False, num_tokens: 2658, valid_response_length: 702delta_score: -0.08279999999999998, reward_response.is_correct: False, num_tokens: 648, valid_response_length: 924
+delta_score: -0.2157, reward_response.is_correct: False, num_tokens: 1484, valid_response_length: 765delta_score: -0.16920000000000002, reward_response.is_correct: False, num_tokens: 1484, valid_response_length: 2048
+delta_score: -0.2157, reward_response.is_correct: False, num_tokens: 1484, valid_response_length: 765delta_score: -0.16920000000000002, reward_response.is_correct: False, num_tokens: 1484, valid_response_length: 2048delta_score: -0.6197999999999999, reward_response.is_correct: False, num_tokens: 2754, valid_response_length: 688
+
+delta_score: -0.6410999999999999, reward_response.is_correct: False, num_tokens: 2754, valid_response_length: 617
+
+delta_score: -0.6410999999999999, reward_response.is_correct: False, num_tokens: 2754, valid_response_length: 617delta_score: -0.6410999999999999, reward_response.is_correct: False, num_tokens: 2754, valid_response_length: 617
+
+
+
+
+
+
+
+reward_tensor's shape : torch.Size([24, 2048])
+len reward_extra_infos_dict['reward']: 120
+("Initial validation metrics: {'val-core//reward/mean@4': "
+ "-0.49167750018338363, 'val-aux//reward/std@4': 0.0025812154081119617, "
+ "'val-aux//reward/best@2/mean': -0.49047159968763593, "
+ "'val-aux//reward/best@2/std': 0.0019516203412993942, "
+ "'val-aux//reward/worst@2/mean': -0.4928712906643749, "
+ "'val-aux//reward/worst@2/std': 0.00249614112132165, "
+ "'val-core//reward/best@4/mean': -0.4897559093887608, "
+ "'val-core//reward/best@4/std': 0.0010288877410895563, "
+ "'val-aux//reward/worst@4/mean': -0.4939900611231725, "
+ "'val-aux//reward/worst@4/std': 0.0018667738235680668}")
+step:0 - val-core//reward/mean@4:-0.49167750018338363 - val-aux//reward/std@4:0.0025812154081119617 - val-aux//reward/best@2/mean:-0.49047159968763593 - val-aux//reward/best@2/std:0.0019516203412993942 - val-aux//reward/worst@2/mean:-0.4928712906643749 - val-aux//reward/worst@2/std:0.00249614112132165 - val-core//reward/best@4/mean:-0.4897559093887608 - val-core//reward/best@4/std:0.0010288877410895563 - val-aux//reward/worst@4/mean:-0.4939900611231725 - val-aux//reward/worst@4/std:0.0018667738235680668
+Training Progress:   0%|          | 0/15060 [00:00<?, ?it/s]
+delta_score: -0.6495, reward_response.is_correct: False, num_tokens: 2512, valid_response_length: 347
+delta_score: -0.3468, reward_response.is_correct: False, num_tokens: 3204, valid_response_length: 2048delta_score: -0.16979999999999995, reward_response.is_correct: False, num_tokens: 1032, valid_response_length: 466
+delta_score: -0.36719999999999997, reward_response.is_correct: False, num_tokens: 510, valid_response_length: 1734delta_score: -0.5526, reward_response.is_correct: False, num_tokens: 2512, valid_response_length: 670delta_score: -0.043200000000000016, reward_response.is_correct: False, num_tokens: 401, valid_response_length: 545
+
+delta_score: -0.019499999999999962, reward_response.is_correct: False, num_tokens: 401, valid_response_length: 466
+delta_score: -0.12749999999999995, reward_response.is_correct: False, num_tokens: 763, valid_response_length: 338delta_score: -0.23219999999999996, reward_response.is_correct: False, num_tokens: 510, valid_response_length: 1284
+delta_score: -0.6294, reward_response.is_correct: False, num_tokens: 2512, valid_response_length: 414
+
+delta_score: -0.11609999999999998, reward_response.is_correct: False, num_tokens: 1032, valid_response_length: 645
+delta_score: -0.6923999999999999, reward_response.is_correct: False, num_tokens: 3381, valid_response_length: 1073delta_score: -0.8546999999999999, reward_response.is_correct: False, num_tokens: 3371, valid_response_length: 522
+delta_score: -0.6278999999999999, reward_response.is_correct: False, num_tokens: 2512, valid_response_length: 419delta_score: -0.0726, reward_response.is_correct: False, num_tokens: 1032, valid_response_length: 790delta_score: -0.16949999999999998, reward_response.is_correct: False, num_tokens: 510, valid_response_length: 1075
+
+delta_score: -0.06540000000000001, reward_response.is_correct: False, num_tokens: 763, valid_response_length: 545delta_score: -0.09509999999999996, reward_response.is_correct: False, num_tokens: 510, valid_response_length: 827delta_score: -0.8477999999999999, reward_response.is_correct: False, num_tokens: 3371, valid_response_length: 545delta_score: -0.09870000000000001, reward_response.is_correct: False, num_tokens: 763, valid_response_length: 434delta_score: -0.7718999999999999, reward_response.is_correct: False, num_tokens: 3371, valid_response_length: 798delta_score: -0.8576999999999999, reward_response.is_correct: False, num_tokens: 3371, valid_response_length: 512delta_score: -0.6795, reward_response.is_correct: False, num_tokens: 3204, valid_response_length: 939delta_score: -0.09509999999999996, reward_response.is_correct: False, num_tokens: 763, valid_response_length: 446delta_score: -0.1743, reward_response.is_correct: False, num_tokens: 1032, valid_response_length: 451delta_score: -0.03359999999999996, reward_response.is_correct: False, num_tokens: 401, valid_response_length: 513delta_score: -0.7520999999999999, reward_response.is_correct: False, num_tokens: 3381, valid_response_length: 874delta_score: -0.7790999999999999, reward_response.is_correct: False, num_tokens: 3204, valid_response_length: 607delta_score: -0.7683, reward_response.is_correct: False, num_tokens: 3381, valid_response_length: 820
+delta_score: -0.03090000000000004, reward_response.is_correct: False, num_tokens: 401, valid_response_length: 504
+
+delta_score: -0.729, reward_response.is_correct: False, num_tokens: 3381, valid_response_length: 951
+
+
+
+
+
+
+
+delta_score: -0.6939, reward_response.is_correct: False, num_tokens: 3204, valid_response_length: 891
+
+
+
+
+
+
+
+
+reward_tensor's shape : torch.Size([32, 2048])
+step:1 - global_seqlen/min:2363 - global_seqlen/max:5744 - global_seqlen/minmax_diff:3381 - global_seqlen/balanced_min:3470 - global_seqlen/balanced_max:4064 - global_seqlen/mean:3621.625 - actor/entropy:0.153520867228508 - training/rollout_probs_diff_valid:1 - training/rollout_probs_diff_max:0.1921566128730774 - training/rollout_probs_diff_mean:0.004711818881332874 - training/rollout_probs_diff_std:0.01289280317723751 - training/rollout_actor_probs_pearson_corr:0.997717559337616 - actor/kl_loss:0.0 - actor/kl_coef:0.001 - actor/pg_loss:-0.5040876865386963 - actor/pg_clipfrac:0.0 - actor/ppo_kl:0.0 - actor/pg_clipfrac_lower:0.0 - actor/grad_norm:0.90234375 - perf/mfu/actor:0.05139632032958066 - perf/max_memory_allocated_gb:52.36044216156006 - perf/max_memory_reserved_gb:58.275390625 - perf/cpu_memory_used_gb:115.73934173583984 - actor/lr:1e-06 - training/global_step:1 - training/epoch:0 - critic/score/mean:-0.4107280969619751 - critic/score/max:-0.019500000402331352 - critic/score/min:-0.857699990272522 - critic/rewards/mean:-0.4107280969619751 - critic/rewards/max:-0.019500000402331352 - critic/rewards/min:-0.857699990272522 - critic/advantages/mean:0.10880496352910995 - critic/advantages/max:1.4922631978988647 - critic/advantages/min:-1.3110105991363525 - critic/returns/mean:0.10880496352910995 - critic/returns/max:1.4922631978988647 - critic/returns/min:-1.3110105991363525 - response_length/mean:734.15625 - response_length/max:2048.0 - response_length/min:338.0 - response_length/clip_ratio:0.03125 - prompt_length/mean:171.25 - prompt_length/max:206.0 - prompt_length/min:117.0 - prompt_length/clip_ratio:0.0 - timing_s/start_profile:0.00023389607667922974 - timing_s/generate_sequences:5.36415433883667 - timing_s/reshard:0.2801101505756378 - timing_s/generation_timing/max:10.748313903808594 - timing_s/generation_timing/min:2.850752830505371 - timing_s/generation_timing/topk_ratio:0.125 - timing_s/gen:11.070583252236247 - timing_s/reward:0.033523404970765114 - timing_s/old_log_prob:1.430951975286007 - timing_s/ref:1.7336632814258337 - timing_s/adv:0.0020368285477161407 - timing_s/update_actor:2.5647488720715046 - timing_s/step:16.8394672293216 - timing_s/stop_profile:4.7558918595314026e-05 - timing_per_token_ms/ref:0.059837202962269485 - timing_per_token_ms/adv:7.0300919743076e-05 - timing_per_token_ms/gen:0.4712290151209402 - timing_per_token_ms/update_actor:0.08852203334385478 - perf/total_num_tokens:28973 - perf/time_per_step:16.8394672293216 - perf/throughput:215.06767112524034
+delta_score: -0.6731999999999999, reward_response.is_correct: False, num_tokens: 2501, valid_response_length: 257delta_score: -0.5339999999999999, reward_response.is_correct: False, num_tokens: 2329, valid_response_length: 549delta_score: -0.4998, reward_response.is_correct: False, num_tokens: 382, valid_response_length: 2048delta_score: -0.3459, reward_response.is_correct: False, num_tokens: 1591, valid_response_length: 438
+
+delta_score: -0.702, reward_response.is_correct: False, num_tokens: 2501, valid_response_length: 161
+delta_score: -0.2712, reward_response.is_correct: False, num_tokens: 1606, valid_response_length: 702
+delta_score: -0.4998, reward_response.is_correct: False, num_tokens: 382, valid_response_length: 2048delta_score: -0.4970999999999999, reward_response.is_correct: False, num_tokens: 2091, valid_response_length: 434delta_score: -0.6728999999999999, reward_response.is_correct: False, num_tokens: 2575, valid_response_length: 332delta_score: -0.3117, reward_response.is_correct: False, num_tokens: 1606, valid_response_length: 567
+delta_score: -0.4889999999999999, reward_response.is_correct: False, num_tokens: 2575, valid_response_length: 945delta_score: -0.013800000000000034, reward_response.is_correct: False, num_tokens: 1032, valid_response_length: 986
+
+
+
+
+delta_score: -0.17759999999999998, reward_response.is_correct: False, num_tokens: 382, valid_response_length: 974delta_score: -0.26339999999999997, reward_response.is_correct: False, num_tokens: 1606, valid_response_length: 728delta_score: -0.022499999999999964, reward_response.is_correct: False, num_tokens: 1032, valid_response_length: 957
+
+delta_score: -0.5013, reward_response.is_correct: False, num_tokens: 2091, valid_response_length: 420delta_score: -0.14700000000000002, reward_response.is_correct: False, num_tokens: 382, valid_response_length: 872delta_score: -0.5441999999999999, reward_response.is_correct: False, num_tokens: 2329, valid_response_length: 515delta_score: -0.474, reward_response.is_correct: False, num_tokens: 2091, valid_response_length: 511delta_score: -0.38939999999999997, reward_response.is_correct: False, num_tokens: 1591, valid_response_length: 293
+delta_score: -0.46199999999999997, reward_response.is_correct: False, num_tokens: 2091, valid_response_length: 551delta_score: -0.37559999999999993, reward_response.is_correct: False, num_tokens: 1591, valid_response_length: 339delta_score: -0.38549999999999995, reward_response.is_correct: False, num_tokens: 1591, valid_response_length: 306
+
+delta_score: -0.6204, reward_response.is_correct: False, num_tokens: 2501, valid_response_length: 433delta_score: -0.6171, reward_response.is_correct: False, num_tokens: 2501, valid_response_length: 444
+delta_score: -0.6551999999999999, reward_response.is_correct: False, num_tokens: 2575, valid_response_length: 391
+delta_score: -0.18510000000000004, reward_response.is_correct: False, num_tokens: 1606, valid_response_length: 989delta_score: -0.4314, reward_response.is_correct: False, num_tokens: 2329, valid_response_length: 891delta_score: -0.5612999999999999, reward_response.is_correct: False, num_tokens: 2575, valid_response_length: 704
+delta_score: -0.43920000000000003, reward_response.is_correct: False, num_tokens: 2329, valid_response_length: 865
+
+
+
+
+
+delta_score: -0.031200000000000006, reward_response.is_correct: False, num_tokens: 1032, valid_response_length: 928
+
+
+
+delta_score: -0.005099999999999993, reward_response.is_correct: False, num_tokens: 1032, valid_response_length: 1015
+
+
+
+reward_tensor's shape : torch.Size([32, 2048])
+step:2 - global_seqlen/min:1856 - global_seqlen/max:6290 - global_seqlen/minmax_diff:4434 - global_seqlen/balanced_min:3165 - global_seqlen/balanced_max:3768 - global_seqlen/mean:3326.125 - actor/entropy:0.1102810874581337 - training/rollout_probs_diff_valid:1 - training/rollout_probs_diff_max:0.23105764389038086 - training/rollout_probs_diff_mean:0.0035501059610396624 - training/rollout_probs_diff_std:0.01157299242913723 - training/rollout_actor_probs_pearson_corr:0.9975975155830383 - actor/kl_loss:0.00030003528809174895 - actor/kl_coef:0.001 - actor/pg_loss:0.5144166946411133 - actor/pg_clipfrac:0.0 - actor/ppo_kl:0.0 - actor/pg_clipfrac_lower:0.0 - actor/grad_norm:0.79296875 - perf/mfu/actor:0.0427687055909916 - perf/max_memory_allocated_gb:53.087238788604736 - perf/max_memory_reserved_gb:59.44921875 - perf/cpu_memory_used_gb:115.79314041137695 - actor/lr:1e-06 - training/global_step:2 - training/epoch:0 - critic/score/mean:-0.39996564388275146 - critic/score/max:-0.005100000184029341 - critic/score/min:-0.7020000219345093 - critic/rewards/mean:-0.39996564388275146 - critic/rewards/max:-0.005100000184029341 - critic/rewards/min:-0.7020000219345093 - critic/advantages/mean:0.04191717877984047 - critic/advantages/max:1.4330817461013794 - critic/advantages/min:-1.1771917343139648 - critic/returns/mean:0.04191717877984047 - critic/returns/max:1.4330817461013794 - critic/returns/min:-1.1771917343139648 - response_length/mean:706.03125 - response_length/max:2048.0 - response_length/min:161.0 - response_length/clip_ratio:0.0625 - prompt_length/mean:125.5 - prompt_length/max:255.0 - prompt_length/min:85.0 - prompt_length/clip_ratio:0.0 - timing_s/start_profile:4.295259714126587e-05 - timing_s/generate_sequences:4.750884056091309 - timing_s/reshard:2.7309231758117676 - timing_s/generation_timing/max:10.635162353515625 - timing_s/generation_timing/min:2.2569515705108643 - timing_s/generation_timing/topk_ratio:0.125 - timing_s/gen:13.396112656220794 - timing_s/reward:0.034521982073783875 - timing_s/old_log_prob:1.6187285836786032 - timing_s/ref:0.16745051369071007 - timing_s/adv:0.0016872771084308624 - timing_s/update_actor:2.816470507532358 - timing_s/step:18.03707567974925 - timing_s/stop_profile:4.916824400424957e-05 - timing_per_token_ms/ref:0.006293002882134243 - timing_per_token_ms/adv:6.341001572516301e-05 - timing_per_token_ms/gen:0.5929319991245428 - timing_per_token_ms/update_actor:0.10584653716909159 - perf/total_num_tokens:26609 - perf/time_per_step:18.03707567974925 - perf/throughput:184.40489240361381
+delta_score: -0.022199999999999998, reward_response.is_correct: False, num_tokens: 378, valid_response_length: 304
+delta_score: -0.8264999999999999, reward_response.is_correct: False, num_tokens: 3135, valid_response_length: 380delta_score: -0.399, reward_response.is_correct: False, num_tokens: 1916, valid_response_length: 586
+delta_score: -0.7626, reward_response.is_correct: False, num_tokens: 3135, valid_response_length: 593delta_score: -0.03959999999999997, reward_response.is_correct: False, num_tokens: 1916, valid_response_length: 2048
+delta_score: -0.025499999999999967, reward_response.is_correct: False, num_tokens: 378, valid_response_length: 293
+delta_score: -0.9485999999999999, reward_response.is_correct: False, num_tokens: 3544, valid_response_length: 382
+delta_score: -0.5348999999999999, reward_response.is_correct: False, num_tokens: 3831, valid_response_length: 2048delta_score: -0.014399999999999968, reward_response.is_correct: False, num_tokens: 378, valid_response_length: 330
+delta_score: -0.1674, reward_response.is_correct: False, num_tokens: 686, valid_response_length: 1244delta_score: -0.9216, reward_response.is_correct: False, num_tokens: 3831, valid_response_length: 759delta_score: -0.018900000000000028, reward_response.is_correct: False, num_tokens: 378, valid_response_length: 441delta_score: -0.5489999999999999, reward_response.is_correct: False, num_tokens: 2325, valid_response_length: 495delta_score: -0.34109999999999996, reward_response.is_correct: False, num_tokens: 1916, valid_response_length: 779
+delta_score: -0.9635999999999999, reward_response.is_correct: False, num_tokens: 3544, valid_response_length: 332delta_score: -0.03720000000000001, reward_response.is_correct: False, num_tokens: 686, valid_response_length: 810
+delta_score: -0.7734, reward_response.is_correct: False, num_tokens: 3831, valid_response_length: 1253delta_score: -0.9713999999999999, reward_response.is_correct: False, num_tokens: 3544, valid_response_length: 306delta_score: -0.7797, reward_response.is_correct: False, num_tokens: 3135, valid_response_length: 536
+delta_score: -0.3152999999999999, reward_response.is_correct: False, num_tokens: 1916, valid_response_length: 865delta_score: -0.12270000000000003, reward_response.is_correct: False, num_tokens: 280, valid_response_length: 689delta_score: -0.5438999999999999, reward_response.is_correct: False, num_tokens: 2325, valid_response_length: 512delta_score: -0.07679999999999998, reward_response.is_correct: False, num_tokens: 686, valid_response_length: 942
+delta_score: -0.8387999999999999, reward_response.is_correct: False, num_tokens: 3135, valid_response_length: 339
+
+
+delta_score: -0.12390000000000001, reward_response.is_correct: False, num_tokens: 280, valid_response_length: 693
+delta_score: -0.9989999999999999, reward_response.is_correct: False, num_tokens: 3831, valid_response_length: 501delta_score: -0.1422, reward_response.is_correct: False, num_tokens: 280, valid_response_length: 754delta_score: -0.05069999999999997, reward_response.is_correct: False, num_tokens: 686, valid_response_length: 855
+
+delta_score: -0.5403, reward_response.is_correct: False, num_tokens: 2325, valid_response_length: 524delta_score: -0.5658, reward_response.is_correct: False, num_tokens: 2325, valid_response_length: 439
+
+delta_score: -0.957, reward_response.is_correct: False, num_tokens: 3544, valid_response_length: 354delta_score: -0.16769999999999996, reward_response.is_correct: False, num_tokens: 280, valid_response_length: 839
+
+
+
+
+
+
+
+
+
+
+
+
+
+reward_tensor's shape : torch.Size([32, 2048])
+step:3 - global_seqlen/min:1856 - global_seqlen/max:4913 - global_seqlen/minmax_diff:3057 - global_seqlen/balanced_min:3095 - global_seqlen/balanced_max:3847 - global_seqlen/mean:3343.625 - actor/entropy:0.09750114381313324 - training/rollout_probs_diff_valid:1 - training/rollout_probs_diff_max:0.13442575931549072 - training/rollout_probs_diff_mean:0.0032321095932275057 - training/rollout_probs_diff_std:0.0110936863347888 - training/rollout_actor_probs_pearson_corr:0.997589647769928 - actor/kl_loss:0.00033151826937682927 - actor/kl_coef:0.001 - actor/pg_loss:-0.6503530144691467 - actor/pg_clipfrac:0.0 - actor/ppo_kl:0.0 - actor/pg_clipfrac_lower:0.0 - actor/grad_norm:0.7890625 - perf/mfu/actor:0.03964401165502035 - perf/max_memory_allocated_gb:53.087238788604736 - perf/max_memory_reserved_gb:59.44921875 - perf/cpu_memory_used_gb:115.81440734863281 - actor/lr:1e-06 - training/global_step:3 - training/epoch:0 - critic/score/mean:-0.45439690351486206 - critic/score/max:-0.014399999752640724 - critic/score/min:-0.9990000128746033 - critic/rewards/mean:-0.45439690351486206 - critic/rewards/max:-0.014399999752640724 - critic/rewards/min:-0.9990000128746033 - critic/advantages/mean:0.17505663633346558 - critic/advantages/max:1.4636551141738892 - critic/advantages/min:-1.4397625923156738 - critic/returns/mean:0.17505663633346558 - critic/returns/max:1.4636551141738892 - critic/returns/min:-1.4397625923156738 - response_length/mean:694.53125 - response_length/max:2048.0 - response_length/min:293.0 - response_length/clip_ratio:0.0625 - prompt_length/mean:141.375 - prompt_length/max:229.0 - prompt_length/min:71.0 - prompt_length/clip_ratio:0.0 - timing_s/start_profile:3.701448440551758e-05 - timing_s/generate_sequences:5.299699306488037 - timing_s/reshard:3.1583147048950195 - timing_s/generation_timing/max:10.73804759979248 - timing_s/generation_timing/min:1.991088628768921 - timing_s/generation_timing/topk_ratio:0.125 - timing_s/gen:13.918316692113876 - timing_s/reward:0.03037918172776699 - timing_s/old_log_prob:1.5458778589963913 - timing_s/ref:0.27826172299683094 - timing_s/adv:0.0016430672258138657 - timing_s/update_actor:3.0539193768054247 - timing_s/step:18.830700116232038 - timing_s/stop_profile:4.833005368709564e-05 - timing_per_token_ms/ref:0.010402696287593216 - timing_per_token_ms/adv:6.142537013771975e-05 - timing_per_token_ms/gen:0.6262459703988246 - timing_per_token_ms/update_actor:0.11416947836574917 - perf/total_num_tokens:26749 - perf/time_per_step:18.830700116232038 - perf/throughput:177.56243683779977
+delta_score: -0.8825999999999999, reward_response.is_correct: False, num_tokens: 3171, valid_response_length: 229delta_score: -0.9408, reward_response.is_correct: False, num_tokens: 3698, valid_response_length: 562delta_score: -0.5286, reward_response.is_correct: False, num_tokens: 2519, valid_response_length: 757delta_score: -0.32999999999999996, reward_response.is_correct: False, num_tokens: 1977, valid_response_length: 877delta_score: -0.021299999999999986, reward_response.is_correct: False, num_tokens: 1977, valid_response_length: 2048
+delta_score: -0.8631, reward_response.is_correct: False, num_tokens: 3698, valid_response_length: 821
+delta_score: -0.23160000000000003, reward_response.is_correct: False, num_tokens: 703, valid_response_length: 1475delta_score: -0.606, reward_response.is_correct: False, num_tokens: 2519, valid_response_length: 499delta_score: -0.8324999999999999, reward_response.is_correct: False, num_tokens: 3798, valid_response_length: 1023delta_score: -0.9702, reward_response.is_correct: False, num_tokens: 3748, valid_response_length: 514
+delta_score: -0.8472, reward_response.is_correct: False, num_tokens: 3171, valid_response_length: 347
+
+delta_score: -0.18599999999999994, reward_response.is_correct: False, num_tokens: 703, valid_response_length: 1323delta_score: -0.9647999999999999, reward_response.is_correct: False, num_tokens: 3748, valid_response_length: 532
+
+delta_score: -0.48749999999999993, reward_response.is_correct: False, num_tokens: 2519, valid_response_length: 894delta_score: -0.08909999999999996, reward_response.is_correct: False, num_tokens: 258, valid_response_length: 555
+
+delta_score: -0.9866999999999999, reward_response.is_correct: False, num_tokens: 3748, valid_response_length: 459
+
+delta_score: -0.5702999999999999, reward_response.is_correct: False, num_tokens: 2519, valid_response_length: 618delta_score: -0.7452, reward_response.is_correct: False, num_tokens: 3698, valid_response_length: 1214delta_score: -0.8918999999999999, reward_response.is_correct: False, num_tokens: 3798, valid_response_length: 825delta_score: -0.15539999999999998, reward_response.is_correct: False, num_tokens: 1977, valid_response_length: 1459
+
+delta_score: -0.17609999999999992, reward_response.is_correct: False, num_tokens: 258, valid_response_length: 845delta_score: -0.8562, reward_response.is_correct: False, num_tokens: 3171, valid_response_length: 317delta_score: -0.1602, reward_response.is_correct: False, num_tokens: 703, valid_response_length: 1237
+delta_score: -0.8768999999999999, reward_response.is_correct: False, num_tokens: 3171, valid_response_length: 248delta_score: -0.2613, reward_response.is_correct: False, num_tokens: 1977, valid_response_length: 1106delta_score: -0.9305999999999999, reward_response.is_correct: False, num_tokens: 3748, valid_response_length: 646delta_score: -0.12749999999999995, reward_response.is_correct: False, num_tokens: 258, valid_response_length: 683
+
+
+delta_score: -0.729, reward_response.is_correct: False, num_tokens: 3698, valid_response_length: 1268
+delta_score: -0.02100000000000002, reward_response.is_correct: False, num_tokens: 258, valid_response_length: 328
+
+delta_score: -0.9591, reward_response.is_correct: False, num_tokens: 3798, valid_response_length: 601delta_score: -0.1593, reward_response.is_correct: False, num_tokens: 703, valid_response_length: 1234
+
+
+delta_score: -0.6530999999999999, reward_response.is_correct: False, num_tokens: 3798, valid_response_length: 1621
+
+
+
+
+
+
+
+
+reward_tensor's shape : torch.Size([32, 2048])
+step:4 - global_seqlen/min:1485 - global_seqlen/max:5965 - global_seqlen/minmax_diff:4480 - global_seqlen/balanced_min:3920 - global_seqlen/balanced_max:4119 - global_seqlen/mean:3982.125 - actor/entropy:0.10960941761732101 - training/rollout_probs_diff_valid:1 - training/rollout_probs_diff_max:0.22488412261009216 - training/rollout_probs_diff_mean:0.003707310650497675 - training/rollout_probs_diff_std:0.012014574371278286 - training/rollout_actor_probs_pearson_corr:0.9974033832550049 - actor/kl_loss:0.0005352555308490992 - actor/kl_coef:0.001 - actor/pg_loss:-0.2126479297876358 - actor/pg_clipfrac:0.0 - actor/ppo_kl:0.0 - actor/pg_clipfrac_lower:0.0 - actor/grad_norm:0.76171875 - perf/mfu/actor:0.05426634562659228 - perf/max_memory_allocated_gb:53.087238788604736 - perf/max_memory_reserved_gb:59.44921875 - perf/cpu_memory_used_gb:115.83434295654297 - actor/lr:1e-06 - training/global_step:4 - training/epoch:0 - critic/score/mean:-0.5637843608856201 - critic/score/max:-0.020999999716877937 - critic/score/min:-0.9866999983787537 - critic/rewards/mean:-0.5637843608856201 - critic/rewards/max:-0.020999999716877937 - critic/rewards/min:-0.9866999983787537 - critic/advantages/mean:0.13867484033107758 - critic/advantages/max:1.3787552118301392 - critic/advantages/min:-1.39630925655365 - critic/returns/mean:0.13867484033107758 - critic/returns/max:1.3787552118301392 - critic/returns/min:-1.39630925655365 - response_length/mean:848.90625 - response_length/max:2048.0 - response_length/min:229.0 - response_length/clip_ratio:0.03125 - prompt_length/mean:146.625 - prompt_length/max:206.0 - prompt_length/min:82.0 - prompt_length/clip_ratio:0.0 - timing_s/start_profile:3.799237310886383e-05 - timing_s/generate_sequences:5.9727678298950195 - timing_s/reshard:2.7977471351623535 - timing_s/generation_timing/max:10.647540092468262 - timing_s/generation_timing/min:1.7462302446365356 - timing_s/generation_timing/topk_ratio:0.125 - timing_s/gen:13.480400167405605 - timing_s/reward:0.03163742832839489 - timing_s/old_log_prob:1.5615372713655233 - timing_s/ref:0.17969739995896816 - timing_s/adv:0.001532161608338356 - timing_s/update_actor:2.672525230795145 - timing_s/step:17.929428236559033 - timing_s/stop_profile:4.4347718358039856e-05 - timing_per_token_ms/ref:0.005640750854097001 - timing_per_token_ms/adv:4.809497467866893e-05 - timing_per_token_ms/gen:0.4962414933703517 - timing_per_token_ms/update_actor:0.08389130272138447 - perf/total_num_tokens:31857 - perf/time_per_step:17.929428236559033 - perf/throughput:222.0999435933066
+delta_score: -0.8666999999999999, reward_response.is_correct: False, num_tokens: 3137, valid_response_length: 248
+delta_score: -0.5496, reward_response.is_correct: False, num_tokens: 2211, valid_response_length: 379
+delta_score: -0.8654999999999999, reward_response.is_correct: False, num_tokens: 3137, valid_response_length: 252delta_score: -0.4326, reward_response.is_correct: False, num_tokens: 2374, valid_response_length: 932
+delta_score: -0.8285999999999999, reward_response.is_correct: False, num_tokens: 3137, valid_response_length: 375delta_score: -0.4463999999999999, reward_response.is_correct: False, num_tokens: 2260, valid_response_length: 772delta_score: -0.5330999999999999, reward_response.is_correct: False, num_tokens: 2211, valid_response_length: 434delta_score: -0.13139999999999996, reward_response.is_correct: False, num_tokens: 199, valid_response_length: 637delta_score: -0.42779999999999996, reward_response.is_correct: False, num_tokens: 3474, valid_response_length: 2048
+delta_score: -0.2559, reward_response.is_correct: False, num_tokens: 1285, valid_response_length: 432delta_score: -0.0837, reward_response.is_correct: False, num_tokens: 667, valid_response_length: 388
+delta_score: -0.09630000000000005, reward_response.is_correct: False, num_tokens: 667, valid_response_length: 346delta_score: -0.1602, reward_response.is_correct: False, num_tokens: 199, valid_response_length: 733delta_score: -0.5514, reward_response.is_correct: False, num_tokens: 2211, valid_response_length: 373
+
+delta_score: -0.41100000000000003, reward_response.is_correct: False, num_tokens: 2374, valid_response_length: 1004
+delta_score: -0.8925, reward_response.is_correct: False, num_tokens: 3474, valid_response_length: 499delta_score: -0.5436, reward_response.is_correct: False, num_tokens: 2211, valid_response_length: 399delta_score: -0.3758999999999999, reward_response.is_correct: False, num_tokens: 2374, valid_response_length: 1121
+delta_score: -0.8592, reward_response.is_correct: False, num_tokens: 3137, valid_response_length: 273
+
+delta_score: -0.9128999999999999, reward_response.is_correct: False, num_tokens: 3474, valid_response_length: 431delta_score: -0.5570999999999999, reward_response.is_correct: False, num_tokens: 2260, valid_response_length: 403delta_score: -0.29190000000000005, reward_response.is_correct: False, num_tokens: 1285, valid_response_length: 312delta_score: -0.4437, reward_response.is_correct: False, num_tokens: 2260, valid_response_length: 781
+delta_score: -0.2694, reward_response.is_correct: False, num_tokens: 1285, valid_response_length: 387delta_score: -0.3006, reward_response.is_correct: False, num_tokens: 1285, valid_response_length: 283delta_score: -0.08040000000000003, reward_response.is_correct: False, num_tokens: 667, valid_response_length: 399delta_score: -0.3687, reward_response.is_correct: False, num_tokens: 2374, valid_response_length: 1145
+
+
+
+
+
+delta_score: -0.13319999999999999, reward_response.is_correct: False, num_tokens: 199, valid_response_length: 643delta_score: -0.10139999999999993, reward_response.is_correct: False, num_tokens: 199, valid_response_length: 537
+
+delta_score: -0.7734, reward_response.is_correct: False, num_tokens: 3474, valid_response_length: 896
+
+delta_score: -0.09299999999999997, reward_response.is_correct: False, num_tokens: 667, valid_response_length: 357delta_score: -0.5723999999999999, reward_response.is_correct: False, num_tokens: 2260, valid_response_length: 352
+
+
+
+
+
+
+
+
+
+reward_tensor's shape : torch.Size([32, 2048])
+step:5 - global_seqlen/min:1644 - global_seqlen/max:4626 - global_seqlen/minmax_diff:2982 - global_seqlen/balanced_min:2703 - global_seqlen/balanced_max:3607 - global_seqlen/mean:2826.375 - actor/entropy:0.11779405921697617 - training/rollout_probs_diff_valid:1 - training/rollout_probs_diff_max:0.1509827971458435 - training/rollout_probs_diff_mean:0.003778028069064021 - training/rollout_probs_diff_std:0.01203515101224184 - training/rollout_actor_probs_pearson_corr:0.9976269006729126 - actor/kl_loss:0.0003974866704083979 - actor/kl_coef:0.001 - actor/pg_loss:-0.9821511507034302 - actor/pg_clipfrac:0.0 - actor/ppo_kl:0.0 - actor/pg_clipfrac_lower:0.0 - actor/grad_norm:0.95703125 - perf/mfu/actor:0.034026126981540214 - perf/max_memory_allocated_gb:53.087238788604736 - perf/max_memory_reserved_gb:59.525390625 - perf/cpu_memory_used_gb:115.85348892211914 - actor/lr:1e-06 - training/global_step:5 - training/epoch:0 - critic/score/mean:-0.44404688477516174 - critic/score/max:-0.0803999975323677 - critic/score/min:-0.9128999710083008 - critic/rewards/mean:-0.44404688477516174 - critic/rewards/max:-0.0803999975323677 - critic/rewards/min:-0.9128999710083008 - critic/advantages/mean:0.19065368175506592 - critic/advantages/max:1.4743852615356445 - critic/advantages/min:-1.1921181678771973 - critic/returns/mean:0.19065368175506592 - critic/returns/max:1.4743852615356445 - critic/returns/min:-1.1921181678771973 - response_length/mean:580.34375 - response_length/max:2048.0 - response_length/min:248.0 - response_length/clip_ratio:0.03125 - prompt_length/mean:126.25 - prompt_length/max:149.0 - prompt_length/min:106.0 - prompt_length/clip_ratio:0.0 - timing_s/start_profile:6.879307329654694e-05 - timing_s/generate_sequences:4.112082004547119 - timing_s/reshard:2.980454444885254 - timing_s/generation_timing/max:10.617169380187988 - timing_s/generation_timing/min:1.9105230569839478 - timing_s/generation_timing/topk_ratio:0.125 - timing_s/gen:13.628804443404078 - timing_s/reward:0.030000362545251846 - timing_s/old_log_prob:1.3486819248646498 - timing_s/ref:0.1740584708750248 - timing_s/adv:0.001720314845442772 - timing_s/update_actor:2.9841486159712076 - timing_s/step:18.169376581907272 - timing_s/stop_profile:4.923529922962189e-05 - timing_per_token_ms/ref:0.007697955458627429 - timing_per_token_ms/adv:7.608309430997178e-05 - timing_per_token_ms/gen:0.7338756363902902 - timing_per_token_ms/update_actor:0.13197773720628048 - perf/total_num_tokens:22611 - perf/time_per_step:18.169376581907272 - perf/throughput:155.5570708361261
+delta_score: -0.9638999999999999, reward_response.is_correct: False, num_tokens: 3927, valid_response_length: 714
+delta_score: -0.49229999999999996, reward_response.is_correct: False, num_tokens: 3689, valid_response_length: 2048delta_score: -0.9521999999999999, reward_response.is_correct: False, num_tokens: 3689, valid_response_length: 515
+
+delta_score: -0.6402, reward_response.is_correct: False, num_tokens: 2596, valid_response_length: 462delta_score: -0.7328999999999999, reward_response.is_correct: False, num_tokens: 2826, valid_response_length: 383
+delta_score: -0.5864999999999999, reward_response.is_correct: False, num_tokens: 2596, valid_response_length: 641delta_score: -0.7568999999999999, reward_response.is_correct: False, num_tokens: 2826, valid_response_length: 303delta_score: -0.6359999999999999, reward_response.is_correct: False, num_tokens: 2596, valid_response_length: 476delta_score: -0.6500999999999999, reward_response.is_correct: False, num_tokens: 2853, valid_response_length: 686delta_score: -0.49229999999999996, reward_response.is_correct: False, num_tokens: 3689, valid_response_length: 2048
+
+delta_score: -0.7293, reward_response.is_correct: False, num_tokens: 2826, valid_response_length: 395
+
+delta_score: -0.9974999999999999, reward_response.is_correct: False, num_tokens: 3927, valid_response_length: 602
+delta_score: -0.15300000000000002, reward_response.is_correct: False, num_tokens: 2432, valid_response_length: 1922
+
+delta_score: -0.5205, reward_response.is_correct: False, num_tokens: 2411, valid_response_length: 676delta_score: -0.5360999999999999, reward_response.is_correct: False, num_tokens: 2596, valid_response_length: 809delta_score: -0.2841, reward_response.is_correct: False, num_tokens: 1312, valid_response_length: 365delta_score: -0.24449999999999994, reward_response.is_correct: False, num_tokens: 2432, valid_response_length: 1617
+
+delta_score: -0.9489, reward_response.is_correct: False, num_tokens: 3927, valid_response_length: 764delta_score: -0.7182, reward_response.is_correct: False, num_tokens: 2853, valid_response_length: 459delta_score: -0.3839999999999999, reward_response.is_correct: False, num_tokens: 2432, valid_response_length: 1152
+delta_score: -0.2567999999999999, reward_response.is_correct: False, num_tokens: 1312, valid_response_length: 456delta_score: -0.9087, reward_response.is_correct: False, num_tokens: 3689, valid_response_length: 660delta_score: -0.4847999999999999, reward_response.is_correct: False, num_tokens: 2411, valid_response_length: 795delta_score: -0.1713, reward_response.is_correct: False, num_tokens: 1312, valid_response_length: 741delta_score: -1.0397999999999998, reward_response.is_correct: False, num_tokens: 3927, valid_response_length: 461delta_score: -0.46740000000000004, reward_response.is_correct: False, num_tokens: 2411, valid_response_length: 853
+delta_score: -0.5838, reward_response.is_correct: False, num_tokens: 2853, valid_response_length: 907
+delta_score: -0.4272, reward_response.is_correct: False, num_tokens: 2432, valid_response_length: 1008
+delta_score: -0.6611999999999999, reward_response.is_correct: False, num_tokens: 2826, valid_response_length: 622delta_score: -0.6809999999999999, reward_response.is_correct: False, num_tokens: 2853, valid_response_length: 583
+
+delta_score: -0.5415, reward_response.is_correct: False, num_tokens: 2411, valid_response_length: 606delta_score: -0.2768999999999999, reward_response.is_correct: False, num_tokens: 1312, valid_response_length: 389
+
+
+
+
+
+
+
+
+
+
+
+
+reward_tensor's shape : torch.Size([32, 2048])
+step:6 - global_seqlen/min:2127 - global_seqlen/max:6203 - global_seqlen/minmax_diff:4076 - global_seqlen/balanced_min:3403 - global_seqlen/balanced_max:4133 - global_seqlen/mean:3733.25 - actor/entropy:0.117178775370121 - training/rollout_probs_diff_valid:1 - training/rollout_probs_diff_max:0.200966477394104 - training/rollout_probs_diff_mean:0.003806201508268714 - training/rollout_probs_diff_std:0.012102577835321426 - training/rollout_actor_probs_pearson_corr:0.9975254535675049 - actor/kl_loss:0.0003846334875561297 - actor/kl_coef:0.001 - actor/pg_loss:-0.4313802123069763 - actor/pg_clipfrac:0.0 - actor/ppo_kl:0.0 - actor/pg_clipfrac_lower:0.0 - actor/grad_norm:0.86328125 - perf/mfu/actor:0.04831854859936646 - perf/max_memory_allocated_gb:53.087238788604736 - perf/max_memory_reserved_gb:59.525390625 - perf/cpu_memory_used_gb:115.87016677856445 - actor/lr:1e-06 - training/global_step:6 - training/epoch:0 - critic/score/mean:-0.5912437438964844 - critic/score/max:-0.15299999713897705 - critic/score/min:-1.0398000478744507 - critic/rewards/mean:-0.5912437438964844 - critic/rewards/max:-0.15299999713897705 - critic/rewards/min:-1.0398000478744507 - critic/advantages/mean:0.2598882019519806 - critic/advantages/max:1.4624141454696655 - critic/advantages/min:-1.2957943677902222 - critic/returns/mean:0.2598882019519806 - critic/returns/max:1.4624141454696655 - critic/returns/min:-1.2957943677902222 - response_length/mean:784.9375 - response_length/max:2048.0 - response_length/min:303.0 - response_length/clip_ratio:0.0625 - prompt_length/mean:148.375 - prompt_length/max:200.0 - prompt_length/min:106.0 - prompt_length/clip_ratio:0.0 - timing_s/start_profile:3.834255039691925e-05 - timing_s/generate_sequences:5.630420684814453 - timing_s/reshard:3.29182767868042 - timing_s/generation_timing/max:10.499381065368652 - timing_s/generation_timing/min:3.2458770275115967 - timing_s/generation_timing/topk_ratio:0.125 - timing_s/gen:13.818816928192973 - timing_s/reward:0.031933967024087906 - timing_s/old_log_prob:1.5582207757979631 - timing_s/ref:0.41719952039420605 - timing_s/adv:0.0015512984246015549 - timing_s/update_actor:2.809891263023019 - timing_s/step:18.639625443145633 - timing_s/stop_profile:4.2743980884552e-05 - timing_per_token_ms/ref:0.01396904575082723 - timing_per_token_ms/adv:5.194195488520575e-05 - timing_per_token_ms/gen:0.550155941085794 - timing_per_token_ms/update_actor:0.09408328075480543 - perf/total_num_tokens:29866 - perf/time_per_step:18.639625443145633 - perf/throughput:200.28567695134836
+delta_score: -0.0011999999999999789, reward_response.is_correct: False, num_tokens: 528, valid_response_length: 524delta_score: -0.9566999999999999, reward_response.is_correct: False, num_tokens: 3904, valid_response_length: 715
+delta_score: -0.9239999999999999, reward_response.is_correct: False, num_tokens: 3473, valid_response_length: 393
+delta_score: -0.8987999999999999, reward_response.is_correct: False, num_tokens: 3473, valid_response_length: 477
+delta_score: -0.19709999999999994, reward_response.is_correct: False, num_tokens: 175, valid_response_length: 832
+delta_score: -0.020399999999999974, reward_response.is_correct: False, num_tokens: 325, valid_response_length: 393delta_score: -0.043200000000000016, reward_response.is_correct: False, num_tokens: 386, valid_response_length: 530delta_score: -0.21509999999999996, reward_response.is_correct: False, num_tokens: 175, valid_response_length: 892delta_score: -0.02070000000000005, reward_response.is_correct: False, num_tokens: 386, valid_response_length: 455
+delta_score: -0.0014999999999999458, reward_response.is_correct: False, num_tokens: 386, valid_response_length: 381
+delta_score: -0.9036, reward_response.is_correct: False, num_tokens: 3473, valid_response_length: 461delta_score: -0.0032999999999999696, reward_response.is_correct: False, num_tokens: 386, valid_response_length: 397delta_score: -0.06359999999999999, reward_response.is_correct: False, num_tokens: 528, valid_response_length: 316delta_score: -0.05789999999999995, reward_response.is_correct: False, num_tokens: 325, valid_response_length: 518
+
+delta_score: -0.5142, reward_response.is_correct: False, num_tokens: 2525, valid_response_length: 811delta_score: -0.4262999999999999, reward_response.is_correct: False, num_tokens: 2525, valid_response_length: 1104
+delta_score: -0.01980000000000004, reward_response.is_correct: False, num_tokens: 528, valid_response_length: 462
+delta_score: -0.006000000000000005, reward_response.is_correct: False, num_tokens: 530, valid_response_length: 550delta_score: -0.027900000000000036, reward_response.is_correct: False, num_tokens: 530, valid_response_length: 623
+delta_score: -0.014399999999999968, reward_response.is_correct: False, num_tokens: 528, valid_response_length: 576
+
+delta_score: -0.9797999999999999, reward_response.is_correct: False, num_tokens: 3904, valid_response_length: 638delta_score: -0.07620000000000005, reward_response.is_correct: False, num_tokens: 325, valid_response_length: 579delta_score: -0.016800000000000037, reward_response.is_correct: False, num_tokens: 530, valid_response_length: 474delta_score: -1.0503, reward_response.is_correct: False, num_tokens: 3904, valid_response_length: 403delta_score: -0.005099999999999993, reward_response.is_correct: False, num_tokens: 530, valid_response_length: 513
+delta_score: -0.08040000000000003, reward_response.is_correct: False, num_tokens: 325, valid_response_length: 593delta_score: -0.1965, reward_response.is_correct: False, num_tokens: 175, valid_response_length: 830delta_score: -0.9911999999999999, reward_response.is_correct: False, num_tokens: 3904, valid_response_length: 600
+
+delta_score: -0.49229999999999996, reward_response.is_correct: False, num_tokens: 2525, valid_response_length: 884
+delta_score: -0.2955, reward_response.is_correct: False, num_tokens: 175, valid_response_length: 1160delta_score: -0.5094, reward_response.is_correct: False, num_tokens: 2525, valid_response_length: 827
+
+
+
+
+delta_score: -0.9938999999999999, reward_response.is_correct: False, num_tokens: 3473, valid_response_length: 160
+
+
+
+
+
+
+
+
+
+reward_tensor's shape : torch.Size([32, 2048])
+step:7 - global_seqlen/min:2199 - global_seqlen/max:4234 - global_seqlen/minmax_diff:2035 - global_seqlen/balanced_min:3011 - global_seqlen/balanced_max:3046 - global_seqlen/mean:3032.375 - actor/entropy:0.14413577318191528 - training/rollout_probs_diff_valid:1 - training/rollout_probs_diff_max:0.22487810254096985 - training/rollout_probs_diff_mean:0.004586698021739721 - training/rollout_probs_diff_std:0.012967413291335106 - training/rollout_actor_probs_pearson_corr:0.9975627660751343 - actor/kl_loss:0.0005859407829120755 - actor/kl_coef:0.001 - actor/pg_loss:-0.6898157596588135 - actor/pg_clipfrac:0.0 - actor/ppo_kl:0.0 - actor/pg_clipfrac_lower:0.0 - actor/grad_norm:0.9609375 - perf/mfu/actor:0.038064029000330346 - perf/max_memory_allocated_gb:53.087238788604736 - perf/max_memory_reserved_gb:59.525390625 - perf/cpu_memory_used_gb:115.89109802246094 - actor/lr:1e-06 - training/global_step:7 - training/epoch:0 - critic/score/mean:-0.3438469171524048 - critic/score/max:-0.0012000000569969416 - critic/score/min:-1.0503000020980835 - critic/rewards/mean:-0.3438469171524048 - critic/rewards/max:-0.0012000000569969416 - critic/rewards/min:-1.0503000020980835 - critic/advantages/mean:0.026186440140008926 - critic/advantages/max:1.4592218399047852 - critic/advantages/min:-1.4745705127716064 - critic/returns/mean:0.026186440140008926 - critic/returns/max:1.4592218399047852 - critic/returns/min:-1.4745705127716064 - response_length/mean:595.96875 - response_length/max:1160.0 - response_length/min:160.0 - response_length/clip_ratio:0.0 - prompt_length/mean:162.125 - prompt_length/max:317.0 - prompt_length/min:120.0 - prompt_length/clip_ratio:0.0 - timing_s/start_profile:3.8271769881248474e-05 - timing_s/generate_sequences:3.816685438156128 - timing_s/reshard:2.9682536125183105 - timing_s/generation_timing/max:6.427637577056885 - timing_s/generation_timing/min:2.476792335510254 - timing_s/generation_timing/topk_ratio:0.125 - timing_s/gen:9.42642192170024 - timing_s/reward:0.02881901152431965 - timing_s/old_log_prob:1.2613950837403536 - timing_s/ref:0.17365443892776966 - timing_s/adv:0.0015202872455120087 - timing_s/update_actor:2.849285988137126 - timing_s/step:13.743046749383211 - timing_s/stop_profile:5.8595091104507446e-05 - timing_per_token_ms/ref:0.007158351083217348 - timing_per_token_ms/adv:6.266899894933875e-05 - timing_per_token_ms/gen:0.4942804216716606 - timing_per_token_ms/update_actor:0.11745273870056994 - perf/total_num_tokens:24259 - perf/time_per_step:13.743046749383211 - perf/throughput:220.64794330530043
+delta_score: -0.9875999999999999, reward_response.is_correct: False, num_tokens: 3958, valid_response_length: 666delta_score: -0.04590000000000005, reward_response.is_correct: False, num_tokens: 2201, valid_response_length: 2048delta_score: -0.5048999999999999, reward_response.is_correct: False, num_tokens: 2200, valid_response_length: 517delta_score: -0.31109999999999993, reward_response.is_correct: False, num_tokens: 1310, valid_response_length: 273
+
+delta_score: -1.0214999999999999, reward_response.is_correct: False, num_tokens: 3958, valid_response_length: 553
+delta_score: -0.8306999999999999, reward_response.is_correct: False, num_tokens: 3474, valid_response_length: 705
+delta_score: -0.9237, reward_response.is_correct: False, num_tokens: 3474, valid_response_length: 395delta_score: -0.3258, reward_response.is_correct: False, num_tokens: 3134, valid_response_length: 2048delta_score: -0.3258, reward_response.is_correct: False, num_tokens: 3134, valid_response_length: 2048delta_score: -0.1614, reward_response.is_correct: False, num_tokens: 1310, valid_response_length: 772delta_score: -1.0143, reward_response.is_correct: False, num_tokens: 3958, valid_response_length: 577delta_score: -0.6444, reward_response.is_correct: False, num_tokens: 2860, valid_response_length: 712delta_score: -0.2661, reward_response.is_correct: False, num_tokens: 2201, valid_response_length: 1314delta_score: -0.7253999999999999, reward_response.is_correct: False, num_tokens: 2860, valid_response_length: 442delta_score: -0.4847999999999999, reward_response.is_correct: False, num_tokens: 2200, valid_response_length: 584
+
+
+delta_score: -0.9728999999999999, reward_response.is_correct: False, num_tokens: 3958, valid_response_length: 715delta_score: -0.8795999999999999, reward_response.is_correct: False, num_tokens: 3331, valid_response_length: 399delta_score: -0.35819999999999996, reward_response.is_correct: False, num_tokens: 2201, valid_response_length: 1007delta_score: -0.8684999999999999, reward_response.is_correct: False, num_tokens: 3331, valid_response_length: 436delta_score: -0.8481, reward_response.is_correct: False, num_tokens: 3331, valid_response_length: 504
+delta_score: -0.24209999999999998, reward_response.is_correct: False, num_tokens: 1310, valid_response_length: 503delta_score: -0.8442, reward_response.is_correct: False, num_tokens: 3331, valid_response_length: 517delta_score: -0.6654, reward_response.is_correct: False, num_tokens: 2860, valid_response_length: 642delta_score: -0.9050999999999999, reward_response.is_correct: False, num_tokens: 3474, valid_response_length: 457
+
+delta_score: -0.4962, reward_response.is_correct: False, num_tokens: 2200, valid_response_length: 546
+
+delta_score: -0.47819999999999996, reward_response.is_correct: False, num_tokens: 2200, valid_response_length: 606delta_score: -0.6093, reward_response.is_correct: False, num_tokens: 2860, valid_response_length: 829
+
+
+
+delta_score: -0.8366999999999999, reward_response.is_correct: False, num_tokens: 3474, valid_response_length: 685delta_score: -0.41579999999999995, reward_response.is_correct: False, num_tokens: 2201, valid_response_length: 815delta_score: -0.6125999999999999, reward_response.is_correct: False, num_tokens: 3134, valid_response_length: 1092
+
+
+
+
+delta_score: -0.6516, reward_response.is_correct: False, num_tokens: 3134, valid_response_length: 962
+
+
+
+delta_score: -0.17820000000000003, reward_response.is_correct: False, num_tokens: 1310, valid_response_length: 716
+
+
+
+
+
+
+reward_tensor's shape : torch.Size([32, 2048])
+step:8 - global_seqlen/min:2308 - global_seqlen/max:6586 - global_seqlen/minmax_diff:4278 - global_seqlen/balanced_min:3316 - global_seqlen/balanced_max:4115 - global_seqlen/mean:3653.125 - actor/entropy:0.09058117121458054 - training/rollout_probs_diff_valid:1 - training/rollout_probs_diff_max:0.13575106859207153 - training/rollout_probs_diff_mean:0.0029061362147331238 - training/rollout_probs_diff_std:0.010475637391209602 - training/rollout_actor_probs_pearson_corr:0.9976674318313599 - actor/kl_loss:0.00026386487297713757 - actor/kl_coef:0.001 - actor/pg_loss:-0.6341017484664917 - actor/pg_clipfrac:0.0 - actor/ppo_kl:0.0 - actor/pg_clipfrac_lower:0.0 - actor/grad_norm:0.61328125 - perf/mfu/actor:0.03939875330196783 - perf/max_memory_allocated_gb:53.087238788604736 - perf/max_memory_reserved_gb:59.525390625 - perf/cpu_memory_used_gb:115.91820526123047 - actor/lr:1e-06 - training/global_step:8 - training/epoch:0 - critic/score/mean:-0.6073781251907349 - critic/score/max:-0.045899998396635056 - critic/score/min:-1.0214999914169312 - critic/rewards/mean:-0.6073781251907349 - critic/rewards/max:-0.045899998396635056 - critic/rewards/min:-1.0214999914169312 - critic/advantages/mean:0.22149524092674255 - critic/advantages/max:1.3879035711288452 - critic/advantages/min:-1.319783329963684 - critic/returns/mean:0.22149524092674255 - critic/returns/max:1.3879035711288452 - critic/returns/min:-1.319783329963684 - response_length/mean:783.90625 - response_length/max:2048.0 - response_length/min:273.0 - response_length/clip_ratio:0.09375 - prompt_length/mean:129.375 - prompt_length/max:204.0 - prompt_length/min:95.0 - prompt_length/clip_ratio:0.0 - timing_s/start_profile:6.760284304618835e-05 - timing_s/generate_sequences:5.4052510261535645 - timing_s/reshard:3.48470401763916 - timing_s/generation_timing/max:11.009286880493164 - timing_s/generation_timing/min:2.6816554069519043 - timing_s/generation_timing/topk_ratio:0.125 - timing_s/gen:14.536548655480146 - timing_s/reward:0.031533220782876015 - timing_s/old_log_prob:1.002098498865962 - timing_s/ref:0.24119416810572147 - timing_s/adv:0.0023206621408462524 - timing_s/update_actor:3.3655848801136017 - timing_s/step:19.18123024329543 - timing_s/stop_profile:4.6234577894210815e-05 - timing_per_token_ms/ref:0.008253008318416475 - timing_per_token_ms/adv:7.940674562348169e-05 - timing_per_token_ms/gen:0.5794916745258181 - timing_per_token_ms/update_actor:0.11516115928532426 - perf/total_num_tokens:29225 - perf/time_per_step:19.18123024329543 - perf/throughput:190.45311242624314
+delta_score: -0.35129999999999995, reward_response.is_correct: False, num_tokens: 1623, valid_response_length: 452delta_score: -1.0026, reward_response.is_correct: False, num_tokens: 3524, valid_response_length: 182delta_score: -0.5094, reward_response.is_correct: False, num_tokens: 2003, valid_response_length: 305delta_score: -0.3399, reward_response.is_correct: False, num_tokens: 2236, valid_response_length: 1103
+delta_score: -0.4554, reward_response.is_correct: False, num_tokens: 2118, valid_response_length: 600
+delta_score: -0.16649999999999998, reward_response.is_correct: False, num_tokens: 684, valid_response_length: 129delta_score: -0.3015, reward_response.is_correct: False, num_tokens: 2236, valid_response_length: 1231delta_score: -0.6158999999999999, reward_response.is_correct: False, num_tokens: 2615, valid_response_length: 562
+delta_score: -0.30810000000000004, reward_response.is_correct: False, num_tokens: 1623, valid_response_length: 596delta_score: -0.2793, reward_response.is_correct: False, num_tokens: 1623, valid_response_length: 692
+
+
+
+delta_score: -0.9785999999999999, reward_response.is_correct: False, num_tokens: 3524, valid_response_length: 262delta_score: -0.6620999999999999, reward_response.is_correct: False, num_tokens: 2615, valid_response_length: 408delta_score: -0.3413999999999999, reward_response.is_correct: False, num_tokens: 2003, valid_response_length: 865delta_score: -0.12990000000000002, reward_response.is_correct: False, num_tokens: 684, valid_response_length: 251
+delta_score: -0.41969999999999996, reward_response.is_correct: False, num_tokens: 2236, valid_response_length: 837delta_score: -0.3984, reward_response.is_correct: False, num_tokens: 2003, valid_response_length: 675delta_score: -0.33929999999999993, reward_response.is_correct: False, num_tokens: 1623, valid_response_length: 492
+
+
+delta_score: -0.4014, reward_response.is_correct: False, num_tokens: 2118, valid_response_length: 780
+delta_score: -0.42510000000000003, reward_response.is_correct: False, num_tokens: 2236, valid_response_length: 819delta_score: -0.9818999999999999, reward_response.is_correct: False, num_tokens: 3524, valid_response_length: 251delta_score: -0.047699999999999965, reward_response.is_correct: False, num_tokens: 863, valid_response_length: 704delta_score: -0.3339, reward_response.is_correct: False, num_tokens: 2118, valid_response_length: 1005delta_score: -0.08999999999999997, reward_response.is_correct: False, num_tokens: 863, valid_response_length: 563delta_score: -0.44699999999999995, reward_response.is_correct: False, num_tokens: 2615, valid_response_length: 1125delta_score: -0.1431, reward_response.is_correct: False, num_tokens: 863, valid_response_length: 386delta_score: -0.9845999999999999, reward_response.is_correct: False, num_tokens: 3524, valid_response_length: 242
+
+
+
+
+
+delta_score: -0.5942999999999999, reward_response.is_correct: False, num_tokens: 2615, valid_response_length: 634delta_score: -0.49319999999999997, reward_response.is_correct: False, num_tokens: 2003, valid_response_length: 359delta_score: -0.14670000000000005, reward_response.is_correct: False, num_tokens: 684, valid_response_length: 195
+
+
+
+
+
+
+
+delta_score: -0.10980000000000001, reward_response.is_correct: False, num_tokens: 863, valid_response_length: 497
+delta_score: -0.14789999999999992, reward_response.is_correct: False, num_tokens: 684, valid_response_length: 191delta_score: -0.3438, reward_response.is_correct: False, num_tokens: 2118, valid_response_length: 972
+
+
+
+
+reward_tensor's shape : torch.Size([32, 2048])
+step:9 - global_seqlen/min:1054 - global_seqlen/max:4938 - global_seqlen/minmax_diff:3884 - global_seqlen/balanced_min:2764 - global_seqlen/balanced_max:2846 - global_seqlen/mean:2809.125 - actor/entropy:0.11618320643901825 - training/rollout_probs_diff_valid:1 - training/rollout_probs_diff_max:0.17628958821296692 - training/rollout_probs_diff_mean:0.0039210510440170765 - training/rollout_probs_diff_std:0.012376372702419758 - training/rollout_actor_probs_pearson_corr:0.9974703192710876 - actor/kl_loss:0.0005280841141939163 - actor/kl_coef:0.001 - actor/pg_loss:0.15372900664806366 - actor/pg_clipfrac:0.0 - actor/ppo_kl:0.0 - actor/pg_clipfrac_lower:0.0 - actor/grad_norm:0.96875 - perf/mfu/actor:0.0358786127878857 - perf/max_memory_allocated_gb:53.087238788604736 - perf/max_memory_reserved_gb:59.525390625 - perf/cpu_memory_used_gb:115.92276382446289 - actor/lr:1e-06 - training/global_step:9 - training/epoch:0 - critic/score/mean:-0.41530317068099976 - critic/score/max:-0.04769999906420708 - critic/score/min:-1.0025999546051025 - critic/rewards/mean:-0.41530317068099976 - critic/rewards/max:-0.04769999906420708 - critic/rewards/min:-1.0025999546051025 - critic/advantages/mean:0.2111051380634308 - critic/advantages/max:1.4288825988769531 - critic/advantages/min:-1.4601519107818604 - critic/returns/mean:0.2111051380634308 - critic/returns/max:1.4288825988769531 - critic/returns/min:-1.4601519107818604 - response_length/mean:573.90625 - response_length/max:1231.0 - response_length/min:129.0 - response_length/clip_ratio:0.0 - prompt_length/mean:128.375 - prompt_length/max:237.0 - prompt_length/min:72.0 - prompt_length/clip_ratio:0.0 - timing_s/start_profile:7.109716534614563e-05 - timing_s/generate_sequences:3.9827311038970947 - timing_s/reshard:3.073681116104126 - timing_s/generation_timing/max:6.505275726318359 - timing_s/generation_timing/min:1.2554682493209839 - timing_s/generation_timing/topk_ratio:0.125 - timing_s/gen:9.607340358197689 - timing_s/reward:0.02926710620522499 - timing_s/old_log_prob:1.3669521398842335 - timing_s/ref:0.16112405993044376 - timing_s/adv:0.0015333499759435654 - timing_s/update_actor:2.8097757790237665 - timing_s/step:13.977908730506897 - timing_s/stop_profile:4.686042666435242e-05 - timing_per_token_ms/ref:0.007169672937767266 - timing_per_token_ms/adv:6.82307647373989e-05 - timing_per_token_ms/gen:0.5231331531825586 - timing_per_token_ms/update_actor:0.1250289582620819 - perf/total_num_tokens:22473 - perf/time_per_step:13.977908730506897 - perf/throughput:200.96890415867878
+delta_score: -0.31679999999999997, reward_response.is_correct: False, num_tokens: 1326, valid_response_length: 270
+delta_score: -0.4053, reward_response.is_correct: False, num_tokens: 1844, valid_response_length: 493
+delta_score: -0.47309999999999997, reward_response.is_correct: False, num_tokens: 3625, valid_response_length: 2048delta_score: -0.33240000000000003, reward_response.is_correct: False, num_tokens: 1326, valid_response_length: 218delta_score: -0.35519999999999996, reward_response.is_correct: False, num_tokens: 1326, valid_response_length: 142delta_score: -0.14100000000000001, reward_response.is_correct: False, num_tokens: 2084, valid_response_length: 1614
+
+delta_score: -0.5783999999999999, reward_response.is_correct: False, num_tokens: 2191, valid_response_length: 263delta_score: -0.405, reward_response.is_correct: False, num_tokens: 1844, valid_response_length: 494
+delta_score: -0.06420000000000003, reward_response.is_correct: False, num_tokens: 270, valid_response_length: 484delta_score: -0.7764, reward_response.is_correct: False, num_tokens: 3625, valid_response_length: 1037delta_score: -0.6728999999999999, reward_response.is_correct: False, num_tokens: 2576, valid_response_length: 333
+delta_score: -0.5958, reward_response.is_correct: False, num_tokens: 2191, valid_response_length: 205delta_score: -0.5732999999999999, reward_response.is_correct: False, num_tokens: 2191, valid_response_length: 280delta_score: -0.3963, reward_response.is_correct: False, num_tokens: 1844, valid_response_length: 523
+delta_score: -0.8579999999999999, reward_response.is_correct: False, num_tokens: 3625, valid_response_length: 765delta_score: -0.3066, reward_response.is_correct: False, num_tokens: 2084, valid_response_length: 1062delta_score: -0.5283, reward_response.is_correct: False, num_tokens: 2144, valid_response_length: 383
+delta_score: -0.32999999999999996, reward_response.is_correct: False, num_tokens: 1326, valid_response_length: 226
+delta_score: -0.07079999999999997, reward_response.is_correct: False, num_tokens: 270, valid_response_length: 506
+
+delta_score: -0.7029, reward_response.is_correct: False, num_tokens: 2576, valid_response_length: 233
+
+
+delta_score: -0.4625999999999999, reward_response.is_correct: False, num_tokens: 2144, valid_response_length: 602
+
+delta_score: -0.9561, reward_response.is_correct: False, num_tokens: 3625, valid_response_length: 438delta_score: -0.711, reward_response.is_correct: False, num_tokens: 2576, valid_response_length: 206
+
+delta_score: -0.0474, reward_response.is_correct: False, num_tokens: 270, valid_response_length: 428delta_score: -0.3627, reward_response.is_correct: False, num_tokens: 1844, valid_response_length: 635
+delta_score: -0.0756, reward_response.is_correct: False, num_tokens: 270, valid_response_length: 522delta_score: -0.7004999999999999, reward_response.is_correct: False, num_tokens: 2576, valid_response_length: 241
+
+
+delta_score: -0.42899999999999994, reward_response.is_correct: False, num_tokens: 2084, valid_response_length: 654delta_score: -0.5055, reward_response.is_correct: False, num_tokens: 2084, valid_response_length: 399delta_score: -0.5843999999999999, reward_response.is_correct: False, num_tokens: 2191, valid_response_length: 243
+
+delta_score: -0.4928999999999999, reward_response.is_correct: False, num_tokens: 2144, valid_response_length: 501
+
+
+delta_score: -0.4437, reward_response.is_correct: False, num_tokens: 2144, valid_response_length: 665
+
+
+
+
+reward_tensor's shape : torch.Size([32, 2048])
+step:10 - global_seqlen/min:1156 - global_seqlen/max:4704 - global_seqlen/minmax_diff:3548 - global_seqlen/balanced_min:2257 - global_seqlen/balanced_max:3281 - global_seqlen/mean:2531.125 - actor/entropy:0.08682270348072052 - training/rollout_probs_diff_valid:1 - training/rollout_probs_diff_max:0.17487391829490662 - training/rollout_probs_diff_mean:0.003099884605035186 - training/rollout_probs_diff_std:0.011060116812586784 - training/rollout_actor_probs_pearson_corr:0.9973031282424927 - actor/kl_loss:0.0003276003699284047 - actor/kl_coef:0.001 - actor/pg_loss:-0.8975002765655518 - actor/pg_clipfrac:0.0 - actor/ppo_kl:0.0 - actor/pg_clipfrac_lower:0.0 - actor/grad_norm:0.796875 - perf/mfu/actor:0.03244159204419085 - perf/max_memory_allocated_gb:53.087238788604736 - perf/max_memory_reserved_gb:59.525390625 - perf/cpu_memory_used_gb:115.93143081665039 - actor/lr:1e-06 - training/global_step:10 - training/epoch:0 - critic/score/mean:-0.45794060826301575 - critic/score/max:-0.04740000143647194 - critic/score/min:-0.9560999870300293 - critic/rewards/mean:-0.45794060826301575 - critic/rewards/max:-0.04740000143647194 - critic/rewards/min:-0.9560999870300293 - critic/advantages/mean:0.265696257352829 - critic/advantages/max:1.467513918876648 - critic/advantages/min:-1.3541526794433594 - critic/returns/mean:0.265696257352829 - critic/returns/max:1.467513918876648 - critic/returns/min:-1.3541526794433594 - response_length/mean:534.78125 - response_length/max:2048.0 - response_length/min:142.0 - response_length/clip_ratio:0.03125 - prompt_length/mean:98.0 - prompt_length/max:120.0 - prompt_length/min:74.0 - prompt_length/clip_ratio:0.0 - timing_s/start_profile:3.63178551197052e-05 - timing_s/generate_sequences:4.164884567260742 - timing_s/reshard:3.714370012283325 - timing_s/generation_timing/max:10.903910636901855 - timing_s/generation_timing/min:1.3731499910354614 - timing_s/generation_timing/topk_ratio:0.125 - timing_s/gen:14.657667513936758 - timing_s/reward:0.028965884819626808 - timing_s/old_log_prob:1.4932218957692385 - timing_s/ref:0.43613941967487335 - timing_s/adv:0.0016388073563575745 - timing_s/update_actor:2.8021045215427876 - timing_s/step:19.42165852151811 - timing_s/stop_profile:4.735216498374939e-05 - timing_per_token_ms/ref:0.021538812764821638 - timing_per_token_ms/adv:8.09327550179058e-05 - timing_per_token_ms/gen:0.8565223814606883 - timing_per_token_ms/update_actor:0.1383823656251068 - perf/total_num_tokens:20249 - perf/time_per_step:19.42165852151811 - perf/throughput:130.3248637182893
+delta_score: -0.29069999999999996, reward_response.is_correct: False, num_tokens: 1442, valid_response_length: 473
+delta_score: -0.6158999999999999, reward_response.is_correct: False, num_tokens: 2370, valid_response_length: 317delta_score: -0.7454999999999999, reward_response.is_correct: False, num_tokens: 3838, valid_response_length: 1353delta_score: -0.5082, reward_response.is_correct: False, num_tokens: 2275, valid_response_length: 581
+
+
+delta_score: -0.23129999999999995, reward_response.is_correct: False, num_tokens: 1230, valid_response_length: 459delta_score: -0.3177, reward_response.is_correct: False, num_tokens: 1666, valid_response_length: 607delta_score: -0.5706, reward_response.is_correct: False, num_tokens: 2262, valid_response_length: 360delta_score: -0.5766, reward_response.is_correct: False, num_tokens: 3070, valid_response_length: 1148delta_score: -0.5424, reward_response.is_correct: False, num_tokens: 2275, valid_response_length: 467delta_score: -0.8513999999999999, reward_response.is_correct: False, num_tokens: 3838, valid_response_length: 1000
+delta_score: -0.22319999999999995, reward_response.is_correct: False, num_tokens: 1442, valid_response_length: 698delta_score: -0.5258999999999999, reward_response.is_correct: False, num_tokens: 2275, valid_response_length: 522delta_score: -1.0875, reward_response.is_correct: False, num_tokens: 3838, valid_response_length: 213delta_score: -0.7304999999999999, reward_response.is_correct: False, num_tokens: 3070, valid_response_length: 635delta_score: -0.5697, reward_response.is_correct: False, num_tokens: 2262, valid_response_length: 363
+delta_score: -0.9323999999999999, reward_response.is_correct: False, num_tokens: 3838, valid_response_length: 730delta_score: -0.3084, reward_response.is_correct: False, num_tokens: 1666, valid_response_length: 638
+
+delta_score: -0.11699999999999999, reward_response.is_correct: False, num_tokens: 1230, valid_response_length: 840delta_score: -0.5367, reward_response.is_correct: False, num_tokens: 2370, valid_response_length: 581
+
+
+delta_score: -0.10499999999999998, reward_response.is_correct: False, num_tokens: 1230, valid_response_length: 880delta_score: -0.5621999999999999, reward_response.is_correct: False, num_tokens: 2262, valid_response_length: 388delta_score: -0.25229999999999997, reward_response.is_correct: False, num_tokens: 1666, valid_response_length: 825
+
+delta_score: -0.5766, reward_response.is_correct: False, num_tokens: 2275, valid_response_length: 353
+delta_score: -0.6042, reward_response.is_correct: False, num_tokens: 2370, valid_response_length: 356delta_score: -0.26339999999999997, reward_response.is_correct: False, num_tokens: 1442, valid_response_length: 564delta_score: -0.26580000000000004, reward_response.is_correct: False, num_tokens: 1442, valid_response_length: 556
+delta_score: -0.6911999999999999, reward_response.is_correct: False, num_tokens: 3070, valid_response_length: 766delta_score: -0.44730000000000003, reward_response.is_correct: False, num_tokens: 2370, valid_response_length: 879delta_score: -0.5688, reward_response.is_correct: False, num_tokens: 2262, valid_response_length: 366
+
+delta_score: -0.17189999999999994, reward_response.is_correct: False, num_tokens: 1230, valid_response_length: 657
+delta_score: -0.7508999999999999, reward_response.is_correct: False, num_tokens: 3070, valid_response_length: 567
+
+
+
+
+
+
+delta_score: -0.3131999999999999, reward_response.is_correct: False, num_tokens: 1666, valid_response_length: 622
+
+
+
+
+
+
+reward_tensor's shape : torch.Size([32, 2048])
+step:11 - global_seqlen/min:1761 - global_seqlen/max:4440 - global_seqlen/minmax_diff:2679 - global_seqlen/balanced_min:2920 - global_seqlen/balanced_max:3358 - global_seqlen/mean:3019.5 - actor/entropy:0.1049717366695404 - training/rollout_probs_diff_valid:1 - training/rollout_probs_diff_max:0.17391753196716309 - training/rollout_probs_diff_mean:0.0036951175425201654 - training/rollout_probs_diff_std:0.012350913137197495 - training/rollout_actor_probs_pearson_corr:0.9971592426300049 - actor/kl_loss:0.0006896447157487273 - actor/kl_coef:0.001 - actor/pg_loss:-0.4834614396095276 - actor/pg_clipfrac:0.0 - actor/ppo_kl:0.0 - actor/pg_clipfrac_lower:0.0 - actor/grad_norm:0.921875 - perf/mfu/actor:0.045827263955478745 - perf/max_memory_allocated_gb:53.087238788604736 - perf/max_memory_reserved_gb:59.525390625 - perf/cpu_memory_used_gb:115.94921493530273 - actor/lr:1e-06 - training/global_step:11 - training/epoch:0 - critic/score/mean:-0.4954499900341034 - critic/score/max:-0.10499999672174454 - critic/score/min:-1.087499976158142 - critic/rewards/mean:-0.4954499900341034 - critic/rewards/max:-0.10499999672174454 - critic/rewards/min:-1.087499976158142 - critic/advantages/mean:0.22710518538951874 - critic/advantages/max:1.4883837699890137 - critic/advantages/min:-1.3161784410476685 - critic/returns/mean:0.22710518538951874 - critic/returns/max:1.4883837699890137 - critic/returns/min:-1.3161784410476685 - response_length/mean:617.625 - response_length/max:1353.0 - response_length/min:213.0 - response_length/clip_ratio:0.0 - prompt_length/mean:137.25 - prompt_length/max:286.0 - prompt_length/min:71.0 - prompt_length/clip_ratio:0.0 - timing_s/start_profile:3.6248937249183655e-05 - timing_s/generate_sequences:4.390927314758301 - timing_s/reshard:2.9035797119140625 - timing_s/generation_timing/max:7.053630352020264 - timing_s/generation_timing/min:1.9918086528778076 - timing_s/generation_timing/topk_ratio:0.125 - timing_s/gen:10.003093736246228 - timing_s/reward:0.02974621206521988 - timing_s/old_log_prob:1.3427567519247532 - timing_s/ref:0.41431256383657455 - timing_s/adv:0.0015104413032531738 - timing_s/update_actor:2.364993244409561 - timing_s/step:14.1582994107157 - timing_s/stop_profile:7.34720379114151e-05 - timing_per_token_ms/ref:0.017151538492986194 - timing_per_token_ms/adv:6.252861828337364e-05 - timing_per_token_ms/gen:0.5061269852381213 - timing_per_token_ms/update_actor:0.09790500266640012 - perf/total_num_tokens:24156 - perf/time_per_step:14.1582994107157 - perf/throughput:213.26713840467968
+delta_score: -0.14670000000000005, reward_response.is_correct: False, num_tokens: 1605, valid_response_length: 1116delta_score: -0.3878999999999999, reward_response.is_correct: False, num_tokens: 1594, valid_response_length: 301delta_score: -0.13860000000000006, reward_response.is_correct: False, num_tokens: 928, valid_response_length: 466
+delta_score: -0.5073, reward_response.is_correct: False, num_tokens: 1910, valid_response_length: 219delta_score: -0.19169999999999998, reward_response.is_correct: False, num_tokens: 1124, valid_response_length: 485
+delta_score: -0.8060999999999999, reward_response.is_correct: False, num_tokens: 3517, valid_response_length: 830delta_score: -0.4970999999999999, reward_response.is_correct: False, num_tokens: 1910, valid_response_length: 253
+
+delta_score: -0.24449999999999994, reward_response.is_correct: False, num_tokens: 1124, valid_response_length: 309
+delta_score: -0.2499, reward_response.is_correct: False, num_tokens: 1605, valid_response_length: 772
+
+
+
+delta_score: -0.20429999999999993, reward_response.is_correct: False, num_tokens: 928, valid_response_length: 247delta_score: -0.9188999999999999, reward_response.is_correct: False, num_tokens: 3517, valid_response_length: 454delta_score: -0.18179999999999996, reward_response.is_correct: False, num_tokens: 928, valid_response_length: 322delta_score: -0.9383999999999999, reward_response.is_correct: False, num_tokens: 3517, valid_response_length: 389delta_score: -0.9059999999999999, reward_response.is_correct: False, num_tokens: 3517, valid_response_length: 497delta_score: -0.3216, reward_response.is_correct: False, num_tokens: 1605, valid_response_length: 533delta_score: -0.3758999999999999, reward_response.is_correct: False, num_tokens: 1594, valid_response_length: 341
+
+delta_score: -0.47639999999999993, reward_response.is_correct: False, num_tokens: 1910, valid_response_length: 322
+delta_score: -0.40049999999999997, reward_response.is_correct: False, num_tokens: 1594, valid_response_length: 259delta_score: -0.44999999999999996, reward_response.is_correct: False, num_tokens: 2192, valid_response_length: 692
+delta_score: -0.6728999999999999, reward_response.is_correct: False, num_tokens: 2658, valid_response_length: 415
+delta_score: -0.3011999999999999, reward_response.is_correct: False, num_tokens: 1605, valid_response_length: 601delta_score: -0.40080000000000005, reward_response.is_correct: False, num_tokens: 1594, valid_response_length: 258delta_score: -0.4839, reward_response.is_correct: False, num_tokens: 2192, valid_response_length: 579
+delta_score: -0.6194999999999999, reward_response.is_correct: False, num_tokens: 2658, valid_response_length: 593delta_score: -0.6458999999999999, reward_response.is_correct: False, num_tokens: 2658, valid_response_length: 505
+
+delta_score: -0.4967999999999999, reward_response.is_correct: False, num_tokens: 2192, valid_response_length: 536
+
+delta_score: -0.4776, reward_response.is_correct: False, num_tokens: 1910, valid_response_length: 318
+delta_score: -0.49049999999999994, reward_response.is_correct: False, num_tokens: 2192, valid_response_length: 557delta_score: -0.6368999999999999, reward_response.is_correct: False, num_tokens: 2658, valid_response_length: 535
+delta_score: -0.1896, reward_response.is_correct: False, num_tokens: 928, valid_response_length: 296
+
+
+
+delta_score: -0.22829999999999995, reward_response.is_correct: False, num_tokens: 1124, valid_response_length: 363delta_score: -0.20520000000000005, reward_response.is_correct: False, num_tokens: 1124, valid_response_length: 440
+
+
+
+
+
+
+reward_tensor's shape : torch.Size([32, 2048])
+step:12 - global_seqlen/min:1372 - global_seqlen/max:3466 - global_seqlen/minmax_diff:2094 - global_seqlen/balanced_min:2179 - global_seqlen/balanced_max:2469 - global_seqlen/mean:2240.375 - actor/entropy:0.16059313714504242 - training/rollout_probs_diff_valid:1 - training/rollout_probs_diff_max:0.1344253420829773 - training/rollout_probs_diff_mean:0.004933271091431379 - training/rollout_probs_diff_std:0.013183431699872017 - training/rollout_actor_probs_pearson_corr:0.9977338910102844 - actor/kl_loss:0.0009545522043481469 - actor/kl_coef:0.001 - actor/pg_loss:-0.9674112796783447 - actor/pg_clipfrac:0.0 - actor/ppo_kl:0.0 - actor/pg_clipfrac_lower:0.0 - actor/grad_norm:1.1796875 - perf/mfu/actor:0.02754093360234881 - perf/max_memory_allocated_gb:53.087238788604736 - perf/max_memory_reserved_gb:59.525390625 - perf/cpu_memory_used_gb:115.95130157470703 - actor/lr:1e-06 - training/global_step:12 - training/epoch:0 - critic/score/mean:-0.4435218572616577 - critic/score/max:-0.13860000669956207 - critic/score/min:-0.9383999705314636 - critic/rewards/mean:-0.4435218572616577 - critic/rewards/max:-0.13860000669956207 - critic/rewards/min:-0.9383999705314636 - critic/advantages/mean:0.17505015432834625 - critic/advantages/max:1.4612871408462524 - critic/advantages/min:-1.3059899806976318 - critic/returns/mean:0.17505015432834625 - critic/returns/max:1.4612871408462524 - critic/returns/min:-1.3059899806976318 - response_length/mean:462.59375 - response_length/max:1116.0 - response_length/min:219.0 - response_length/clip_ratio:0.0 - prompt_length/mean:97.5 - prompt_length/max:139.0 - prompt_length/min:65.0 - prompt_length/clip_ratio:0.0 - timing_s/start_profile:7.305294275283813e-05 - timing_s/generate_sequences:3.1480023860931396 - timing_s/reshard:3.0139904022216797 - timing_s/generation_timing/max:5.806485652923584 - timing_s/generation_timing/min:1.6159262657165527 - timing_s/generation_timing/topk_ratio:0.125 - timing_s/gen:8.858318598940969 - timing_s/reward:0.028284655883908272 - timing_s/old_log_prob:1.0767852440476418 - timing_s/ref:0.2877180278301239 - timing_s/adv:0.0015764422714710236 - timing_s/update_actor:2.8853367399424314 - timing_s/step:13.140268160030246 - timing_s/stop_profile:4.686042666435242e-05 - timing_per_token_ms/ref:0.01605300607209306 - timing_per_token_ms/adv:8.795638405797152e-05 - timing_per_token_ms/gen:0.5984137403864735 - timing_per_token_ms/update_actor:0.1609851442248748 - perf/total_num_tokens:17923 - perf/time_per_step:13.140268160030246 - perf/throughput:170.49690103088759
+delta_score: -0.12660000000000005, reward_response.is_correct: False, num_tokens: 1512, valid_response_length: 1090delta_score: -0.12749999999999995, reward_response.is_correct: False, num_tokens: 1512, valid_response_length: 1087
+
+delta_score: -0.9290999999999999, reward_response.is_correct: False, num_tokens: 3311, valid_response_length: 214delta_score: -0.6437999999999999, reward_response.is_correct: False, num_tokens: 2718, valid_response_length: 572delta_score: -0.237, reward_response.is_correct: False, num_tokens: 1219, valid_response_length: 429
+delta_score: -0.24749999999999994, reward_response.is_correct: False, num_tokens: 727, valid_response_length: 1552delta_score: -1.0601999999999998, reward_response.is_correct: False, num_tokens: 3796, valid_response_length: 262delta_score: -0.6620999999999999, reward_response.is_correct: False, num_tokens: 2718, valid_response_length: 511delta_score: -0.9077999999999999, reward_response.is_correct: False, num_tokens: 3311, valid_response_length: 285
+
+delta_score: -0.049799999999999955, reward_response.is_correct: False, num_tokens: 1512, valid_response_length: 1678
+
+
+
+delta_score: -0.5258999999999999, reward_response.is_correct: False, num_tokens: 2193, valid_response_length: 440delta_score: -0.8966999999999999, reward_response.is_correct: False, num_tokens: 3311, valid_response_length: 322
+delta_score: -1.0548, reward_response.is_correct: False, num_tokens: 3796, valid_response_length: 280delta_score: -1.0577999999999999, reward_response.is_correct: False, num_tokens: 3796, valid_response_length: 270
+delta_score: -0.2793, reward_response.is_correct: False, num_tokens: 727, valid_response_length: 1658delta_score: -0.6410999999999999, reward_response.is_correct: False, num_tokens: 2718, valid_response_length: 581delta_score: -0.22709999999999997, reward_response.is_correct: False, num_tokens: 727, valid_response_length: 1484delta_score: -1.0773, reward_response.is_correct: False, num_tokens: 3796, valid_response_length: 205
+delta_score: -0.6743999999999999, reward_response.is_correct: False, num_tokens: 2787, valid_response_length: 539
+
+delta_score: -0.2328, reward_response.is_correct: False, num_tokens: 1219, valid_response_length: 443delta_score: -0.2562, reward_response.is_correct: False, num_tokens: 1219, valid_response_length: 365delta_score: -0.03479999999999994, reward_response.is_correct: False, num_tokens: 1512, valid_response_length: 1396delta_score: -0.5129999999999999, reward_response.is_correct: False, num_tokens: 2193, valid_response_length: 483delta_score: -0.4656, reward_response.is_correct: False, num_tokens: 2193, valid_response_length: 641delta_score: -0.6932999999999999, reward_response.is_correct: False, num_tokens: 2787, valid_response_length: 476
+delta_score: -0.6188999999999999, reward_response.is_correct: False, num_tokens: 2787, valid_response_length: 724delta_score: -0.25049999999999994, reward_response.is_correct: False, num_tokens: 1219, valid_response_length: 384delta_score: -0.5061, reward_response.is_correct: False, num_tokens: 2787, valid_response_length: 1100
+
+
+delta_score: -0.5006999999999999, reward_response.is_correct: False, num_tokens: 2193, valid_response_length: 524delta_score: -0.6086999999999999, reward_response.is_correct: False, num_tokens: 2718, valid_response_length: 689
+
+
+delta_score: -0.9161999999999999, reward_response.is_correct: False, num_tokens: 3311, valid_response_length: 257
+
+
+
+delta_score: -0.13739999999999997, reward_response.is_correct: False, num_tokens: 727, valid_response_length: 1185
+
+
+
+
+
+
+reward_tensor's shape : torch.Size([32, 2048])
+step:13 - global_seqlen/min:1313 - global_seqlen/max:6851 - global_seqlen/minmax_diff:5538 - global_seqlen/balanced_min:3216 - global_seqlen/balanced_max:3409 - global_seqlen/mean:3357.75 - actor/entropy:0.11887510120868683 - training/rollout_probs_diff_valid:1 - training/rollout_probs_diff_max:0.2127547264099121 - training/rollout_probs_diff_mean:0.00401240075007081 - training/rollout_probs_diff_std:0.01217021606862545 - training/rollout_actor_probs_pearson_corr:0.9974983930587769 - actor/kl_loss:0.00045729262637905777 - actor/kl_coef:0.001 - actor/pg_loss:0.657540500164032 - actor/pg_clipfrac:0.0 - actor/ppo_kl:0.0 - actor/pg_clipfrac_lower:0.0 - actor/grad_norm:0.8671875 - perf/mfu/actor:0.03633873909244267 - perf/max_memory_allocated_gb:53.087238788604736 - perf/max_memory_reserved_gb:59.525390625 - perf/cpu_memory_used_gb:115.96512222290039 - actor/lr:1e-06 - training/global_step:13 - training/epoch:0 - critic/score/mean:-0.5362499952316284 - critic/score/max:-0.03480000048875809 - critic/score/min:-1.077299952507019 - critic/rewards/mean:-0.5362499952316284 - critic/rewards/max:-0.03480000048875809 - critic/rewards/min:-1.077299952507019 - critic/advantages/mean:0.08092527836561203 - critic/advantages/max:1.40347158908844 - critic/advantages/min:-1.4634952545166016 - critic/returns/mean:0.08092527836561203 - critic/returns/max:1.40347158908844 - critic/returns/min:-1.4634952545166016 - response_length/mean:691.4375 - response_length/max:1678.0 - response_length/min:205.0 - response_length/clip_ratio:0.0 - prompt_length/mean:148.0 - prompt_length/max:246.0 - prompt_length/min:74.0 - prompt_length/clip_ratio:0.0 - timing_s/start_profile:5.9645622968673706e-05 - timing_s/generate_sequences:4.46547269821167 - timing_s/reshard:2.985812187194824 - timing_s/generation_timing/max:8.829955101013184 - timing_s/generation_timing/min:1.4581109285354614 - timing_s/generation_timing/topk_ratio:0.125 - timing_s/gen:11.857829878106713 - timing_s/reward:0.031018564477562904 - timing_s/old_log_prob:1.179448688402772 - timing_s/ref:0.16881678067147732 - timing_s/adv:0.0015110000967979431 - timing_s/update_actor:3.3475239854305983 - timing_s/step:16.588162193074822 - timing_s/stop_profile:4.749186336994171e-05 - timing_per_token_ms/ref:0.006284594619591889 - timing_per_token_ms/adv:5.6250468944901464e-05 - timing_per_token_ms/gen:0.5359228906312353 - timing_per_token_ms/update_actor:0.1246193129860248 - perf/total_num_tokens:26862 - perf/time_per_step:16.588162193074822 - perf/throughput:202.4184452091856
+delta_score: -0.5958, reward_response.is_correct: False, num_tokens: 3009, valid_response_length: 1023delta_score: -0.705, reward_response.is_correct: False, num_tokens: 2727, valid_response_length: 377delta_score: -0.15300000000000002, reward_response.is_correct: False, num_tokens: 719, valid_response_length: 209
+delta_score: -0.30779999999999996, reward_response.is_correct: False, num_tokens: 1496, valid_response_length: 470delta_score: -0.6224999999999999, reward_response.is_correct: False, num_tokens: 3009, valid_response_length: 934
+delta_score: -0.15239999999999998, reward_response.is_correct: False, num_tokens: 719, valid_response_length: 211delta_score: -0.5307, reward_response.is_correct: False, num_tokens: 2115, valid_response_length: 346
+delta_score: -1.0313999999999999, reward_response.is_correct: False, num_tokens: 3796, valid_response_length: 358
+delta_score: -0.7256999999999999, reward_response.is_correct: False, num_tokens: 2727, valid_response_length: 308delta_score: -0.7517999999999999, reward_response.is_correct: False, num_tokens: 3009, valid_response_length: 503
+delta_score: -0.24929999999999997, reward_response.is_correct: False, num_tokens: 1496, valid_response_length: 665delta_score: -0.31709999999999994, reward_response.is_correct: False, num_tokens: 1496, valid_response_length: 439
+
+delta_score: -0.45209999999999995, reward_response.is_correct: False, num_tokens: 2115, valid_response_length: 608
+delta_score: -0.12239999999999995, reward_response.is_correct: False, num_tokens: 719, valid_response_length: 311delta_score: -0.5471999999999999, reward_response.is_correct: False, num_tokens: 2115, valid_response_length: 291delta_score: -0.345, reward_response.is_correct: False, num_tokens: 1850, valid_response_length: 700delta_score: -0.7956, reward_response.is_correct: False, num_tokens: 2971, valid_response_length: 319
+delta_score: -0.9914999999999999, reward_response.is_correct: False, num_tokens: 3796, valid_response_length: 491delta_score: -0.6789, reward_response.is_correct: False, num_tokens: 2727, valid_response_length: 464delta_score: -0.11250000000000004, reward_response.is_correct: False, num_tokens: 719, valid_response_length: 344delta_score: -0.7575, reward_response.is_correct: False, num_tokens: 2971, valid_response_length: 446
+
+delta_score: -0.7304999999999999, reward_response.is_correct: False, num_tokens: 3009, valid_response_length: 574delta_score: -0.30989999999999995, reward_response.is_correct: False, num_tokens: 1850, valid_response_length: 817
+
+
+
+
+delta_score: -0.7503, reward_response.is_correct: False, num_tokens: 2971, valid_response_length: 470delta_score: -0.7542, reward_response.is_correct: False, num_tokens: 2727, valid_response_length: 213delta_score: -0.2673, reward_response.is_correct: False, num_tokens: 1496, valid_response_length: 605delta_score: -0.7862999999999999, reward_response.is_correct: False, num_tokens: 2971, valid_response_length: 350
+delta_score: -0.4245, reward_response.is_correct: False, num_tokens: 1850, valid_response_length: 435delta_score: -0.38070000000000004, reward_response.is_correct: False, num_tokens: 1850, valid_response_length: 581delta_score: -0.9917999999999999, reward_response.is_correct: False, num_tokens: 3796, valid_response_length: 490
+delta_score: -0.5094, reward_response.is_correct: False, num_tokens: 2115, valid_response_length: 417
+
+
+
+delta_score: -1.011, reward_response.is_correct: False, num_tokens: 3796, valid_response_length: 426
+
+
+
+
+
+
+
+
+
+reward_tensor's shape : torch.Size([32, 2048])
+step:14 - global_seqlen/min:1395 - global_seqlen/max:3806 - global_seqlen/minmax_diff:2411 - global_seqlen/balanced_min:2408 - global_seqlen/balanced_max:2555 - global_seqlen/mean:2441.875 - actor/entropy:0.1480565220117569 - training/rollout_probs_diff_valid:1 - training/rollout_probs_diff_max:0.1625460386276245 - training/rollout_probs_diff_mean:0.004623189568519592 - training/rollout_probs_diff_std:0.013084524311125278 - training/rollout_actor_probs_pearson_corr:0.9976426362991333 - actor/kl_loss:0.000830266100820154 - actor/kl_coef:0.001 - actor/pg_loss:-0.3226329982280731 - actor/pg_clipfrac:0.0 - actor/ppo_kl:0.0 - actor/pg_clipfrac_lower:0.0 - actor/grad_norm:1.15625 - perf/mfu/actor:0.03204543055556231 - perf/max_memory_allocated_gb:53.087238788604736 - perf/max_memory_reserved_gb:59.525390625 - perf/cpu_memory_used_gb:115.97006607055664 - actor/lr:1e-06 - training/global_step:14 - training/epoch:0 - critic/score/mean:-0.558159351348877 - critic/score/max:-0.11249999701976776 - critic/score/min:-1.0313999652862549 - critic/rewards/mean:-0.558159351348877 - critic/rewards/max:-0.11249999701976776 - critic/rewards/min:-1.0313999652862549 - critic/advantages/mean:0.19342871010303497 - critic/advantages/max:1.3917672634124756 - critic/advantages/min:-1.3154188394546509 - critic/returns/mean:0.19342871010303497 - critic/returns/max:1.3917672634124756 - critic/returns/min:-1.3154188394546509 - response_length/mean:474.84375 - response_length/max:1023.0 - response_length/min:209.0 - response_length/clip_ratio:0.0 - prompt_length/mean:135.625 - prompt_length/max:237.0 - prompt_length/min:80.0 - prompt_length/clip_ratio:0.0 - timing_s/start_profile:3.813393414020538e-05 - timing_s/generate_sequences:3.1665749549865723 - timing_s/reshard:3.066826343536377 - timing_s/generation_timing/max:5.342865467071533 - timing_s/generation_timing/min:1.748548984527588 - timing_s/generation_timing/topk_ratio:0.125 - timing_s/gen:8.409954538568854 - timing_s/reward:0.03516492806375027 - timing_s/old_log_prob:1.2930482551455498 - timing_s/ref:0.298311784863472 - timing_s/adv:0.0016052164137363434 - timing_s/update_actor:2.7106850054115057 - timing_s/step:12.751336930319667 - timing_s/stop_profile:4.902854561805725e-05 - timing_per_token_ms/ref:0.015270631423776401 - timing_per_token_ms/adv:8.217130349303011e-05 - timing_per_token_ms/gen:0.5534685448219056 - timing_per_token_ms/update_actor:0.1387604302744564 - perf/total_num_tokens:19535 - perf/time_per_step:12.751336930319667 - perf/throughput:191.49952772354388
+delta_score: -0.7799999999999999, reward_response.is_correct: False, num_tokens: 2777, valid_response_length: 177delta_score: -0.061799999999999966, reward_response.is_correct: False, num_tokens: 585, valid_response_length: 379delta_score: -0.8895, reward_response.is_correct: False, num_tokens: 3532, valid_response_length: 567
+delta_score: -0.13229999999999997, reward_response.is_correct: False, num_tokens: 944, valid_response_length: 503delta_score: -0.3852, reward_response.is_correct: False, num_tokens: 764, valid_response_length: 2048
+
+delta_score: -0.1008, reward_response.is_correct: False, num_tokens: 585, valid_response_length: 249delta_score: -0.5015999999999999, reward_response.is_correct: False, num_tokens: 2796, valid_response_length: 1124
+
+delta_score: -0.9506999999999999, reward_response.is_correct: False, num_tokens: 3476, valid_response_length: 307delta_score: -0.2217, reward_response.is_correct: False, num_tokens: 1366, valid_response_length: 627
+delta_score: -0.31410000000000005, reward_response.is_correct: False, num_tokens: 1366, valid_response_length: 319delta_score: -0.02100000000000002, reward_response.is_correct: False, num_tokens: 764, valid_response_length: 834delta_score: -0.9053999999999999, reward_response.is_correct: False, num_tokens: 3532, valid_response_length: 514
+delta_score: -0.8756999999999999, reward_response.is_correct: False, num_tokens: 3476, valid_response_length: 557delta_score: -0.7448999999999999, reward_response.is_correct: False, num_tokens: 2777, valid_response_length: 294delta_score: -0.09119999999999995, reward_response.is_correct: False, num_tokens: 585, valid_response_length: 281
+
+delta_score: -0.1614, reward_response.is_correct: False, num_tokens: 944, valid_response_length: 406delta_score: -0.5852999999999999, reward_response.is_correct: False, num_tokens: 2796, valid_response_length: 845
+delta_score: -0.2289, reward_response.is_correct: False, num_tokens: 1366, valid_response_length: 603delta_score: -0.13139999999999996, reward_response.is_correct: False, num_tokens: 944, valid_response_length: 506
+delta_score: -0.7565999999999999, reward_response.is_correct: False, num_tokens: 2777, valid_response_length: 255delta_score: -0.5408999999999999, reward_response.is_correct: False, num_tokens: 2796, valid_response_length: 993delta_score: -0.5549999999999999, reward_response.is_correct: False, num_tokens: 2796, valid_response_length: 946
+delta_score: -0.9050999999999999, reward_response.is_correct: False, num_tokens: 3532, valid_response_length: 515delta_score: -0.9473999999999999, reward_response.is_correct: False, num_tokens: 3476, valid_response_length: 318
+delta_score: -0.7313999999999999, reward_response.is_correct: False, num_tokens: 2777, valid_response_length: 339
+delta_score: -0.1926, reward_response.is_correct: False, num_tokens: 1366, valid_response_length: 724delta_score: -0.03839999999999999, reward_response.is_correct: False, num_tokens: 764, valid_response_length: 636delta_score: -0.08729999999999993, reward_response.is_correct: False, num_tokens: 944, valid_response_length: 653delta_score: -0.07169999999999999, reward_response.is_correct: False, num_tokens: 585, valid_response_length: 346delta_score: -0.9038999999999999, reward_response.is_correct: False, num_tokens: 3532, valid_response_length: 519
+
+delta_score: -0.04379999999999995, reward_response.is_correct: False, num_tokens: 764, valid_response_length: 618delta_score: -0.9440999999999999, reward_response.is_correct: False, num_tokens: 3476, valid_response_length: 329
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+reward_tensor's shape : torch.Size([32, 2048])
+step:15 - global_seqlen/min:1477 - global_seqlen/max:4680 - global_seqlen/minmax_diff:3203 - global_seqlen/balanced_min:2605 - global_seqlen/balanced_max:3582 - global_seqlen/mean:2767.375 - actor/entropy:0.10554008185863495 - training/rollout_probs_diff_valid:1 - training/rollout_probs_diff_max:0.26689037680625916 - training/rollout_probs_diff_mean:0.003507303074002266 - training/rollout_probs_diff_std:0.011322061531245708 - training/rollout_actor_probs_pearson_corr:0.9976421594619751 - actor/kl_loss:0.00038807984674349427 - actor/kl_coef:0.001 - actor/pg_loss:0.6411676406860352 - actor/pg_clipfrac:0.0 - actor/ppo_kl:0.0 - actor/pg_clipfrac_lower:0.0 - actor/grad_norm:0.921875 - perf/mfu/actor:0.03327428895923982 - perf/max_memory_allocated_gb:53.087238788604736 - perf/max_memory_reserved_gb:59.525390625 - perf/cpu_memory_used_gb:116.00030899047852 - actor/lr:1e-06 - training/global_step:15 - training/epoch:0 - critic/score/mean:-0.4625343978404999 - critic/score/max:-0.020999999716877937 - critic/score/min:-0.9506999850273132 - critic/rewards/mean:-0.4625343978404999 - critic/rewards/max:-0.020999999716877937 - critic/rewards/min:-0.9506999850273132 - critic/advantages/mean:-0.0006978170131333172 - critic/advantages/max:1.4957417249679565 - critic/advantages/min:-1.4976897239685059 - critic/returns/mean:-0.0006978170131333172 - critic/returns/max:1.4957417249679565 - critic/returns/min:-1.4976897239685059 - response_length/mean:572.84375 - response_length/max:2048.0 - response_length/min:177.0 - response_length/clip_ratio:0.03125 - prompt_length/mean:119.0 - prompt_length/max:166.0 - prompt_length/min:78.0 - prompt_length/clip_ratio:0.0 - timing_s/start_profile:3.596767783164978e-05 - timing_s/generate_sequences:4.157451629638672 - timing_s/reshard:3.2319016456604004 - timing_s/generation_timing/max:10.671551704406738 - timing_s/generation_timing/min:1.7290892601013184 - timing_s/generation_timing/topk_ratio:0.125 - timing_s/gen:13.930950727313757 - timing_s/reward:0.035042012110352516 - timing_s/old_log_prob:1.3128092046827078 - timing_s/ref:0.20487377978861332 - timing_s/adv:0.001592293381690979 - timing_s/update_actor:2.984370904043317 - timing_s/step:18.47164515964687 - timing_s/stop_profile:4.427880048751831e-05 - timing_per_token_ms/ref:0.009253976231474472 - timing_per_token_ms/adv:7.192255213383527e-05 - timing_per_token_ms/gen:0.7599667627141867 - timing_per_token_ms/update_actor:0.1348015223832746 - perf/total_num_tokens:22139 - perf/time_per_step:18.47164515964687 - perf/throughput:149.8174621741654
+delta_score: -1.1097, reward_response.is_correct: False, num_tokens: 3953, valid_response_length: 254delta_score: -0.6578999999999999, reward_response.is_correct: False, num_tokens: 2854, valid_response_length: 661delta_score: -0.126, reward_response.is_correct: False, num_tokens: 780, valid_response_length: 360
+
+delta_score: -1.0034999999999998, reward_response.is_correct: False, num_tokens: 3663, valid_response_length: 318
+delta_score: -0.7059, reward_response.is_correct: False, num_tokens: 2854, valid_response_length: 501delta_score: -0.018000000000000016, reward_response.is_correct: False, num_tokens: 524, valid_response_length: 584
+delta_score: -1.1159999999999999, reward_response.is_correct: False, num_tokens: 3953, valid_response_length: 233
+
+delta_score: -0.6807, reward_response.is_correct: False, num_tokens: 2854, valid_response_length: 585
+delta_score: -0.38280000000000003, reward_response.is_correct: False, num_tokens: 1563, valid_response_length: 287delta_score: -0.24780000000000002, reward_response.is_correct: False, num_tokens: 1459, valid_response_length: 633
+delta_score: -0.3207, reward_response.is_correct: False, num_tokens: 1563, valid_response_length: 494delta_score: -1.0172999999999999, reward_response.is_correct: False, num_tokens: 3663, valid_response_length: 272delta_score: -0.34440000000000004, reward_response.is_correct: False, num_tokens: 1459, valid_response_length: 311delta_score: -0.1602, reward_response.is_correct: False, num_tokens: 780, valid_response_length: 246delta_score: -0.34319999999999995, reward_response.is_correct: False, num_tokens: 1459, valid_response_length: 315delta_score: -0.21330000000000005, reward_response.is_correct: False, num_tokens: 1459, valid_response_length: 748delta_score: -1.0023, reward_response.is_correct: False, num_tokens: 3663, valid_response_length: 322delta_score: -0.6576, reward_response.is_correct: False, num_tokens: 2854, valid_response_length: 662delta_score: -0.03269999999999995, reward_response.is_correct: False, num_tokens: 524, valid_response_length: 633delta_score: -0.35819999999999996, reward_response.is_correct: False, num_tokens: 1563, valid_response_length: 369delta_score: -1.011, reward_response.is_correct: False, num_tokens: 3663, valid_response_length: 293delta_score: -0.7041, reward_response.is_correct: False, num_tokens: 2916, valid_response_length: 569delta_score: -1.1193, reward_response.is_correct: False, num_tokens: 3953, valid_response_length: 222delta_score: -0.03269999999999995, reward_response.is_correct: False, num_tokens: 524, valid_response_length: 633
+
+
+delta_score: -1.0872, reward_response.is_correct: False, num_tokens: 3953, valid_response_length: 329delta_score: -0.7052999999999999, reward_response.is_correct: False, num_tokens: 2916, valid_response_length: 565
+delta_score: -0.7919999999999999, reward_response.is_correct: False, num_tokens: 2916, valid_response_length: 276delta_score: -0.12569999999999992, reward_response.is_correct: False, num_tokens: 780, valid_response_length: 361delta_score: -0.7494, reward_response.is_correct: False, num_tokens: 2916, valid_response_length: 418delta_score: -0.135, reward_response.is_correct: False, num_tokens: 780, valid_response_length: 330
+
+
+delta_score: -0.04259999999999997, reward_response.is_correct: False, num_tokens: 524, valid_response_length: 666
+
+
+
+
+
+
+
+delta_score: -0.41789999999999994, reward_response.is_correct: False, num_tokens: 1563, valid_response_length: 170
+
+
+
+
+
+
+
+
+reward_tensor's shape : torch.Size([32, 2048])
+step:16 - global_seqlen/min:1442 - global_seqlen/max:2948 - global_seqlen/minmax_diff:1506 - global_seqlen/balanced_min:2076 - global_seqlen/balanced_max:2104 - global_seqlen/mean:2090.5 - actor/entropy:0.12805643677711487 - training/rollout_probs_diff_valid:1 - training/rollout_probs_diff_max:0.3371812701225281 - training/rollout_probs_diff_mean:0.004052533768117428 - training/rollout_probs_diff_std:0.012284365482628345 - training/rollout_actor_probs_pearson_corr:0.9977298378944397 - actor/kl_loss:0.0007412103586830199 - actor/kl_coef:0.001 - actor/pg_loss:-0.030095431953668594 - actor/pg_clipfrac:0.0 - actor/ppo_kl:0.0 - actor/pg_clipfrac_lower:0.0 - actor/grad_norm:1.09375 - perf/mfu/actor:0.023211317409183883 - perf/max_memory_allocated_gb:53.087238788604736 - perf/max_memory_reserved_gb:59.525390625 - perf/cpu_memory_used_gb:116.00657272338867 - actor/lr:1e-06 - training/global_step:16 - training/epoch:0 - critic/score/mean:-0.5443874597549438 - critic/score/max:-0.017999999225139618 - critic/score/min:-1.1193000078201294 - critic/rewards/mean:-0.5443874597549438 - critic/rewards/max:-0.017999999225139618 - critic/rewards/min:-1.1193000078201294 - critic/advantages/mean:0.14700858294963837 - critic/advantages/max:1.4418805837631226 - critic/advantages/min:-1.4459502696990967 - critic/returns/mean:0.14700858294963837 - critic/returns/max:1.4418805837631226 - critic/returns/min:-1.4459502696990967 - response_length/mean:425.625 - response_length/max:748.0 - response_length/min:170.0 - response_length/clip_ratio:0.0 - prompt_length/mean:97.0 - prompt_length/max:158.0 - prompt_length/min:63.0 - prompt_length/clip_ratio:0.0 - timing_s/start_profile:3.9460137486457825e-05 - timing_s/generate_sequences:2.667628765106201 - timing_s/reshard:3.2827627658843994 - timing_s/generation_timing/max:3.848527669906616 - timing_s/generation_timing/min:1.642114520072937 - timing_s/generation_timing/topk_ratio:0.125 - timing_s/gen:7.210137760266662 - timing_s/reward:0.028334245085716248 - timing_s/old_log_prob:1.1580818425863981 - timing_s/ref:0.15956800058484077 - timing_s/adv:0.001661086454987526 - timing_s/update_actor:3.184342620894313 - timing_s/step:11.744622569531202 - timing_s/stop_profile:5.021318793296814e-05 - timing_per_token_ms/ref:0.009541258107201673 - timing_per_token_ms/adv:9.932351440968225e-05 - timing_per_token_ms/gen:0.5293786901811058 - timing_per_token_ms/update_actor:0.1904055621199661 - perf/total_num_tokens:16724 - perf/time_per_step:11.744622569531202 - perf/throughput:177.99635429948466
+delta_score: -0.2571, reward_response.is_correct: False, num_tokens: 1396, valid_response_length: 539
+delta_score: -0.7688999999999999, reward_response.is_correct: False, num_tokens: 2965, valid_response_length: 402delta_score: -0.20189999999999997, reward_response.is_correct: False, num_tokens: 1375, valid_response_length: 2048
+delta_score: -0.8090999999999999, reward_response.is_correct: False, num_tokens: 2965, valid_response_length: 268
+
+delta_score: -0.07410000000000005, reward_response.is_correct: False, num_tokens: 828, valid_response_length: 1075delta_score: -0.04590000000000005, reward_response.is_correct: False, num_tokens: 277, valid_response_length: 430delta_score: -0.9032999999999999, reward_response.is_correct: False, num_tokens: 3592, valid_response_length: 581delta_score: -0.9549, reward_response.is_correct: False, num_tokens: 3592, valid_response_length: 409
+delta_score: -0.30089999999999995, reward_response.is_correct: False, num_tokens: 1375, valid_response_length: 372
+
+delta_score: -0.28200000000000003, reward_response.is_correct: False, num_tokens: 1375, valid_response_length: 435
+delta_score: -0.13019999999999998, reward_response.is_correct: False, num_tokens: 1396, valid_response_length: 962delta_score: -0.7355999999999999, reward_response.is_correct: False, num_tokens: 3327, valid_response_length: 875
+delta_score: -0.852, reward_response.is_correct: False, num_tokens: 3327, valid_response_length: 487delta_score: -0.17189999999999994, reward_response.is_correct: False, num_tokens: 1396, valid_response_length: 823delta_score: -0.030299999999999994, reward_response.is_correct: False, num_tokens: 277, valid_response_length: 378delta_score: -0.7964999999999999, reward_response.is_correct: False, num_tokens: 2965, valid_response_length: 310delta_score: -0.16920000000000002, reward_response.is_correct: False, num_tokens: 259, valid_response_length: 823
+delta_score: -0.15389999999999993, reward_response.is_correct: False, num_tokens: 259, valid_response_length: 772delta_score: -0.052200000000000024, reward_response.is_correct: False, num_tokens: 277, valid_response_length: 451delta_score: -0.14849999999999997, reward_response.is_correct: False, num_tokens: 1396, valid_response_length: 901delta_score: -0.14639999999999997, reward_response.is_correct: False, num_tokens: 828, valid_response_length: 340delta_score: -0.041100000000000025, reward_response.is_correct: False, num_tokens: 277, valid_response_length: 414
+delta_score: -0.9038999999999999, reward_response.is_correct: False, num_tokens: 3327, valid_response_length: 314
+delta_score: -0.8742, reward_response.is_correct: False, num_tokens: 3592, valid_response_length: 678
+
+
+delta_score: -0.09360000000000002, reward_response.is_correct: False, num_tokens: 828, valid_response_length: 516delta_score: -0.9173999999999999, reward_response.is_correct: False, num_tokens: 3592, valid_response_length: 534delta_score: -0.18630000000000002, reward_response.is_correct: False, num_tokens: 259, valid_response_length: 880
+delta_score: -0.7824, reward_response.is_correct: False, num_tokens: 3327, valid_response_length: 719
+
+
+
+
+
+
+
+
+delta_score: -0.30269999999999997, reward_response.is_correct: False, num_tokens: 1375, valid_response_length: 366delta_score: -0.8016, reward_response.is_correct: False, num_tokens: 2965, valid_response_length: 293
+delta_score: -0.1785, reward_response.is_correct: False, num_tokens: 259, valid_response_length: 854
+
+
+delta_score: -0.03420000000000001, reward_response.is_correct: False, num_tokens: 828, valid_response_length: 714
+
+
+reward_tensor's shape : torch.Size([32, 2048])
+step:17 - global_seqlen/min:1741 - global_seqlen/max:4349 - global_seqlen/minmax_diff:2608 - global_seqlen/balanced_min:2889 - global_seqlen/balanced_max:3900 - global_seqlen/mean:3033.375 - actor/entropy:0.11094541102647781 - training/rollout_probs_diff_valid:1 - training/rollout_probs_diff_max:0.14162933826446533 - training/rollout_probs_diff_mean:0.0035975337959825993 - training/rollout_probs_diff_std:0.011709688231348991 - training/rollout_actor_probs_pearson_corr:0.9976329207420349 - actor/kl_loss:0.000465112883830443 - actor/kl_coef:0.001 - actor/pg_loss:-0.7943980693817139 - actor/pg_clipfrac:0.0 - actor/ppo_kl:0.0 - actor/pg_clipfrac_lower:0.0 - actor/grad_norm:0.79296875 - perf/mfu/actor:0.039511502092844 - perf/max_memory_allocated_gb:53.087238788604736 - perf/max_memory_reserved_gb:59.52734375 - perf/cpu_memory_used_gb:116.02023315429688 - actor/lr:1e-06 - training/global_step:17 - training/epoch:0 - critic/score/mean:-0.40939685702323914 - critic/score/max:-0.030300000682473183 - critic/score/min:-0.9549000263214111 - critic/rewards/mean:-0.40939685702323914 - critic/rewards/max:-0.030300000682473183 - critic/rewards/min:-0.9549000263214111 - critic/advantages/mean:0.232565775513649 - critic/advantages/max:1.4706413745880127 - critic/advantages/min:-1.4289026260375977 - critic/returns/mean:0.232565775513649 - critic/returns/max:1.4706413745880127 - critic/returns/min:-1.4289026260375977 - response_length/mean:623.84375 - response_length/max:2048.0 - response_length/min:268.0 - response_length/clip_ratio:0.03125 - prompt_length/mean:134.5 - prompt_length/max:282.0 - prompt_length/min:71.0 - prompt_length/clip_ratio:0.0 - timing_s/start_profile:5.063600838184357e-05 - timing_s/generate_sequences:4.802261829376221 - timing_s/reshard:2.868887424468994 - timing_s/generation_timing/max:10.781160354614258 - timing_s/generation_timing/min:2.0699238777160645 - timing_s/generation_timing/topk_ratio:0.125 - timing_s/gen:13.727338561788201 - timing_s/reward:0.029470477253198624 - timing_s/old_log_prob:1.3086011484265327 - timing_s/ref:0.17415866814553738 - timing_s/adv:0.0016659088432788849 - timing_s/update_actor:2.7623062394559383 - timing_s/step:18.00561205111444 - timing_s/stop_profile:5.1472336053848267e-05 - timing_per_token_ms/ref:0.007176769610810457 - timing_per_token_ms/adv:6.864914671277393e-05 - timing_per_token_ms/gen:0.6876390603510595 - timing_per_token_ms/update_actor:0.11382973748118591 - perf/total_num_tokens:24267 - perf/time_per_step:18.00561205111444 - perf/throughput:168.46830818018498
+delta_score: -0.7163999999999999, reward_response.is_correct: False, num_tokens: 3180, valid_response_length: 792delta_score: -0.08760000000000001, reward_response.is_correct: False, num_tokens: 998, valid_response_length: 1290delta_score: -1.0196999999999998, reward_response.is_correct: False, num_tokens: 3812, valid_response_length: 413
+
+delta_score: -0.7580999999999999, reward_response.is_correct: False, num_tokens: 3180, valid_response_length: 653
+delta_score: -0.5811, reward_response.is_correct: False, num_tokens: 3180, valid_response_length: 1243delta_score: -0.03300000000000003, reward_response.is_correct: False, num_tokens: 998, valid_response_length: 888delta_score: -0.9341999999999999, reward_response.is_correct: False, num_tokens: 3812, valid_response_length: 698delta_score: -1.0083, reward_response.is_correct: False, num_tokens: 3702, valid_response_length: 341delta_score: -1.0122, reward_response.is_correct: False, num_tokens: 3702, valid_response_length: 328delta_score: -0.41999999999999993, reward_response.is_correct: False, num_tokens: 2579, valid_response_length: 1179
+
+
+delta_score: -0.5549999999999999, reward_response.is_correct: False, num_tokens: 2579, valid_response_length: 729
+
+
+
+delta_score: -0.026699999999999946, reward_response.is_correct: False, num_tokens: 1148, valid_response_length: 1059delta_score: -0.9413999999999999, reward_response.is_correct: False, num_tokens: 3850, valid_response_length: 712delta_score: -0.03510000000000002, reward_response.is_correct: False, num_tokens: 1148, valid_response_length: 1031delta_score: -0.8669999999999999, reward_response.is_correct: False, num_tokens: 3274, valid_response_length: 384
+
+delta_score: -0.5547, reward_response.is_correct: False, num_tokens: 2579, valid_response_length: 730delta_score: -0.07650000000000001, reward_response.is_correct: False, num_tokens: 998, valid_response_length: 1253delta_score: -0.9075, reward_response.is_correct: False, num_tokens: 3850, valid_response_length: 825delta_score: -0.5843999999999999, reward_response.is_correct: False, num_tokens: 2579, valid_response_length: 631
+delta_score: -0.9704999999999999, reward_response.is_correct: False, num_tokens: 3812, valid_response_length: 577delta_score: -0.9422999999999999, reward_response.is_correct: False, num_tokens: 3850, valid_response_length: 709delta_score: -0.6863999999999999, reward_response.is_correct: False, num_tokens: 3850, valid_response_length: 1562delta_score: -0.8363999999999999, reward_response.is_correct: False, num_tokens: 3274, valid_response_length: 486delta_score: -0.6294, reward_response.is_correct: False, num_tokens: 3180, valid_response_length: 1082
+delta_score: -1.0136999999999998, reward_response.is_correct: False, num_tokens: 3702, valid_response_length: 323delta_score: -0.07469999999999999, reward_response.is_correct: False, num_tokens: 1148, valid_response_length: 1397delta_score: -0.05159999999999998, reward_response.is_correct: False, num_tokens: 1148, valid_response_length: 1320delta_score: -0.8768999999999999, reward_response.is_correct: False, num_tokens: 3274, valid_response_length: 351delta_score: -1.0083, reward_response.is_correct: False, num_tokens: 3702, valid_response_length: 341
+
+delta_score: -0.9882, reward_response.is_correct: False, num_tokens: 3812, valid_response_length: 518
+
+
+delta_score: -0.13890000000000002, reward_response.is_correct: False, num_tokens: 998, valid_response_length: 535
+
+
+
+delta_score: -0.7799999999999999, reward_response.is_correct: False, num_tokens: 3274, valid_response_length: 674
+
+
+
+
+
+
+
+
+reward_tensor's shape : torch.Size([32, 2048])
+step:18 - global_seqlen/min:1641 - global_seqlen/max:5455 - global_seqlen/minmax_diff:3814 - global_seqlen/balanced_min:3647 - global_seqlen/balanced_max:3709 - global_seqlen/mean:3663.75 - actor/entropy:0.11208821833133698 - training/rollout_probs_diff_valid:1 - training/rollout_probs_diff_max:0.1965966820716858 - training/rollout_probs_diff_mean:0.003915093373507261 - training/rollout_probs_diff_std:0.01253560185432434 - training/rollout_actor_probs_pearson_corr:0.9971942901611328 - actor/kl_loss:0.0005573681555688381 - actor/kl_coef:0.001 - actor/pg_loss:0.5514176487922668 - actor/pg_clipfrac:0.0 - actor/ppo_kl:0.0 - actor/pg_clipfrac_lower:0.0 - actor/grad_norm:0.80078125 - perf/mfu/actor:0.04685831029143545 - perf/max_memory_allocated_gb:53.087238788604736 - perf/max_memory_reserved_gb:59.52734375 - perf/cpu_memory_used_gb:116.03619384765625 - actor/lr:1e-06 - training/global_step:18 - training/epoch:0 - critic/score/mean:-0.6286312341690063 - critic/score/max:-0.02669999934732914 - critic/score/min:-1.019700050354004 - critic/rewards/mean:-0.6286312341690063 - critic/rewards/max:-0.02669999934732914 - critic/rewards/min:-1.019700050354004 - critic/advantages/mean:0.1418343037366867 - critic/advantages/max:1.4869409799575806 - critic/advantages/min:-1.3083608150482178 - critic/returns/mean:0.1418343037366867 - critic/returns/max:1.4869409799575806 - critic/returns/min:-1.3083608150482178 - response_length/mean:782.9375 - response_length/max:1562.0 - response_length/min:323.0 - response_length/clip_ratio:0.0 - prompt_length/mean:133.0 - prompt_length/max:190.0 - prompt_length/min:77.0 - prompt_length/clip_ratio:0.0 - timing_s/start_profile:3.680400550365448e-05 - timing_s/generate_sequences:5.476418495178223 - timing_s/reshard:3.3021738529205322 - timing_s/generation_timing/max:8.161112785339355 - timing_s/generation_timing/min:1.783657193183899 - timing_s/generation_timing/topk_ratio:0.125 - timing_s/gen:11.492371115833521 - timing_s/reward:0.032018961384892464 - timing_s/old_log_prob:1.7876309286803007 - timing_s/ref:0.19666925445199013 - timing_s/adv:0.0016383212059736252 - timing_s/update_actor:2.8304937798529863 - timing_s/step:16.342729289084673 - timing_s/stop_profile:4.770047962665558e-05 - timing_per_token_ms/ref:0.006709971151552034 - timing_per_token_ms/adv:5.589632227818578e-05 - timing_per_token_ms/gen:0.45870404389852004 - timing_per_token_ms/update_actor:0.09657092391173615 - perf/total_num_tokens:29310 - perf/time_per_step:16.342729289084673 - perf/throughput:224.18226082023048
+delta_score: -0.09419999999999995, reward_response.is_correct: False, num_tokens: 774, valid_response_length: 460delta_score: -0.9050999999999999, reward_response.is_correct: False, num_tokens: 3285, valid_response_length: 268delta_score: -0.8927999999999999, reward_response.is_correct: False, num_tokens: 3529, valid_response_length: 553delta_score: -0.6927, reward_response.is_correct: False, num_tokens: 3529, valid_response_length: 1220
+delta_score: -0.8000999999999999, reward_response.is_correct: False, num_tokens: 3529, valid_response_length: 862
+delta_score: -1.0506, reward_response.is_correct: False, num_tokens: 3869, valid_response_length: 367delta_score: -0.35040000000000004, reward_response.is_correct: False, num_tokens: 1780, valid_response_length: 612delta_score: -0.08940000000000003, reward_response.is_correct: False, num_tokens: 774, valid_response_length: 476delta_score: -0.2844, reward_response.is_correct: False, num_tokens: 1771, valid_response_length: 823
+delta_score: -0.4515, reward_response.is_correct: False, num_tokens: 1780, valid_response_length: 275delta_score: -0.2144999999999999, reward_response.is_correct: False, num_tokens: 1771, valid_response_length: 1056
+delta_score: -0.24749999999999994, reward_response.is_correct: False, num_tokens: 1780, valid_response_length: 955
+delta_score: -0.9272999999999999, reward_response.is_correct: False, num_tokens: 3285, valid_response_length: 194delta_score: -0.6500999999999999, reward_response.is_correct: False, num_tokens: 2176, valid_response_length: 9delta_score: -0.8498999999999999, reward_response.is_correct: False, num_tokens: 3529, valid_response_length: 696delta_score: -0.471, reward_response.is_correct: False, num_tokens: 2176, valid_response_length: 606
+delta_score: -0.41759999999999997, reward_response.is_correct: False, num_tokens: 1780, valid_response_length: 388delta_score: -0.5115, reward_response.is_correct: False, num_tokens: 2176, valid_response_length: 471delta_score: -0.10949999999999993, reward_response.is_correct: False, num_tokens: 620, valid_response_length: 985delta_score: -0.6491999999999999, reward_response.is_correct: False, num_tokens: 2176, valid_response_length: 12delta_score: -0.3131999999999999, reward_response.is_correct: False, num_tokens: 1771, valid_response_length: 727delta_score: -0.09539999999999993, reward_response.is_correct: False, num_tokens: 774, valid_response_length: 456
+
+delta_score: -0.12270000000000003, reward_response.is_correct: False, num_tokens: 620, valid_response_length: 1029
+
+delta_score: -0.14129999999999998, reward_response.is_correct: False, num_tokens: 620, valid_response_length: 1091delta_score: -0.9209999999999999, reward_response.is_correct: False, num_tokens: 3285, valid_response_length: 215
+delta_score: -0.8978999999999999, reward_response.is_correct: False, num_tokens: 3285, valid_response_length: 292
+
+
+delta_score: -0.05459999999999998, reward_response.is_correct: False, num_tokens: 774, valid_response_length: 592
+
+delta_score: -0.13529999999999998, reward_response.is_correct: False, num_tokens: 620, valid_response_length: 1071delta_score: -0.3729, reward_response.is_correct: False, num_tokens: 1771, valid_response_length: 528
+
+
+delta_score: -0.9575999999999999, reward_response.is_correct: False, num_tokens: 3869, valid_response_length: 677delta_score: -0.9584999999999999, reward_response.is_correct: False, num_tokens: 3869, valid_response_length: 674
+
+delta_score: -0.8823, reward_response.is_correct: False, num_tokens: 3869, valid_response_length: 928
+
+
+
+
+
+
+
+
+
+
+reward_tensor's shape : torch.Size([32, 2048])
+step:19 - global_seqlen/min:1373 - global_seqlen/max:4648 - global_seqlen/minmax_diff:3275 - global_seqlen/balanced_min:2915 - global_seqlen/balanced_max:2993 - global_seqlen/mean:2936.5 - actor/entropy:0.11520019918680191 - training/rollout_probs_diff_valid:1 - training/rollout_probs_diff_max:0.13439947366714478 - training/rollout_probs_diff_mean:0.0037354070227593184 - training/rollout_probs_diff_std:0.011641174554824829 - training/rollout_actor_probs_pearson_corr:0.9975667595863342 - actor/kl_loss:0.000672223512083292 - actor/kl_coef:0.001 - actor/pg_loss:-0.4001914858818054 - actor/pg_clipfrac:0.0 - actor/ppo_kl:0.0 - actor/pg_clipfrac_lower:0.0 - actor/grad_norm:0.87890625 - perf/mfu/actor:0.0354106435540162 - perf/max_memory_allocated_gb:53.087238788604736 - perf/max_memory_reserved_gb:59.52734375 - perf/cpu_memory_used_gb:116.04584503173828 - actor/lr:1e-06 - training/global_step:19 - training/epoch:0 - critic/score/mean:-0.5160000324249268 - critic/score/max:-0.05460000038146973 - critic/score/min:-1.0506000518798828 - critic/rewards/mean:-0.5160000324249268 - critic/rewards/max:-0.05460000038146973 - critic/rewards/min:-1.0506000518798828 - critic/advantages/mean:0.21598617732524872 - critic/advantages/max:1.4864357709884644 - critic/advantages/min:-1.2826454639434814 - critic/returns/mean:0.21598617732524872 - critic/returns/max:1.4864357709884644 - critic/returns/min:-1.2826454639434814 - response_length/mean:611.5 - response_length/max:1220.0 - response_length/min:9.0 - response_length/clip_ratio:0.0 - prompt_length/mean:122.625 - prompt_length/max:228.0 - prompt_length/min:81.0 - prompt_length/clip_ratio:0.0 - timing_s/start_profile:3.8623809814453125e-05 - timing_s/generate_sequences:4.369725227355957 - timing_s/reshard:3.291663885116577 - timing_s/generation_timing/max:6.357271671295166 - timing_s/generation_timing/min:1.480000376701355 - timing_s/generation_timing/topk_ratio:0.125 - timing_s/gen:9.690027551725507 - timing_s/reward:0.02909669280052185 - timing_s/old_log_prob:1.1969137154519558 - timing_s/ref:0.24738865159451962 - timing_s/adv:0.001571478322148323 - timing_s/update_actor:2.976131984964013 - timing_s/step:14.143269293010235 - timing_s/stop_profile:6.027333438396454e-05 - timing_per_token_ms/ref:0.010530761603716994 - timing_per_token_ms/adv:6.689419045412579e-05 - timing_per_token_ms/gen:0.4951976467562095 - timing_per_token_ms/update_actor:0.12668704175736475 - perf/total_num_tokens:23492 - perf/time_per_step:14.143269293010235 - perf/throughput:207.6252625304428
+delta_score: -0.2964, reward_response.is_correct: False, num_tokens: 1652, valid_response_length: 664delta_score: -0.19110000000000005, reward_response.is_correct: False, num_tokens: 1568, valid_response_length: 931delta_score: -0.30810000000000004, reward_response.is_correct: False, num_tokens: 1652, valid_response_length: 625delta_score: -1.0097999999999998, reward_response.is_correct: False, num_tokens: 3856, valid_response_length: 490
+
+
+
+delta_score: -0.5501999999999999, reward_response.is_correct: False, num_tokens: 2850, valid_response_length: 1016delta_score: -0.5963999999999999, reward_response.is_correct: False, num_tokens: 2850, valid_response_length: 862delta_score: -0.11009999999999998, reward_response.is_correct: False, num_tokens: 641, valid_response_length: 274delta_score: -0.6044999999999999, reward_response.is_correct: False, num_tokens: 2850, valid_response_length: 835delta_score: -0.09989999999999999, reward_response.is_correct: False, num_tokens: 701, valid_response_length: 1034delta_score: -0.3165, reward_response.is_correct: False, num_tokens: 1568, valid_response_length: 513
+delta_score: -0.19709999999999994, reward_response.is_correct: False, num_tokens: 1652, valid_response_length: 995delta_score: -0.3345, reward_response.is_correct: False, num_tokens: 1652, valid_response_length: 537delta_score: -0.31589999999999996, reward_response.is_correct: False, num_tokens: 1766, valid_response_length: 713delta_score: -0.5732999999999999, reward_response.is_correct: False, num_tokens: 2850, valid_response_length: 939
+
+delta_score: -1.0632, reward_response.is_correct: False, num_tokens: 3856, valid_response_length: 312delta_score: -0.12029999999999996, reward_response.is_correct: False, num_tokens: 641, valid_response_length: 240delta_score: -0.6539999999999999, reward_response.is_correct: False, num_tokens: 2758, valid_response_length: 578
+
+delta_score: -0.6698999999999999, reward_response.is_correct: False, num_tokens: 2758, valid_response_length: 525delta_score: -0.3413999999999999, reward_response.is_correct: False, num_tokens: 1766, valid_response_length: 628
+delta_score: -0.07830000000000004, reward_response.is_correct: False, num_tokens: 701, valid_response_length: 962delta_score: -0.28259999999999996, reward_response.is_correct: False, num_tokens: 1568, valid_response_length: 626delta_score: -0.696, reward_response.is_correct: False, num_tokens: 2758, valid_response_length: 438delta_score: -0.37559999999999993, reward_response.is_correct: False, num_tokens: 1766, valid_response_length: 514delta_score: -0.37439999999999996, reward_response.is_correct: False, num_tokens: 1766, valid_response_length: 518delta_score: -0.1734, reward_response.is_correct: False, num_tokens: 701, valid_response_length: 1279
+
+delta_score: -0.2541, reward_response.is_correct: False, num_tokens: 1568, valid_response_length: 721delta_score: -1.008, reward_response.is_correct: False, num_tokens: 3856, valid_response_length: 496
+
+delta_score: -0.15300000000000002, reward_response.is_correct: False, num_tokens: 701, valid_response_length: 1211
+delta_score: -0.7043999999999999, reward_response.is_correct: False, num_tokens: 2758, valid_response_length: 410
+
+
+
+
+
+
+
+delta_score: -0.948, reward_response.is_correct: False, num_tokens: 3856, valid_response_length: 696
+
+delta_score: -0.129, reward_response.is_correct: False, num_tokens: 641, valid_response_length: 211
+
+
+delta_score: -0.13049999999999995, reward_response.is_correct: False, num_tokens: 641, valid_response_length: 206
+
+
+
+reward_tensor's shape : torch.Size([32, 2048])
+step:20 - global_seqlen/min:1283 - global_seqlen/max:4934 - global_seqlen/minmax_diff:3651 - global_seqlen/balanced_min:3089 - global_seqlen/balanced_max:3162 - global_seqlen/mean:3116.375 - actor/entropy:0.1221546158194542 - training/rollout_probs_diff_valid:1 - training/rollout_probs_diff_max:0.15074720978736877 - training/rollout_probs_diff_mean:0.0037637464702129364 - training/rollout_probs_diff_std:0.011463169008493423 - training/rollout_actor_probs_pearson_corr:0.9979637265205383 - actor/kl_loss:0.0006494253175333142 - actor/kl_coef:0.001 - actor/pg_loss:-0.2995087802410126 - actor/pg_clipfrac:0.0 - actor/ppo_kl:0.0 - actor/pg_clipfrac_lower:0.0 - actor/grad_norm:0.9453125 - perf/mfu/actor:0.04298580635281945 - perf/max_memory_allocated_gb:53.087238788604736 - perf/max_memory_reserved_gb:59.52734375 - perf/cpu_memory_used_gb:116.05357360839844 - actor/lr:1e-06 - training/global_step:20 - training/epoch:0 - critic/score/mean:-0.4268718659877777 - critic/score/max:-0.07829999923706055 - critic/score/min:-1.0631999969482422 - critic/rewards/mean:-0.4268718659877777 - critic/rewards/max:-0.07829999923706055 - critic/rewards/min:-1.0631999969482422 - critic/advantages/mean:0.09606705605983734 - critic/advantages/max:1.4462890625 - critic/advantages/min:-1.1885170936584473 - critic/returns/mean:0.09606705605983734 - critic/returns/max:1.4462890625 - critic/returns/min:-1.1885170936584473 - response_length/mean:656.21875 - response_length/max:1279.0 - response_length/min:206.0 - response_length/clip_ratio:0.0 - prompt_length/mean:122.875 - prompt_length/max:149.0 - prompt_length/min:88.0 - prompt_length/clip_ratio:0.0 - timing_s/start_profile:3.771483898162842e-05 - timing_s/generate_sequences:4.218028545379639 - timing_s/reshard:3.0079574584960938 - timing_s/generation_timing/max:6.702061653137207 - timing_s/generation_timing/min:1.3908098936080933 - timing_s/generation_timing/topk_ratio:0.125 - timing_s/gen:9.750549057498574 - timing_s/reward:0.030270081013441086 - timing_s/old_log_prob:1.443330243229866 - timing_s/ref:0.3106011189520359 - timing_s/adv:0.0015462003648281097 - timing_s/update_actor:2.6036565080285072 - timing_s/step:14.142167372629046 - timing_s/stop_profile:5.2032992243766785e-05 - timing_per_token_ms/ref:0.012458430024950298 - timing_per_token_ms/adv:6.20191875507645e-05 - timing_per_token_ms/gen:0.46433397102236174 - timing_per_token_ms/update_actor:0.10443449953987033 - perf/total_num_tokens:24931 - perf/time_per_step:14.142167372629046 - perf/throughput:220.3604948157718

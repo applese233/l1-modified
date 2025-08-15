@@ -4,7 +4,7 @@ from datasets import load_dataset
 
 ds_lsat = load_dataset("dmayhem93/agieval-lsat-ar")
 
-for num_tokens in [512, 1024, 2048, 3600, -512, -1024, -2048, -3600, -1]:
+for num_tokens in [512, 1024, 2048, 3600, -512, -1024, -2048, -3600]:
     all_data = []
     for i in range(len(ds_lsat['test'])):
 
@@ -34,9 +34,9 @@ for num_tokens in [512, 1024, 2048, 3600, -512, -1024, -2048, -3600, -1]:
                 })
     if num_tokens != -1:
         if num_tokens < -1:
-            pd.DataFrame(all_data).to_parquet(f'~/deepscaler/data9_{num_tokens}/lsat.parquet')
+            pd.DataFrame(all_data).to_parquet(f'/disk3/yiran/yaoqi/l1/data_{num_tokens}/lsat.parquet')
         else:
-            pd.DataFrame(all_data).to_parquet(f'~/deepscaler/data_{num_tokens}/lsat.parquet')
+            pd.DataFrame(all_data).to_parquet(f'/disk3/yiran/yaoqi/l1/data_{num_tokens}/lsat.parquet')
     else:
-        pd.DataFrame(all_data).to_parquet(f'~/deepscaler/data/lsat.parquet')
+        pd.DataFrame(all_data).to_parquet(f'/disk3/yiran/yaoqi/l1/data/lsat.parquet')
     

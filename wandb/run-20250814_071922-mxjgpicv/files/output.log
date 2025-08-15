@@ -1,0 +1,186 @@
+Checkpoint tracker file does not exist: /disk3/yiran/yaoqi/l1/checkpoints/l1finetune/qwen2.5-1.5B-Instruct-l1_exact/latest_checkpointed_iteration.txt
+Training from scratch
+test_gen_batch meta info: {'eos_token_id': 151645, 'pad_token_id': 151643, 'recompute_log_prob': False, 'do_sample': False, 'validate': True, 'global_steps': 0}
+validation generation end
+delta_score: -0.7068, reward_response.is_correct: False, num_tokens: 3146, valid_response_length: 790
+delta_score: -0.7068, reward_response.is_correct: False, num_tokens: 3146, valid_response_length: 790delta_score: -0.9995999999999999, reward_response.is_correct: False, num_tokens: 3890, valid_response_length: 558
+delta_score: -0.9995999999999999, reward_response.is_correct: False, num_tokens: 3890, valid_response_length: 558
+
+delta_score: -0.6638999999999999, reward_response.is_correct: False, num_tokens: 3374, valid_response_length: 1161delta_score: -0.0023999999999999577, reward_response.is_correct: False, num_tokens: 679, valid_response_length: 687delta_score: -0.6638999999999999, reward_response.is_correct: False, num_tokens: 3374, valid_response_length: 1161delta_score: -0.0023999999999999577, reward_response.is_correct: False, num_tokens: 679, valid_response_length: 687delta_score: -0.16080000000000005, reward_response.is_correct: False, num_tokens: 1155, valid_response_length: 619
+delta_score: -0.16080000000000005, reward_response.is_correct: False, num_tokens: 1155, valid_response_length: 619
+
+
+delta_score: -0.49529999999999996, reward_response.is_correct: False, num_tokens: 2754, valid_response_length: 1103delta_score: -0.6398999999999999, reward_response.is_correct: False, num_tokens: 1963, valid_response_length: 4096delta_score: -0.4220999999999999, reward_response.is_correct: False, num_tokens: 3860, valid_response_length: 2453delta_score: -0.49529999999999996, reward_response.is_correct: False, num_tokens: 2754, valid_response_length: 1103delta_score: -0.4220999999999999, reward_response.is_correct: False, num_tokens: 3860, valid_response_length: 2453
+
+delta_score: -0.6398999999999999, reward_response.is_correct: False, num_tokens: 1963, valid_response_length: 4096
+
+
+
+
+
+reward_tensor's shape : torch.Size([16, 4096])
+len reward_extra_infos_dict['reward']: 16
+test_gen_batch meta info: {'eos_token_id': 151645, 'pad_token_id': 151643, 'recompute_log_prob': False, 'do_sample': False, 'validate': True, 'global_steps': 0}
+validation generation end
+delta_score: -0.72, reward_response.is_correct: False, num_tokens: 3060, valid_response_length: 660delta_score: -0.1572, reward_response.is_correct: False, num_tokens: 1484, valid_response_length: 960delta_score: -0.72, reward_response.is_correct: False, num_tokens: 3060, valid_response_length: 660delta_score: -0.1572, reward_response.is_correct: False, num_tokens: 1484, valid_response_length: 960
+
+delta_score: -0.6372, reward_response.is_correct: False, num_tokens: 2479, valid_response_length: 355
+
+delta_score: -0.6372, reward_response.is_correct: False, num_tokens: 2479, valid_response_length: 355delta_score: -0.12, reward_response.is_correct: False, num_tokens: 648, valid_response_length: 1048delta_score: -0.8684999999999999, reward_response.is_correct: False, num_tokens: 3692, valid_response_length: 797delta_score: -0.8684999999999999, reward_response.is_correct: False, num_tokens: 3692, valid_response_length: 797delta_score: -0.6072, reward_response.is_correct: False, num_tokens: 2740, valid_response_length: 716delta_score: -0.6072, reward_response.is_correct: False, num_tokens: 2740, valid_response_length: 716
+delta_score: -0.5808, reward_response.is_correct: False, num_tokens: 2658, valid_response_length: 722delta_score: -0.7887, reward_response.is_correct: False, num_tokens: 3464, valid_response_length: 835
+delta_score: -0.12, reward_response.is_correct: False, num_tokens: 648, valid_response_length: 1048
+
+
+
+
+delta_score: -0.5808, reward_response.is_correct: False, num_tokens: 2658, valid_response_length: 722
+
+delta_score: -0.7887, reward_response.is_correct: False, num_tokens: 3464, valid_response_length: 835
+
+
+reward_tensor's shape : torch.Size([16, 4096])
+len reward_extra_infos_dict['reward']: 32
+test_gen_batch meta info: {'eos_token_id': 151645, 'pad_token_id': 151643, 'recompute_log_prob': False, 'do_sample': False, 'validate': True, 'global_steps': 0}
+validation generation end
+delta_score: -0.7559999999999999, reward_response.is_correct: False, num_tokens: 3408, valid_response_length: 888
+delta_score: -0.7559999999999999, reward_response.is_correct: False, num_tokens: 3408, valid_response_length: 888delta_score: -0.5216999999999999, reward_response.is_correct: False, num_tokens: 2357, valid_response_length: 4096
+delta_score: -0.5216999999999999, reward_response.is_correct: False, num_tokens: 2357, valid_response_length: 4096
+
+delta_score: -0.8795999999999999, reward_response.is_correct: False, num_tokens: 3335, valid_response_length: 403delta_score: -0.0726, reward_response.is_correct: False, num_tokens: 3854, valid_response_length: 4096delta_score: -0.8795999999999999, reward_response.is_correct: False, num_tokens: 3335, valid_response_length: 403delta_score: -0.0726, reward_response.is_correct: False, num_tokens: 3854, valid_response_length: 4096delta_score: -0.01980000000000004, reward_response.is_correct: False, num_tokens: 932, valid_response_length: 998
+delta_score: -0.711, reward_response.is_correct: False, num_tokens: 2762, valid_response_length: 392
+delta_score: -0.711, reward_response.is_correct: False, num_tokens: 2762, valid_response_length: 392
+delta_score: -0.01980000000000004, reward_response.is_correct: False, num_tokens: 932, valid_response_length: 998delta_score: -0.8165999999999999, reward_response.is_correct: False, num_tokens: 3177, valid_response_length: 455
+
+delta_score: -0.1311, reward_response.is_correct: False, num_tokens: 1143, valid_response_length: 706
+delta_score: -0.1311, reward_response.is_correct: False, num_tokens: 1143, valid_response_length: 706
+
+
+delta_score: -0.8165999999999999, reward_response.is_correct: False, num_tokens: 3177, valid_response_length: 455
+
+
+reward_tensor's shape : torch.Size([16, 4096])
+len reward_extra_infos_dict['reward']: 48
+test_gen_batch meta info: {'eos_token_id': 151645, 'pad_token_id': 151643, 'recompute_log_prob': False, 'do_sample': False, 'validate': True, 'global_steps': 0}
+validation generation end
+delta_score: -0.6042, reward_response.is_correct: False, num_tokens: 2436, valid_response_length: 422delta_score: -0.6042, reward_response.is_correct: False, num_tokens: 2436, valid_response_length: 422
+
+delta_score: -0.6377999999999999, reward_response.is_correct: False, num_tokens: 1970, valid_response_length: 4096delta_score: -0.30000000000000004, reward_response.is_correct: False, num_tokens: 1970, valid_response_length: 970delta_score: -0.8402999999999999, reward_response.is_correct: False, num_tokens: 1295, valid_response_length: 4096
+delta_score: -0.8402999999999999, reward_response.is_correct: False, num_tokens: 1295, valid_response_length: 4096delta_score: -0.9066, reward_response.is_correct: False, num_tokens: 3499, valid_response_length: 477delta_score: -0.09929999999999994, reward_response.is_correct: False, num_tokens: 689, valid_response_length: 358delta_score: -1.1292, reward_response.is_correct: False, num_tokens: 332, valid_response_length: 4096delta_score: -0.9066, reward_response.is_correct: False, num_tokens: 3499, valid_response_length: 477delta_score: -0.028800000000000048, reward_response.is_correct: False, num_tokens: 689, valid_response_length: 593
+
+
+delta_score: -1.1292, reward_response.is_correct: False, num_tokens: 332, valid_response_length: 4096
+
+
+
+
+
+reward_tensor's shape : torch.Size([12, 4096])
+len reward_extra_infos_dict['reward']: 60
+("Initial validation metrics: {'val-core//reward/mean@2': -0.5497350029181689, "
+ "'val-aux//reward/std@2': 0.006804999398688475, "
+ "'val-core//reward/best@2/mean': -0.5460979032415897, "
+ "'val-core//reward/best@2/std': 0.005750668091859318, "
+ "'val-aux//reward/worst@2/mean': -0.5532295426114152, "
+ "'val-aux//reward/worst@2/std': 0.005838396174672275}")
+step:0 - val-core//reward/mean@2:-0.5497350029181689 - val-aux//reward/std@2:0.006804999398688475 - val-core//reward/best@2/mean:-0.5460979032415897 - val-core//reward/best@2/std:0.005750668091859318 - val-aux//reward/worst@2/mean:-0.5532295426114152 - val-aux//reward/worst@2/std:0.005838396174672275
+Training Progress:   0%|          | 0/15114 [00:00<?, ?it/s]Unhandled error (suppress with 'RAY_IGNORE_UNHANDLED_ERRORS=1'): [36mray::WorkerDict.actor_rollout_update_actor()[39m (pid=788524, ip=172.28.177.94, actor_id=75873d6be156e59c6d32820303000000, repr=<verl.single_controller.ray.base.WorkerDict object at 0x7f45fdf43920>)
+delta_score: -0.7025999999999999, reward_response.is_correct: False, num_tokens: 3059, valid_response_length: 717
+delta_score: -0.4040999999999999, reward_response.is_correct: False, num_tokens: 2347, valid_response_length: 1000
+delta_score: -1.1582999999999999, reward_response.is_correct: False, num_tokens: 235, valid_response_length: 4096delta_score: -1.0383, reward_response.is_correct: False, num_tokens: 3906, valid_response_length: 445
+delta_score: -1.0052999999999999, reward_response.is_correct: False, num_tokens: 745, valid_response_length: 4096delta_score: -0.05369999999999997, reward_response.is_correct: False, num_tokens: 745, valid_response_length: 924delta_score: -0.11009999999999998, reward_response.is_correct: False, num_tokens: 104, valid_response_length: 471
+delta_score: -0.01200000000000001, reward_response.is_correct: False, num_tokens: 425, valid_response_length: 465delta_score: -1.0362, reward_response.is_correct: False, num_tokens: 3906, valid_response_length: 452delta_score: -0.21960000000000002, reward_response.is_correct: False, num_tokens: 104, valid_response_length: 836
+
+
+delta_score: -0.09630000000000005, reward_response.is_correct: False, num_tokens: 425, valid_response_length: 746
+delta_score: -0.06240000000000001, reward_response.is_correct: False, num_tokens: 1669, valid_response_length: 1877delta_score: -0.12329999999999997, reward_response.is_correct: False, num_tokens: 1669, valid_response_length: 1258delta_score: -0.48539999999999994, reward_response.is_correct: False, num_tokens: 2347, valid_response_length: 729
+delta_score: -0.5801999999999999, reward_response.is_correct: False, num_tokens: 3059, valid_response_length: 1125
+
+
+
+
+delta_score: -0.34739999999999993, reward_response.is_correct: False, num_tokens: 235, valid_response_length: 1393
+
+reward_tensor's shape : torch.Size([16, 4096])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yiran/miniconda3/envs/l1-yaoqi/lib/python3.12/site-packages/verl/single_controller/ray/base.py", line 720, in func
+    return getattr(self.worker_dict[key], name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yiran/miniconda3/envs/l1-yaoqi/lib/python3.12/site-packages/verl/single_controller/base/decorator.py", line 430, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yiran/miniconda3/envs/l1-yaoqi/lib/python3.12/site-packages/verl/workers/fsdp_workers.py", line 735, in update_actor
+    metrics = self.actor.update_policy(data=data)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yiran/miniconda3/envs/l1-yaoqi/lib/python3.12/site-packages/verl/utils/profiler/performance.py", line 105, in f
+    return self.log(decorated_function, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yiran/miniconda3/envs/l1-yaoqi/lib/python3.12/site-packages/verl/utils/profiler/performance.py", line 118, in log
+    output = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yiran/miniconda3/envs/l1-yaoqi/lib/python3.12/site-packages/verl/workers/actor/dp_actor.py", line 423, in update_policy
+    entropy, log_prob = self._forward_micro_batch(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yiran/miniconda3/envs/l1-yaoqi/lib/python3.12/site-packages/verl/workers/actor/dp_actor.py", line 276, in _forward_micro_batch
+    entropy = verl_F.entropy_from_logits(logits)  # (bsz, response_length)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yiran/miniconda3/envs/l1-yaoqi/lib/python3.12/site-packages/verl/utils/torch_functional.py", line 148, in entropy_from_logits
+    entropy = torch.logsumexp(logits, dim=-1) - torch.sum(pd * logits, dim=-1)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 9.27 GiB. GPU 0 has a total capacity of 79.25 GiB of which 3.43 GiB is free. Including non-PyTorch memory, this process has 75.79 GiB memory in use. Of the allocated memory 74.05 GiB is allocated by PyTorch, with 86.00 MiB allocated in private pools (e.g., CUDA Graphs), and 88.89 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Unhandled error (suppress with 'RAY_IGNORE_UNHANDLED_ERRORS=1'): [36mray::WorkerDict.actor_rollout_update_actor()[39m (pid=788809, ip=172.28.177.94, actor_id=a218abb361e4a2244be7d2a003000000, repr=<verl.single_controller.ray.base.WorkerDict object at 0x7f40d7f64170>)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yiran/miniconda3/envs/l1-yaoqi/lib/python3.12/site-packages/verl/single_controller/ray/base.py", line 720, in func
+    return getattr(self.worker_dict[key], name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yiran/miniconda3/envs/l1-yaoqi/lib/python3.12/site-packages/verl/single_controller/base/decorator.py", line 430, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yiran/miniconda3/envs/l1-yaoqi/lib/python3.12/site-packages/verl/workers/fsdp_workers.py", line 735, in update_actor
+    metrics = self.actor.update_policy(data=data)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yiran/miniconda3/envs/l1-yaoqi/lib/python3.12/site-packages/verl/utils/profiler/performance.py", line 105, in f
+    return self.log(decorated_function, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yiran/miniconda3/envs/l1-yaoqi/lib/python3.12/site-packages/verl/utils/profiler/performance.py", line 118, in log
+    output = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yiran/miniconda3/envs/l1-yaoqi/lib/python3.12/site-packages/verl/workers/actor/dp_actor.py", line 423, in update_policy
+    entropy, log_prob = self._forward_micro_batch(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yiran/miniconda3/envs/l1-yaoqi/lib/python3.12/site-packages/verl/workers/actor/dp_actor.py", line 276, in _forward_micro_batch
+    entropy = verl_F.entropy_from_logits(logits)  # (bsz, response_length)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yiran/miniconda3/envs/l1-yaoqi/lib/python3.12/site-packages/verl/utils/torch_functional.py", line 148, in entropy_from_logits
+    entropy = torch.logsumexp(logits, dim=-1) - torch.sum(pd * logits, dim=-1)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 9.27 GiB. GPU 0 has a total capacity of 79.25 GiB of which 3.41 GiB is free. Including non-PyTorch memory, this process has 75.80 GiB memory in use. Of the allocated memory 74.05 GiB is allocated by PyTorch, with 86.00 MiB allocated in private pools (e.g., CUDA Graphs), and 108.89 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Unhandled error (suppress with 'RAY_IGNORE_UNHANDLED_ERRORS=1'): [36mray::WorkerDict.actor_rollout_update_actor()[39m (pid=788810, ip=172.28.177.94, actor_id=216ce15f991d21e58f365d5503000000, repr=<verl.single_controller.ray.base.WorkerDict object at 0x7eed87be3aa0>)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yiran/miniconda3/envs/l1-yaoqi/lib/python3.12/site-packages/verl/single_controller/ray/base.py", line 720, in func
+    return getattr(self.worker_dict[key], name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yiran/miniconda3/envs/l1-yaoqi/lib/python3.12/site-packages/verl/single_controller/base/decorator.py", line 430, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yiran/miniconda3/envs/l1-yaoqi/lib/python3.12/site-packages/verl/workers/fsdp_workers.py", line 735, in update_actor
+    metrics = self.actor.update_policy(data=data)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yiran/miniconda3/envs/l1-yaoqi/lib/python3.12/site-packages/verl/utils/profiler/performance.py", line 105, in f
+    return self.log(decorated_function, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yiran/miniconda3/envs/l1-yaoqi/lib/python3.12/site-packages/verl/utils/profiler/performance.py", line 118, in log
+    output = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yiran/miniconda3/envs/l1-yaoqi/lib/python3.12/site-packages/verl/workers/actor/dp_actor.py", line 423, in update_policy
+    entropy, log_prob = self._forward_micro_batch(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yiran/miniconda3/envs/l1-yaoqi/lib/python3.12/site-packages/verl/workers/actor/dp_actor.py", line 276, in _forward_micro_batch
+    entropy = verl_F.entropy_from_logits(logits)  # (bsz, response_length)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yiran/miniconda3/envs/l1-yaoqi/lib/python3.12/site-packages/verl/utils/torch_functional.py", line 148, in entropy_from_logits
+    entropy = torch.logsumexp(logits, dim=-1) - torch.sum(pd * logits, dim=-1)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 9.27 GiB. GPU 0 has a total capacity of 79.25 GiB of which 3.41 GiB is free. Including non-PyTorch memory, this process has 75.80 GiB memory in use. Of the allocated memory 74.05 GiB is allocated by PyTorch, with 86.00 MiB allocated in private pools (e.g., CUDA Graphs), and 108.89 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)

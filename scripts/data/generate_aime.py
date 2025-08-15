@@ -9,7 +9,7 @@ ds2 = load_dataset("opencompass/AIME2025", "AIME2025-II")['test']
 ds = concatenate_datasets([ds1, ds2])
 
 
-for num_tokens in [512, 1024, 2048, 3600, -512, -1024, -2048, -3600, -1]:
+for num_tokens in [512, 1024, 2048, 3600, -512, -1024, -2048, -3600]:
     all_data = []
     for i in range(len(ds)):
         question = ds[i]['question'].strip()
@@ -37,10 +37,10 @@ for num_tokens in [512, 1024, 2048, 3600, -512, -1024, -2048, -3600, -1]:
                     }
                 })
     if num_tokens == -1:
-        pd.DataFrame(all_data).to_parquet(f'~/deepscaler/data/aime2025.parquet')
+        pd.DataFrame(all_data).to_parquet(f'/disk3/yaoqi/l1/data/aime2025.parquet')
     else:
         if num_tokens < 0:
-            pd.DataFrame(all_data).to_parquet(f'~/deepscaler/data9_{num_tokens}/aime2025.parquet')
+            pd.DataFrame(all_data).to_parquet(f'/disk3/yaoqi/l1/data_{num_tokens}/aime2025.parquet')
         else:
-            pd.DataFrame(all_data).to_parquet(f'~/deepscaler/data_{num_tokens}/aime2025.parquet')
+            pd.DataFrame(all_data).to_parquet(f'/disk3/yaoqi/l1/data_{num_tokens}/aime2025.parquet')
     

@@ -13,7 +13,7 @@ import pandas as pd
 from verl.utils.hdfs_io import copy, makedirs
 from verl.utils.reward_score.math import last_boxed_only_string, remove_boxed
 import sys
-sys.path.append('../../deepscaler')
+# sys.path.append('../../deepscaler')
 from deepscaler.data.utils import load_dataset
 from deepscaler.data.dataset_types import TrainDataset, TestDataset
 
@@ -107,7 +107,7 @@ def make_map_fn(split: str):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Process datasets for DeepScaler training')
-    parser.add_argument('--local_dir', default=os.path.expanduser('~/deepscaler/data'),
+    parser.add_argument('--local_dir', default=os.path.expanduser('/disk3/yiran/yaoqi/l1/data'),
                        help='Local directory to save processed datasets')
     parser.add_argument('--hdfs_dir', default=None,
                        help='Optional HDFS directory to copy datasets to')

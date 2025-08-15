@@ -1,0 +1,12 @@
+{"time":"2025-08-13T11:55:04.208587395Z","level":"INFO","msg":"stream: starting","core version":"0.21.1"}
+{"time":"2025-08-13T11:55:04.577085672Z","level":"INFO","msg":"stream: created new stream","id":"iqmml5te"}
+{"time":"2025-08-13T11:55:04.577131417Z","level":"INFO","msg":"stream: started","id":"iqmml5te"}
+{"time":"2025-08-13T11:55:04.577160471Z","level":"INFO","msg":"writer: started","stream_id":"iqmml5te"}
+{"time":"2025-08-13T11:55:04.577170598Z","level":"INFO","msg":"sender: started","stream_id":"iqmml5te"}
+{"time":"2025-08-13T11:55:04.577180934Z","level":"INFO","msg":"handler: started","stream_id":"iqmml5te"}
+{"time":"2025-08-13T11:55:53.497631924Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.408430929,"progress":"13.4KB/13.4KB"}],"total_operations":1}}
+{"time":"2025-08-13T11:55:53.94915384Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-08-13T11:55:54.283397419Z","level":"INFO","msg":"stream: closing","id":"iqmml5te"}
+{"time":"2025-08-13T11:55:54.28342738Z","level":"INFO","msg":"handler: closed","stream_id":"iqmml5te"}
+{"time":"2025-08-13T11:55:54.283481297Z","level":"INFO","msg":"sender: closed","stream_id":"iqmml5te"}
+{"time":"2025-08-13T11:55:54.283504694Z","level":"INFO","msg":"stream: closed","id":"iqmml5te"}

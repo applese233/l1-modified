@@ -4,7 +4,7 @@ from datasets import load_dataset
 
 ds_mmlu = load_dataset("cais/mmlu", "all")
 
-for num_tokens in [512, 1024, 2048, 3600, -512, -1024, -2048, -3600, -1]:
+for num_tokens in [512, 1024, 2048, 3600, -512, -1024, -2048, -3600]:
     all_data = []
     for i in range(len(ds_mmlu['test'])):
         row = ds_mmlu['test'][i]
@@ -45,8 +45,8 @@ for num_tokens in [512, 1024, 2048, 3600, -512, -1024, -2048, -3600, -1]:
     all_data = [all_data[i] for i in indices[:1000]]
     if num_tokens != -1:
         if num_tokens < -1:
-            pd.DataFrame(all_data).to_parquet(f'~/deepscaler/data9_{num_tokens}/mmlu_1000.parquet')
+            pd.DataFrame(all_data).to_parquet(f'/disk3/yiran/yaoqi/l1/data_{num_tokens}/mmlu_1000.parquet')
         else:
-            pd.DataFrame(all_data).to_parquet(f'~/deepscaler/data_{num_tokens}/mmlu_1000.parquet')
+            pd.DataFrame(all_data).to_parquet(f'/disk3/yiran/yaoqi/l1/data_{num_tokens}/mmlu_1000.parquet')
     else:
-        pd.DataFrame(all_data).to_parquet(f'~/deepscaler/data/mmlu_1000.parquet')
+        pd.DataFrame(all_data).to_parquet(f'/disk3/yiran/yaoqi/l1/data/mmlu_1000.parquet')

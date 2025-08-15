@@ -1,0 +1,1530 @@
+Checkpoint tracker file does not exist: /disk3/yiran/yaoqi/l1/checkpoints/l1finetune/qwen2.5-1.5B-Instruct-l1_exact/latest_checkpointed_iteration.txt
+Training from scratch
+test_gen_batch meta info: {'eos_token_id': 151645, 'pad_token_id': 151643, 'recompute_log_prob': False, 'do_sample': False, 'validate': True, 'global_steps': 0}
+validation generation end
+delta_score: -0.6398999999999999, reward_response.is_correct: False, num_tokens: 1963, valid_response_length: 4096delta_score: -0.6398999999999999, reward_response.is_correct: False, num_tokens: 1963, valid_response_length: 4096
+
+delta_score: -0.6398999999999999, reward_response.is_correct: False, num_tokens: 1963, valid_response_length: 4096
+delta_score: -0.6398999999999999, reward_response.is_correct: False, num_tokens: 1963, valid_response_length: 4096delta_score: -0.6398999999999999, reward_response.is_correct: False, num_tokens: 1963, valid_response_length: 4096delta_score: -0.6398999999999999, reward_response.is_correct: False, num_tokens: 1963, valid_response_length: 4096delta_score: -0.6398999999999999, reward_response.is_correct: False, num_tokens: 1963, valid_response_length: 4096delta_score: -0.6398999999999999, reward_response.is_correct: False, num_tokens: 1963, valid_response_length: 4096delta_score: -0.6398999999999999, reward_response.is_correct: False, num_tokens: 1963, valid_response_length: 4096delta_score: -0.6398999999999999, reward_response.is_correct: False, num_tokens: 1963, valid_response_length: 4096
+
+delta_score: -0.6398999999999999, reward_response.is_correct: False, num_tokens: 1963, valid_response_length: 4096delta_score: -0.6398999999999999, reward_response.is_correct: False, num_tokens: 1963, valid_response_length: 4096delta_score: -0.6398999999999999, reward_response.is_correct: False, num_tokens: 1963, valid_response_length: 4096
+delta_score: -0.6398999999999999, reward_response.is_correct: False, num_tokens: 1963, valid_response_length: 4096delta_score: -0.6398999999999999, reward_response.is_correct: False, num_tokens: 1963, valid_response_length: 4096delta_score: -0.6398999999999999, reward_response.is_correct: False, num_tokens: 1963, valid_response_length: 4096
+
+delta_score: -0.4314, reward_response.is_correct: False, num_tokens: 2658, valid_response_length: 4096delta_score: -0.4314, reward_response.is_correct: False, num_tokens: 2658, valid_response_length: 4096delta_score: -0.4314, reward_response.is_correct: False, num_tokens: 2658, valid_response_length: 4096
+delta_score: -0.4314, reward_response.is_correct: False, num_tokens: 2658, valid_response_length: 4096
+
+delta_score: -0.4314, reward_response.is_correct: False, num_tokens: 2658, valid_response_length: 4096delta_score: -0.4314, reward_response.is_correct: False, num_tokens: 2658, valid_response_length: 4096delta_score: -0.4314, reward_response.is_correct: False, num_tokens: 2658, valid_response_length: 4096
+
+delta_score: -0.4314, reward_response.is_correct: False, num_tokens: 2658, valid_response_length: 4096
+delta_score: -0.4314, reward_response.is_correct: False, num_tokens: 2658, valid_response_length: 4096delta_score: -0.07079999999999997, reward_response.is_correct: False, num_tokens: 689, valid_response_length: 453delta_score: -0.07079999999999997, reward_response.is_correct: False, num_tokens: 689, valid_response_length: 453delta_score: -0.07079999999999997, reward_response.is_correct: False, num_tokens: 689, valid_response_length: 453delta_score: -0.07079999999999997, reward_response.is_correct: False, num_tokens: 689, valid_response_length: 453delta_score: -0.07079999999999997, reward_response.is_correct: False, num_tokens: 689, valid_response_length: 453delta_score: -0.07079999999999997, reward_response.is_correct: False, num_tokens: 689, valid_response_length: 453delta_score: -0.07079999999999997, reward_response.is_correct: False, num_tokens: 689, valid_response_length: 453delta_score: -0.4314, reward_response.is_correct: False, num_tokens: 2658, valid_response_length: 4096
+
+delta_score: -0.07079999999999997, reward_response.is_correct: False, num_tokens: 689, valid_response_length: 453delta_score: -0.4314, reward_response.is_correct: False, num_tokens: 2658, valid_response_length: 4096delta_score: -0.07079999999999997, reward_response.is_correct: False, num_tokens: 689, valid_response_length: 453
+
+delta_score: -0.07079999999999997, reward_response.is_correct: False, num_tokens: 689, valid_response_length: 453delta_score: -0.07079999999999997, reward_response.is_correct: False, num_tokens: 689, valid_response_length: 453delta_score: -0.7910999999999999, reward_response.is_correct: False, num_tokens: 3408, valid_response_length: 771
+delta_score: -0.4314, reward_response.is_correct: False, num_tokens: 2658, valid_response_length: 4096delta_score: -0.7910999999999999, reward_response.is_correct: False, num_tokens: 3408, valid_response_length: 771delta_score: -0.7910999999999999, reward_response.is_correct: False, num_tokens: 3408, valid_response_length: 771
+
+delta_score: -0.7910999999999999, reward_response.is_correct: False, num_tokens: 3408, valid_response_length: 771delta_score: -0.4314, reward_response.is_correct: False, num_tokens: 2658, valid_response_length: 4096
+delta_score: -0.7910999999999999, reward_response.is_correct: False, num_tokens: 3408, valid_response_length: 771
+delta_score: -0.07079999999999997, reward_response.is_correct: False, num_tokens: 689, valid_response_length: 453delta_score: -0.07079999999999997, reward_response.is_correct: False, num_tokens: 689, valid_response_length: 453delta_score: -0.7910999999999999, reward_response.is_correct: False, num_tokens: 3408, valid_response_length: 771
+delta_score: -0.7910999999999999, reward_response.is_correct: False, num_tokens: 3408, valid_response_length: 771delta_score: -0.7910999999999999, reward_response.is_correct: False, num_tokens: 3408, valid_response_length: 771
+
+delta_score: -0.07079999999999997, reward_response.is_correct: False, num_tokens: 689, valid_response_length: 453delta_score: -0.07079999999999997, reward_response.is_correct: False, num_tokens: 689, valid_response_length: 453
+delta_score: -0.9158999999999999, reward_response.is_correct: False, num_tokens: 3860, valid_response_length: 807
+
+delta_score: -0.4314, reward_response.is_correct: False, num_tokens: 2658, valid_response_length: 4096delta_score: -0.9158999999999999, reward_response.is_correct: False, num_tokens: 3860, valid_response_length: 807delta_score: -0.9158999999999999, reward_response.is_correct: False, num_tokens: 3860, valid_response_length: 807
+delta_score: -0.07079999999999997, reward_response.is_correct: False, num_tokens: 689, valid_response_length: 453
+delta_score: -0.9158999999999999, reward_response.is_correct: False, num_tokens: 3860, valid_response_length: 807
+delta_score: -0.7910999999999999, reward_response.is_correct: False, num_tokens: 3408, valid_response_length: 771delta_score: -0.4314, reward_response.is_correct: False, num_tokens: 2658, valid_response_length: 4096delta_score: -0.9158999999999999, reward_response.is_correct: False, num_tokens: 3860, valid_response_length: 807delta_score: -0.9158999999999999, reward_response.is_correct: False, num_tokens: 3860, valid_response_length: 807
+delta_score: -0.5216999999999999, reward_response.is_correct: False, num_tokens: 2357, valid_response_length: 4096delta_score: -0.7910999999999999, reward_response.is_correct: False, num_tokens: 3408, valid_response_length: 771delta_score: -0.5216999999999999, reward_response.is_correct: False, num_tokens: 2357, valid_response_length: 4096delta_score: -0.7910999999999999, reward_response.is_correct: False, num_tokens: 3408, valid_response_length: 771
+delta_score: -0.5216999999999999, reward_response.is_correct: False, num_tokens: 2357, valid_response_length: 4096delta_score: -0.7910999999999999, reward_response.is_correct: False, num_tokens: 3408, valid_response_length: 771delta_score: -0.7910999999999999, reward_response.is_correct: False, num_tokens: 3408, valid_response_length: 771delta_score: -0.9158999999999999, reward_response.is_correct: False, num_tokens: 3860, valid_response_length: 807delta_score: -0.9158999999999999, reward_response.is_correct: False, num_tokens: 3860, valid_response_length: 807
+delta_score: -0.5216999999999999, reward_response.is_correct: False, num_tokens: 2357, valid_response_length: 4096delta_score: -0.5216999999999999, reward_response.is_correct: False, num_tokens: 2357, valid_response_length: 4096delta_score: -0.7910999999999999, reward_response.is_correct: False, num_tokens: 3408, valid_response_length: 771delta_score: -0.5216999999999999, reward_response.is_correct: False, num_tokens: 2357, valid_response_length: 4096delta_score: -0.5216999999999999, reward_response.is_correct: False, num_tokens: 2357, valid_response_length: 4096
+delta_score: -0.5216999999999999, reward_response.is_correct: False, num_tokens: 2357, valid_response_length: 4096
+
+delta_score: -0.7880999999999999, reward_response.is_correct: False, num_tokens: 3335, valid_response_length: 708delta_score: -0.7880999999999999, reward_response.is_correct: False, num_tokens: 3335, valid_response_length: 708
+
+
+delta_score: -0.7880999999999999, reward_response.is_correct: False, num_tokens: 3335, valid_response_length: 708
+delta_score: -0.7880999999999999, reward_response.is_correct: False, num_tokens: 3335, valid_response_length: 708
+delta_score: -0.4314, reward_response.is_correct: False, num_tokens: 2658, valid_response_length: 4096delta_score: -0.7880999999999999, reward_response.is_correct: False, num_tokens: 3335, valid_response_length: 708delta_score: -0.9087, reward_response.is_correct: False, num_tokens: 3499, valid_response_length: 470delta_score: -0.9158999999999999, reward_response.is_correct: False, num_tokens: 3860, valid_response_length: 807
+
+
+delta_score: -0.5216999999999999, reward_response.is_correct: False, num_tokens: 2357, valid_response_length: 4096delta_score: -0.5216999999999999, reward_response.is_correct: False, num_tokens: 2357, valid_response_length: 4096delta_score: -0.7910999999999999, reward_response.is_correct: False, num_tokens: 3408, valid_response_length: 771delta_score: -0.9087, reward_response.is_correct: False, num_tokens: 3499, valid_response_length: 470
+delta_score: -0.9087, reward_response.is_correct: False, num_tokens: 3499, valid_response_length: 470
+
+delta_score: -0.9158999999999999, reward_response.is_correct: False, num_tokens: 3860, valid_response_length: 807delta_score: -0.9158999999999999, reward_response.is_correct: False, num_tokens: 3860, valid_response_length: 807delta_score: -0.9087, reward_response.is_correct: False, num_tokens: 3499, valid_response_length: 470
+delta_score: -0.9087, reward_response.is_correct: False, num_tokens: 3499, valid_response_length: 470delta_score: -0.5216999999999999, reward_response.is_correct: False, num_tokens: 2357, valid_response_length: 4096delta_score: -0.9158999999999999, reward_response.is_correct: False, num_tokens: 3860, valid_response_length: 807delta_score: -0.9087, reward_response.is_correct: False, num_tokens: 3499, valid_response_length: 470
+delta_score: -0.7880999999999999, reward_response.is_correct: False, num_tokens: 3335, valid_response_length: 708delta_score: -0.9087, reward_response.is_correct: False, num_tokens: 3499, valid_response_length: 470delta_score: -0.9087, reward_response.is_correct: False, num_tokens: 3499, valid_response_length: 470delta_score: -0.7880999999999999, reward_response.is_correct: False, num_tokens: 3335, valid_response_length: 708delta_score: -0.9158999999999999, reward_response.is_correct: False, num_tokens: 3860, valid_response_length: 807delta_score: -0.7880999999999999, reward_response.is_correct: False, num_tokens: 3335, valid_response_length: 708
+delta_score: -0.9158999999999999, reward_response.is_correct: False, num_tokens: 3860, valid_response_length: 807delta_score: -0.6285, reward_response.is_correct: False, num_tokens: 2479, valid_response_length: 384
+delta_score: -0.7880999999999999, reward_response.is_correct: False, num_tokens: 3335, valid_response_length: 708delta_score: -0.6285, reward_response.is_correct: False, num_tokens: 2479, valid_response_length: 384
+delta_score: -0.6285, reward_response.is_correct: False, num_tokens: 2479, valid_response_length: 384delta_score: -0.9087, reward_response.is_correct: False, num_tokens: 3499, valid_response_length: 470delta_score: -0.6285, reward_response.is_correct: False, num_tokens: 2479, valid_response_length: 384
+
+delta_score: -0.6285, reward_response.is_correct: False, num_tokens: 2479, valid_response_length: 384
+delta_score: -0.5216999999999999, reward_response.is_correct: False, num_tokens: 2357, valid_response_length: 4096delta_score: -0.9087, reward_response.is_correct: False, num_tokens: 3499, valid_response_length: 470delta_score: -0.6285, reward_response.is_correct: False, num_tokens: 2479, valid_response_length: 384delta_score: -0.9087, reward_response.is_correct: False, num_tokens: 3499, valid_response_length: 470delta_score: -0.9087, reward_response.is_correct: False, num_tokens: 3499, valid_response_length: 470
+delta_score: -0.5216999999999999, reward_response.is_correct: False, num_tokens: 2357, valid_response_length: 4096
+delta_score: -0.5216999999999999, reward_response.is_correct: False, num_tokens: 2357, valid_response_length: 4096
+delta_score: -0.9087, reward_response.is_correct: False, num_tokens: 3499, valid_response_length: 470delta_score: -0.6285, reward_response.is_correct: False, num_tokens: 2479, valid_response_length: 384
+
+
+delta_score: -0.7880999999999999, reward_response.is_correct: False, num_tokens: 3335, valid_response_length: 708
+delta_score: -0.9087, reward_response.is_correct: False, num_tokens: 3499, valid_response_length: 470delta_score: -0.9158999999999999, reward_response.is_correct: False, num_tokens: 3860, valid_response_length: 807
+delta_score: -0.6285, reward_response.is_correct: False, num_tokens: 2479, valid_response_length: 384
+delta_score: -0.7880999999999999, reward_response.is_correct: False, num_tokens: 3335, valid_response_length: 708
+delta_score: -0.7880999999999999, reward_response.is_correct: False, num_tokens: 3335, valid_response_length: 708delta_score: -0.6285, reward_response.is_correct: False, num_tokens: 2479, valid_response_length: 384
+delta_score: -0.7880999999999999, reward_response.is_correct: False, num_tokens: 3335, valid_response_length: 708
+delta_score: -0.14190000000000003, reward_response.is_correct: False, num_tokens: 1155, valid_response_length: 682
+
+
+delta_score: -0.5216999999999999, reward_response.is_correct: False, num_tokens: 2357, valid_response_length: 4096
+delta_score: -0.14190000000000003, reward_response.is_correct: False, num_tokens: 1155, valid_response_length: 682
+
+
+
+delta_score: -0.6285, reward_response.is_correct: False, num_tokens: 2479, valid_response_length: 384
+delta_score: -0.14190000000000003, reward_response.is_correct: False, num_tokens: 1155, valid_response_length: 682delta_score: -0.14190000000000003, reward_response.is_correct: False, num_tokens: 1155, valid_response_length: 682delta_score: -0.6285, reward_response.is_correct: False, num_tokens: 2479, valid_response_length: 384
+
+delta_score: -0.14190000000000003, reward_response.is_correct: False, num_tokens: 1155, valid_response_length: 682
+
+
+delta_score: -0.14190000000000003, reward_response.is_correct: False, num_tokens: 1155, valid_response_length: 682
+
+
+delta_score: -0.14190000000000003, reward_response.is_correct: False, num_tokens: 1155, valid_response_length: 682
+
+
+delta_score: -0.14190000000000003, reward_response.is_correct: False, num_tokens: 1155, valid_response_length: 682
+
+delta_score: -0.49529999999999996, reward_response.is_correct: False, num_tokens: 2754, valid_response_length: 1103
+
+
+
+delta_score: -0.49529999999999996, reward_response.is_correct: False, num_tokens: 2754, valid_response_length: 1103delta_score: -0.49529999999999996, reward_response.is_correct: False, num_tokens: 2754, valid_response_length: 1103
+
+delta_score: -0.6285, reward_response.is_correct: False, num_tokens: 2479, valid_response_length: 384
+
+
+delta_score: -0.49529999999999996, reward_response.is_correct: False, num_tokens: 2754, valid_response_length: 1103delta_score: -0.49529999999999996, reward_response.is_correct: False, num_tokens: 2754, valid_response_length: 1103
+delta_score: -0.49529999999999996, reward_response.is_correct: False, num_tokens: 2754, valid_response_length: 1103delta_score: -0.49529999999999996, reward_response.is_correct: False, num_tokens: 2754, valid_response_length: 1103
+
+delta_score: -0.9087, reward_response.is_correct: False, num_tokens: 3499, valid_response_length: 470delta_score: -0.49529999999999996, reward_response.is_correct: False, num_tokens: 2754, valid_response_length: 1103
+
+delta_score: -0.7880999999999999, reward_response.is_correct: False, num_tokens: 3335, valid_response_length: 708
+delta_score: -0.7836, reward_response.is_correct: False, num_tokens: 1484, valid_response_length: 4096
+
+delta_score: -0.14190000000000003, reward_response.is_correct: False, num_tokens: 1155, valid_response_length: 682delta_score: -0.7836, reward_response.is_correct: False, num_tokens: 1484, valid_response_length: 4096delta_score: -0.49529999999999996, reward_response.is_correct: False, num_tokens: 2754, valid_response_length: 1103delta_score: -0.7880999999999999, reward_response.is_correct: False, num_tokens: 3335, valid_response_length: 708
+
+delta_score: -0.7836, reward_response.is_correct: False, num_tokens: 1484, valid_response_length: 4096
+delta_score: -0.7836, reward_response.is_correct: False, num_tokens: 1484, valid_response_length: 4096
+delta_score: -0.7836, reward_response.is_correct: False, num_tokens: 1484, valid_response_length: 4096delta_score: -0.6285, reward_response.is_correct: False, num_tokens: 2479, valid_response_length: 384delta_score: -0.49529999999999996, reward_response.is_correct: False, num_tokens: 2754, valid_response_length: 1103
+
+delta_score: -0.14190000000000003, reward_response.is_correct: False, num_tokens: 1155, valid_response_length: 682delta_score: -0.7836, reward_response.is_correct: False, num_tokens: 1484, valid_response_length: 4096
+delta_score: -0.7836, reward_response.is_correct: False, num_tokens: 1484, valid_response_length: 4096delta_score: -0.14190000000000003, reward_response.is_correct: False, num_tokens: 1155, valid_response_length: 682
+
+
+delta_score: -0.49529999999999996, reward_response.is_correct: False, num_tokens: 2754, valid_response_length: 1103
+
+delta_score: -0.6132, reward_response.is_correct: False, num_tokens: 2436, valid_response_length: 392
+
+delta_score: -0.14190000000000003, reward_response.is_correct: False, num_tokens: 1155, valid_response_length: 682delta_score: -0.14190000000000003, reward_response.is_correct: False, num_tokens: 1155, valid_response_length: 682delta_score: -0.6132, reward_response.is_correct: False, num_tokens: 2436, valid_response_length: 392delta_score: -0.9087, reward_response.is_correct: False, num_tokens: 3499, valid_response_length: 470
+
+delta_score: -0.6132, reward_response.is_correct: False, num_tokens: 2436, valid_response_length: 392
+delta_score: -0.7836, reward_response.is_correct: False, num_tokens: 1484, valid_response_length: 4096delta_score: -0.6285, reward_response.is_correct: False, num_tokens: 2479, valid_response_length: 384
+delta_score: -0.14190000000000003, reward_response.is_correct: False, num_tokens: 1155, valid_response_length: 682
+
+
+delta_score: -0.49529999999999996, reward_response.is_correct: False, num_tokens: 2754, valid_response_length: 1103
+
+
+
+
+delta_score: -0.6132, reward_response.is_correct: False, num_tokens: 2436, valid_response_length: 392delta_score: -0.6257999999999999, reward_response.is_correct: False, num_tokens: 3854, valid_response_length: 1768delta_score: -0.7836, reward_response.is_correct: False, num_tokens: 1484, valid_response_length: 4096delta_score: -0.49529999999999996, reward_response.is_correct: False, num_tokens: 2754, valid_response_length: 1103
+
+
+
+delta_score: -0.6257999999999999, reward_response.is_correct: False, num_tokens: 3854, valid_response_length: 1768delta_score: -0.9158999999999999, reward_response.is_correct: False, num_tokens: 3860, valid_response_length: 807
+delta_score: -0.6132, reward_response.is_correct: False, num_tokens: 2436, valid_response_length: 392delta_score: -0.6257999999999999, reward_response.is_correct: False, num_tokens: 3854, valid_response_length: 1768
+delta_score: -0.49529999999999996, reward_response.is_correct: False, num_tokens: 2754, valid_response_length: 1103delta_score: -0.6257999999999999, reward_response.is_correct: False, num_tokens: 3854, valid_response_length: 1768
+delta_score: -0.6257999999999999, reward_response.is_correct: False, num_tokens: 3854, valid_response_length: 1768delta_score: -0.6257999999999999, reward_response.is_correct: False, num_tokens: 3854, valid_response_length: 1768
+delta_score: -0.6257999999999999, reward_response.is_correct: False, num_tokens: 3854, valid_response_length: 1768delta_score: -0.14190000000000003, reward_response.is_correct: False, num_tokens: 1155, valid_response_length: 682delta_score: -0.14190000000000003, reward_response.is_correct: False, num_tokens: 1155, valid_response_length: 682
+delta_score: -0.7836, reward_response.is_correct: False, num_tokens: 1484, valid_response_length: 4096
+
+delta_score: -0.6132, reward_response.is_correct: False, num_tokens: 2436, valid_response_length: 392
+
+
+delta_score: -0.6132, reward_response.is_correct: False, num_tokens: 2436, valid_response_length: 392
+delta_score: -0.7880999999999999, reward_response.is_correct: False, num_tokens: 3335, valid_response_length: 708delta_score: -0.6285, reward_response.is_correct: False, num_tokens: 2479, valid_response_length: 384delta_score: -0.6132, reward_response.is_correct: False, num_tokens: 2436, valid_response_length: 392delta_score: -0.6132, reward_response.is_correct: False, num_tokens: 2436, valid_response_length: 392delta_score: -0.8636999999999999, reward_response.is_correct: False, num_tokens: 3146, valid_response_length: 267delta_score: -0.6257999999999999, reward_response.is_correct: False, num_tokens: 3854, valid_response_length: 1768delta_score: -0.7836, reward_response.is_correct: False, num_tokens: 1484, valid_response_length: 4096delta_score: -0.7836, reward_response.is_correct: False, num_tokens: 1484, valid_response_length: 4096delta_score: -0.8636999999999999, reward_response.is_correct: False, num_tokens: 3146, valid_response_length: 267
+delta_score: -0.7910999999999999, reward_response.is_correct: False, num_tokens: 3408, valid_response_length: 771
+delta_score: -0.49529999999999996, reward_response.is_correct: False, num_tokens: 2754, valid_response_length: 1103
+
+
+delta_score: -0.8636999999999999, reward_response.is_correct: False, num_tokens: 3146, valid_response_length: 267
+
+
+
+
+
+delta_score: -0.6132, reward_response.is_correct: False, num_tokens: 2436, valid_response_length: 392
+
+delta_score: -0.8636999999999999, reward_response.is_correct: False, num_tokens: 3146, valid_response_length: 267
+delta_score: -0.6132, reward_response.is_correct: False, num_tokens: 2436, valid_response_length: 392delta_score: -0.7836, reward_response.is_correct: False, num_tokens: 1484, valid_response_length: 4096
+
+
+delta_score: -0.8636999999999999, reward_response.is_correct: False, num_tokens: 3146, valid_response_length: 267delta_score: -0.6132, reward_response.is_correct: False, num_tokens: 2436, valid_response_length: 392
+delta_score: -0.04349999999999998, reward_response.is_correct: False, num_tokens: 679, valid_response_length: 824delta_score: -0.6257999999999999, reward_response.is_correct: False, num_tokens: 3854, valid_response_length: 1768
+
+delta_score: -0.04349999999999998, reward_response.is_correct: False, num_tokens: 679, valid_response_length: 824
+delta_score: -0.04349999999999998, reward_response.is_correct: False, num_tokens: 679, valid_response_length: 824delta_score: -0.7836, reward_response.is_correct: False, num_tokens: 1484, valid_response_length: 4096
+delta_score: -0.8636999999999999, reward_response.is_correct: False, num_tokens: 3146, valid_response_length: 267delta_score: -0.8636999999999999, reward_response.is_correct: False, num_tokens: 3146, valid_response_length: 267delta_score: -0.8636999999999999, reward_response.is_correct: False, num_tokens: 3146, valid_response_length: 267
+delta_score: -0.6257999999999999, reward_response.is_correct: False, num_tokens: 3854, valid_response_length: 1768delta_score: -0.04349999999999998, reward_response.is_correct: False, num_tokens: 679, valid_response_length: 824delta_score: -0.04349999999999998, reward_response.is_correct: False, num_tokens: 679, valid_response_length: 824delta_score: -0.04349999999999998, reward_response.is_correct: False, num_tokens: 679, valid_response_length: 824delta_score: -0.8636999999999999, reward_response.is_correct: False, num_tokens: 3146, valid_response_length: 267
+delta_score: -0.6257999999999999, reward_response.is_correct: False, num_tokens: 3854, valid_response_length: 1768delta_score: -0.04349999999999998, reward_response.is_correct: False, num_tokens: 679, valid_response_length: 824delta_score: -0.8636999999999999, reward_response.is_correct: False, num_tokens: 3146, valid_response_length: 267delta_score: -0.04349999999999998, reward_response.is_correct: False, num_tokens: 679, valid_response_length: 824
+delta_score: -0.8636999999999999, reward_response.is_correct: False, num_tokens: 3146, valid_response_length: 267delta_score: -0.6257999999999999, reward_response.is_correct: False, num_tokens: 3854, valid_response_length: 1768delta_score: -0.04349999999999998, reward_response.is_correct: False, num_tokens: 679, valid_response_length: 824
+delta_score: -0.8636999999999999, reward_response.is_correct: False, num_tokens: 3146, valid_response_length: 267delta_score: -0.6257999999999999, reward_response.is_correct: False, num_tokens: 3854, valid_response_length: 1768
+delta_score: -0.6257999999999999, reward_response.is_correct: False, num_tokens: 3854, valid_response_length: 1768delta_score: -0.6257999999999999, reward_response.is_correct: False, num_tokens: 3854, valid_response_length: 1768
+delta_score: -0.7986, reward_response.is_correct: False, num_tokens: 3177, valid_response_length: 515delta_score: -0.6132, reward_response.is_correct: False, num_tokens: 2436, valid_response_length: 392
+
+delta_score: -0.6132, reward_response.is_correct: False, num_tokens: 2436, valid_response_length: 392delta_score: -0.04349999999999998, reward_response.is_correct: False, num_tokens: 679, valid_response_length: 824delta_score: -0.6257999999999999, reward_response.is_correct: False, num_tokens: 3854, valid_response_length: 1768delta_score: -0.7986, reward_response.is_correct: False, num_tokens: 3177, valid_response_length: 515
+
+
+
+
+
+delta_score: -0.04349999999999998, reward_response.is_correct: False, num_tokens: 679, valid_response_length: 824
+delta_score: -0.8636999999999999, reward_response.is_correct: False, num_tokens: 3146, valid_response_length: 267delta_score: -0.6132, reward_response.is_correct: False, num_tokens: 2436, valid_response_length: 392delta_score: -0.04349999999999998, reward_response.is_correct: False, num_tokens: 679, valid_response_length: 824
+
+
+
+
+delta_score: -0.04349999999999998, reward_response.is_correct: False, num_tokens: 679, valid_response_length: 824
+
+delta_score: -0.7986, reward_response.is_correct: False, num_tokens: 3177, valid_response_length: 515
+
+delta_score: -0.7986, reward_response.is_correct: False, num_tokens: 3177, valid_response_length: 515delta_score: -0.6132, reward_response.is_correct: False, num_tokens: 2436, valid_response_length: 392
+
+delta_score: -0.7986, reward_response.is_correct: False, num_tokens: 3177, valid_response_length: 515delta_score: -0.7986, reward_response.is_correct: False, num_tokens: 3177, valid_response_length: 515delta_score: -0.49529999999999996, reward_response.is_correct: False, num_tokens: 2754, valid_response_length: 1103
+delta_score: -0.6435, reward_response.is_correct: False, num_tokens: 2740, valid_response_length: 595
+delta_score: -0.7986, reward_response.is_correct: False, num_tokens: 3177, valid_response_length: 515
+
+
+delta_score: -0.6435, reward_response.is_correct: False, num_tokens: 2740, valid_response_length: 595
+delta_score: -0.7986, reward_response.is_correct: False, num_tokens: 3177, valid_response_length: 515
+delta_score: -0.8636999999999999, reward_response.is_correct: False, num_tokens: 3146, valid_response_length: 267
+delta_score: -0.6435, reward_response.is_correct: False, num_tokens: 2740, valid_response_length: 595delta_score: -0.6435, reward_response.is_correct: False, num_tokens: 2740, valid_response_length: 595delta_score: -0.6435, reward_response.is_correct: False, num_tokens: 2740, valid_response_length: 595delta_score: -0.6435, reward_response.is_correct: False, num_tokens: 2740, valid_response_length: 595
+
+delta_score: -0.8636999999999999, reward_response.is_correct: False, num_tokens: 3146, valid_response_length: 267delta_score: -0.04349999999999998, reward_response.is_correct: False, num_tokens: 679, valid_response_length: 824
+
+
+
+
+delta_score: -0.04349999999999998, reward_response.is_correct: False, num_tokens: 679, valid_response_length: 824delta_score: -0.7986, reward_response.is_correct: False, num_tokens: 3177, valid_response_length: 515delta_score: -0.7986, reward_response.is_correct: False, num_tokens: 3177, valid_response_length: 515
+delta_score: -0.6435, reward_response.is_correct: False, num_tokens: 2740, valid_response_length: 595
+delta_score: -0.7986, reward_response.is_correct: False, num_tokens: 3177, valid_response_length: 515
+delta_score: -0.6435, reward_response.is_correct: False, num_tokens: 2740, valid_response_length: 595delta_score: -0.7986, reward_response.is_correct: False, num_tokens: 3177, valid_response_length: 515delta_score: -0.8636999999999999, reward_response.is_correct: False, num_tokens: 3146, valid_response_length: 267
+
+
+
+
+
+delta_score: -0.8795999999999999, reward_response.is_correct: False, num_tokens: 3692, valid_response_length: 760
+
+
+
+
+
+delta_score: -0.7986, reward_response.is_correct: False, num_tokens: 3177, valid_response_length: 515
+
+delta_score: -0.6435, reward_response.is_correct: False, num_tokens: 2740, valid_response_length: 595delta_score: -0.7986, reward_response.is_correct: False, num_tokens: 3177, valid_response_length: 515delta_score: -0.7836, reward_response.is_correct: False, num_tokens: 1484, valid_response_length: 4096delta_score: -0.5216999999999999, reward_response.is_correct: False, num_tokens: 2357, valid_response_length: 4096
+
+delta_score: -0.6435, reward_response.is_correct: False, num_tokens: 2740, valid_response_length: 595delta_score: -0.8795999999999999, reward_response.is_correct: False, num_tokens: 3692, valid_response_length: 760delta_score: -0.8795999999999999, reward_response.is_correct: False, num_tokens: 3692, valid_response_length: 760
+delta_score: -0.8795999999999999, reward_response.is_correct: False, num_tokens: 3692, valid_response_length: 760delta_score: -0.7986, reward_response.is_correct: False, num_tokens: 3177, valid_response_length: 515delta_score: -0.8795999999999999, reward_response.is_correct: False, num_tokens: 3692, valid_response_length: 760
+delta_score: -0.1251, reward_response.is_correct: False, num_tokens: 332, valid_response_length: 749delta_score: -0.6435, reward_response.is_correct: False, num_tokens: 2740, valid_response_length: 595
+
+
+
+delta_score: -0.6435, reward_response.is_correct: False, num_tokens: 2740, valid_response_length: 595delta_score: -0.1251, reward_response.is_correct: False, num_tokens: 332, valid_response_length: 749
+
+
+delta_score: -0.8795999999999999, reward_response.is_correct: False, num_tokens: 3692, valid_response_length: 760
+
+delta_score: -0.1251, reward_response.is_correct: False, num_tokens: 332, valid_response_length: 749
+
+delta_score: -0.1251, reward_response.is_correct: False, num_tokens: 332, valid_response_length: 749delta_score: -0.8795999999999999, reward_response.is_correct: False, num_tokens: 3692, valid_response_length: 760delta_score: -0.1251, reward_response.is_correct: False, num_tokens: 332, valid_response_length: 749
+delta_score: -0.12, reward_response.is_correct: False, num_tokens: 932, valid_response_length: 532delta_score: -0.1251, reward_response.is_correct: False, num_tokens: 332, valid_response_length: 749
+
+
+
+delta_score: -0.12, reward_response.is_correct: False, num_tokens: 932, valid_response_length: 532delta_score: -0.8795999999999999, reward_response.is_correct: False, num_tokens: 3692, valid_response_length: 760
+
+delta_score: -0.12, reward_response.is_correct: False, num_tokens: 932, valid_response_length: 532
+
+
+
+
+delta_score: -0.8795999999999999, reward_response.is_correct: False, num_tokens: 3692, valid_response_length: 760
+
+
+delta_score: -0.1251, reward_response.is_correct: False, num_tokens: 332, valid_response_length: 749
+delta_score: -0.7836, reward_response.is_correct: False, num_tokens: 1484, valid_response_length: 4096delta_score: -0.8795999999999999, reward_response.is_correct: False, num_tokens: 3692, valid_response_length: 760delta_score: -0.04349999999999998, reward_response.is_correct: False, num_tokens: 679, valid_response_length: 824
+delta_score: -0.12, reward_response.is_correct: False, num_tokens: 932, valid_response_length: 532
+
+delta_score: -0.8795999999999999, reward_response.is_correct: False, num_tokens: 3692, valid_response_length: 760delta_score: -0.1251, reward_response.is_correct: False, num_tokens: 332, valid_response_length: 749delta_score: -0.1251, reward_response.is_correct: False, num_tokens: 332, valid_response_length: 749delta_score: -0.12, reward_response.is_correct: False, num_tokens: 932, valid_response_length: 532delta_score: -0.12, reward_response.is_correct: False, num_tokens: 932, valid_response_length: 532delta_score: -0.8795999999999999, reward_response.is_correct: False, num_tokens: 3692, valid_response_length: 760delta_score: -0.1251, reward_response.is_correct: False, num_tokens: 332, valid_response_length: 749delta_score: -0.6509999999999999, reward_response.is_correct: False, num_tokens: 3060, valid_response_length: 890delta_score: -0.12, reward_response.is_correct: False, num_tokens: 932, valid_response_length: 532delta_score: -0.12, reward_response.is_correct: False, num_tokens: 932, valid_response_length: 532
+delta_score: -0.6509999999999999, reward_response.is_correct: False, num_tokens: 3060, valid_response_length: 890delta_score: -0.12, reward_response.is_correct: False, num_tokens: 932, valid_response_length: 532
+delta_score: -0.6509999999999999, reward_response.is_correct: False, num_tokens: 3060, valid_response_length: 890delta_score: -0.6509999999999999, reward_response.is_correct: False, num_tokens: 3060, valid_response_length: 890
+
+
+
+
+delta_score: -0.8795999999999999, reward_response.is_correct: False, num_tokens: 3692, valid_response_length: 760
+
+delta_score: -0.8795999999999999, reward_response.is_correct: False, num_tokens: 3692, valid_response_length: 760delta_score: -0.6509999999999999, reward_response.is_correct: False, num_tokens: 3060, valid_response_length: 890delta_score: -0.6285, reward_response.is_correct: False, num_tokens: 2479, valid_response_length: 384delta_score: -0.6435, reward_response.is_correct: False, num_tokens: 2740, valid_response_length: 595
+
+delta_score: -0.1251, reward_response.is_correct: False, num_tokens: 332, valid_response_length: 749delta_score: -0.12, reward_response.is_correct: False, num_tokens: 932, valid_response_length: 532
+
+delta_score: -0.1251, reward_response.is_correct: False, num_tokens: 332, valid_response_length: 749
+delta_score: -0.7986, reward_response.is_correct: False, num_tokens: 3177, valid_response_length: 515delta_score: -0.1251, reward_response.is_correct: False, num_tokens: 332, valid_response_length: 749delta_score: -0.1845, reward_response.is_correct: False, num_tokens: 648, valid_response_length: 1263delta_score: -0.1845, reward_response.is_correct: False, num_tokens: 648, valid_response_length: 1263delta_score: -0.1251, reward_response.is_correct: False, num_tokens: 332, valid_response_length: 749
+delta_score: -0.12, reward_response.is_correct: False, num_tokens: 932, valid_response_length: 532
+
+
+
+
+delta_score: -0.8795999999999999, reward_response.is_correct: False, num_tokens: 3692, valid_response_length: 760
+
+
+
+delta_score: -0.6509999999999999, reward_response.is_correct: False, num_tokens: 3060, valid_response_length: 890
+delta_score: -0.6509999999999999, reward_response.is_correct: False, num_tokens: 3060, valid_response_length: 890
+delta_score: -0.12, reward_response.is_correct: False, num_tokens: 932, valid_response_length: 532
+delta_score: -0.6509999999999999, reward_response.is_correct: False, num_tokens: 3060, valid_response_length: 890delta_score: -0.6509999999999999, reward_response.is_correct: False, num_tokens: 3060, valid_response_length: 890delta_score: -0.6509999999999999, reward_response.is_correct: False, num_tokens: 3060, valid_response_length: 890delta_score: -0.6435, reward_response.is_correct: False, num_tokens: 2740, valid_response_length: 595
+delta_score: -0.11909999999999998, reward_response.is_correct: False, num_tokens: 648, valid_response_length: 1045delta_score: -0.11909999999999998, reward_response.is_correct: False, num_tokens: 648, valid_response_length: 1045delta_score: -0.11909999999999998, reward_response.is_correct: False, num_tokens: 648, valid_response_length: 1045delta_score: -0.12, reward_response.is_correct: False, num_tokens: 932, valid_response_length: 532
+
+delta_score: -0.11909999999999998, reward_response.is_correct: False, num_tokens: 648, valid_response_length: 1045delta_score: -0.1845, reward_response.is_correct: False, num_tokens: 648, valid_response_length: 1263delta_score: -0.7172999999999999, reward_response.is_correct: False, num_tokens: 2762, valid_response_length: 371
+delta_score: -0.1251, reward_response.is_correct: False, num_tokens: 332, valid_response_length: 749delta_score: -0.6435, reward_response.is_correct: False, num_tokens: 2740, valid_response_length: 595
+delta_score: -0.1845, reward_response.is_correct: False, num_tokens: 648, valid_response_length: 1263delta_score: -0.7172999999999999, reward_response.is_correct: False, num_tokens: 2762, valid_response_length: 371delta_score: -0.7172999999999999, reward_response.is_correct: False, num_tokens: 2762, valid_response_length: 371
+
+delta_score: -0.6435, reward_response.is_correct: False, num_tokens: 2740, valid_response_length: 595
+
+
+delta_score: -0.12, reward_response.is_correct: False, num_tokens: 932, valid_response_length: 532
+delta_score: -0.1845, reward_response.is_correct: False, num_tokens: 648, valid_response_length: 1263delta_score: -0.7172999999999999, reward_response.is_correct: False, num_tokens: 2762, valid_response_length: 371delta_score: -0.11909999999999998, reward_response.is_correct: False, num_tokens: 648, valid_response_length: 1045
+delta_score: -0.7172999999999999, reward_response.is_correct: False, num_tokens: 2762, valid_response_length: 371delta_score: -0.7172999999999999, reward_response.is_correct: False, num_tokens: 2762, valid_response_length: 371
+
+
+
+delta_score: -0.7172999999999999, reward_response.is_correct: False, num_tokens: 2762, valid_response_length: 371
+
+delta_score: -0.8402999999999999, reward_response.is_correct: False, num_tokens: 1295, valid_response_length: 4096
+delta_score: -0.6509999999999999, reward_response.is_correct: False, num_tokens: 3060, valid_response_length: 890
+
+
+
+delta_score: -0.7172999999999999, reward_response.is_correct: False, num_tokens: 2762, valid_response_length: 371delta_score: -0.8402999999999999, reward_response.is_correct: False, num_tokens: 1295, valid_response_length: 4096
+delta_score: -0.1845, reward_response.is_correct: False, num_tokens: 648, valid_response_length: 1263
+delta_score: -0.7172999999999999, reward_response.is_correct: False, num_tokens: 2762, valid_response_length: 371delta_score: -0.12, reward_response.is_correct: False, num_tokens: 932, valid_response_length: 532
+
+
+delta_score: -0.8402999999999999, reward_response.is_correct: False, num_tokens: 1295, valid_response_length: 4096
+delta_score: -0.8402999999999999, reward_response.is_correct: False, num_tokens: 1295, valid_response_length: 4096
+delta_score: -0.8402999999999999, reward_response.is_correct: False, num_tokens: 1295, valid_response_length: 4096
+delta_score: -0.6509999999999999, reward_response.is_correct: False, num_tokens: 3060, valid_response_length: 890delta_score: -0.12, reward_response.is_correct: False, num_tokens: 932, valid_response_length: 532
+delta_score: -0.8795999999999999, reward_response.is_correct: False, num_tokens: 3692, valid_response_length: 760
+delta_score: -0.8402999999999999, reward_response.is_correct: False, num_tokens: 1295, valid_response_length: 4096delta_score: -0.1251, reward_response.is_correct: False, num_tokens: 332, valid_response_length: 749
+
+delta_score: -0.7427999999999999, reward_response.is_correct: False, num_tokens: 3374, valid_response_length: 898delta_score: -0.11909999999999998, reward_response.is_correct: False, num_tokens: 648, valid_response_length: 1045delta_score: -0.8402999999999999, reward_response.is_correct: False, num_tokens: 1295, valid_response_length: 4096delta_score: -0.11909999999999998, reward_response.is_correct: False, num_tokens: 648, valid_response_length: 1045
+delta_score: -0.7427999999999999, reward_response.is_correct: False, num_tokens: 3374, valid_response_length: 898delta_score: -0.1845, reward_response.is_correct: False, num_tokens: 648, valid_response_length: 1263delta_score: -0.8402999999999999, reward_response.is_correct: False, num_tokens: 1295, valid_response_length: 4096delta_score: -0.7427999999999999, reward_response.is_correct: False, num_tokens: 3374, valid_response_length: 898delta_score: -0.1845, reward_response.is_correct: False, num_tokens: 648, valid_response_length: 1263
+
+
+
+delta_score: -0.8402999999999999, reward_response.is_correct: False, num_tokens: 1295, valid_response_length: 4096
+
+
+delta_score: -0.7427999999999999, reward_response.is_correct: False, num_tokens: 3374, valid_response_length: 898delta_score: -0.7172999999999999, reward_response.is_correct: False, num_tokens: 2762, valid_response_length: 371
+delta_score: -0.7427999999999999, reward_response.is_correct: False, num_tokens: 3374, valid_response_length: 898delta_score: -0.6509999999999999, reward_response.is_correct: False, num_tokens: 3060, valid_response_length: 890delta_score: -0.7427999999999999, reward_response.is_correct: False, num_tokens: 3374, valid_response_length: 898delta_score: -0.8402999999999999, reward_response.is_correct: False, num_tokens: 1295, valid_response_length: 4096
+delta_score: -0.8402999999999999, reward_response.is_correct: False, num_tokens: 1295, valid_response_length: 4096delta_score: -0.8402999999999999, reward_response.is_correct: False, num_tokens: 1295, valid_response_length: 4096delta_score: -0.3117, reward_response.is_correct: False, num_tokens: 1970, valid_response_length: 931delta_score: -0.7172999999999999, reward_response.is_correct: False, num_tokens: 2762, valid_response_length: 371delta_score: -0.8402999999999999, reward_response.is_correct: False, num_tokens: 1295, valid_response_length: 4096delta_score: -0.6509999999999999, reward_response.is_correct: False, num_tokens: 3060, valid_response_length: 890delta_score: -0.7427999999999999, reward_response.is_correct: False, num_tokens: 3374, valid_response_length: 898
+
+
+delta_score: -0.3117, reward_response.is_correct: False, num_tokens: 1970, valid_response_length: 931
+delta_score: -0.3117, reward_response.is_correct: False, num_tokens: 1970, valid_response_length: 931
+
+delta_score: -0.8402999999999999, reward_response.is_correct: False, num_tokens: 1295, valid_response_length: 4096
+delta_score: -0.3117, reward_response.is_correct: False, num_tokens: 1970, valid_response_length: 931
+
+
+
+delta_score: -0.7427999999999999, reward_response.is_correct: False, num_tokens: 3374, valid_response_length: 898
+
+
+
+delta_score: -0.3117, reward_response.is_correct: False, num_tokens: 1970, valid_response_length: 931
+
+
+
+delta_score: -0.7172999999999999, reward_response.is_correct: False, num_tokens: 2762, valid_response_length: 371delta_score: -0.3117, reward_response.is_correct: False, num_tokens: 1970, valid_response_length: 931delta_score: -0.3117, reward_response.is_correct: False, num_tokens: 1970, valid_response_length: 931
+delta_score: -0.7172999999999999, reward_response.is_correct: False, num_tokens: 2762, valid_response_length: 371
+
+
+delta_score: -0.7172999999999999, reward_response.is_correct: False, num_tokens: 2762, valid_response_length: 371
+
+
+delta_score: -0.6509999999999999, reward_response.is_correct: False, num_tokens: 3060, valid_response_length: 890
+delta_score: -0.3117, reward_response.is_correct: False, num_tokens: 1970, valid_response_length: 931
+delta_score: -0.7427999999999999, reward_response.is_correct: False, num_tokens: 3374, valid_response_length: 898
+
+
+delta_score: -0.8636999999999999, reward_response.is_correct: False, num_tokens: 3464, valid_response_length: 585
+delta_score: -0.7427999999999999, reward_response.is_correct: False, num_tokens: 3374, valid_response_length: 898
+delta_score: -0.7427999999999999, reward_response.is_correct: False, num_tokens: 3374, valid_response_length: 898
+delta_score: -0.8636999999999999, reward_response.is_correct: False, num_tokens: 3464, valid_response_length: 585delta_score: -0.7427999999999999, reward_response.is_correct: False, num_tokens: 3374, valid_response_length: 898
+delta_score: -0.8636999999999999, reward_response.is_correct: False, num_tokens: 3464, valid_response_length: 585delta_score: -0.8636999999999999, reward_response.is_correct: False, num_tokens: 3464, valid_response_length: 585delta_score: -0.3117, reward_response.is_correct: False, num_tokens: 1970, valid_response_length: 931delta_score: -0.3117, reward_response.is_correct: False, num_tokens: 1970, valid_response_length: 931delta_score: -0.3117, reward_response.is_correct: False, num_tokens: 1970, valid_response_length: 931
+delta_score: -0.8636999999999999, reward_response.is_correct: False, num_tokens: 3464, valid_response_length: 585delta_score: -0.8402999999999999, reward_response.is_correct: False, num_tokens: 1295, valid_response_length: 4096
+delta_score: -0.7172999999999999, reward_response.is_correct: False, num_tokens: 2762, valid_response_length: 371delta_score: -0.8636999999999999, reward_response.is_correct: False, num_tokens: 3464, valid_response_length: 585delta_score: -0.7427999999999999, reward_response.is_correct: False, num_tokens: 3374, valid_response_length: 898
+delta_score: -0.8636999999999999, reward_response.is_correct: False, num_tokens: 3464, valid_response_length: 585
+
+delta_score: -0.8858999999999999, reward_response.is_correct: False, num_tokens: 1143, valid_response_length: 4096
+
+
+
+delta_score: -0.6509999999999999, reward_response.is_correct: False, num_tokens: 3060, valid_response_length: 890
+delta_score: -0.3117, reward_response.is_correct: False, num_tokens: 1970, valid_response_length: 931delta_score: -0.8402999999999999, reward_response.is_correct: False, num_tokens: 1295, valid_response_length: 4096delta_score: -0.8858999999999999, reward_response.is_correct: False, num_tokens: 1143, valid_response_length: 4096
+
+delta_score: -0.8636999999999999, reward_response.is_correct: False, num_tokens: 3464, valid_response_length: 585delta_score: -0.8858999999999999, reward_response.is_correct: False, num_tokens: 1143, valid_response_length: 4096delta_score: -0.8858999999999999, reward_response.is_correct: False, num_tokens: 1143, valid_response_length: 4096
+delta_score: -0.8858999999999999, reward_response.is_correct: False, num_tokens: 1143, valid_response_length: 4096
+delta_score: -0.8858999999999999, reward_response.is_correct: False, num_tokens: 1143, valid_response_length: 4096
+
+delta_score: -0.8636999999999999, reward_response.is_correct: False, num_tokens: 3464, valid_response_length: 585delta_score: -0.8858999999999999, reward_response.is_correct: False, num_tokens: 1143, valid_response_length: 4096delta_score: -0.8636999999999999, reward_response.is_correct: False, num_tokens: 3464, valid_response_length: 585delta_score: -1.0365, reward_response.is_correct: False, num_tokens: 3890, valid_response_length: 435
+delta_score: -1.0365, reward_response.is_correct: False, num_tokens: 3890, valid_response_length: 435
+delta_score: -0.7172999999999999, reward_response.is_correct: False, num_tokens: 2762, valid_response_length: 371delta_score: -0.8636999999999999, reward_response.is_correct: False, num_tokens: 3464, valid_response_length: 585
+
+
+
+delta_score: -0.8858999999999999, reward_response.is_correct: False, num_tokens: 1143, valid_response_length: 4096delta_score: -0.8858999999999999, reward_response.is_correct: False, num_tokens: 1143, valid_response_length: 4096delta_score: -0.8858999999999999, reward_response.is_correct: False, num_tokens: 1143, valid_response_length: 4096
+delta_score: -0.7427999999999999, reward_response.is_correct: False, num_tokens: 3374, valid_response_length: 898delta_score: -1.0365, reward_response.is_correct: False, num_tokens: 3890, valid_response_length: 435
+delta_score: -0.8858999999999999, reward_response.is_correct: False, num_tokens: 1143, valid_response_length: 4096
+
+
+
+
+
+
+delta_score: -1.0365, reward_response.is_correct: False, num_tokens: 3890, valid_response_length: 435
+delta_score: -1.0365, reward_response.is_correct: False, num_tokens: 3890, valid_response_length: 435
+
+delta_score: -0.8636999999999999, reward_response.is_correct: False, num_tokens: 3464, valid_response_length: 585delta_score: -0.8636999999999999, reward_response.is_correct: False, num_tokens: 3464, valid_response_length: 585
+
+delta_score: -0.7427999999999999, reward_response.is_correct: False, num_tokens: 3374, valid_response_length: 898
+
+
+delta_score: -1.0365, reward_response.is_correct: False, num_tokens: 3890, valid_response_length: 435
+
+
+
+
+
+delta_score: -0.3117, reward_response.is_correct: False, num_tokens: 1970, valid_response_length: 931
+
+
+delta_score: -1.0365, reward_response.is_correct: False, num_tokens: 3890, valid_response_length: 435delta_score: -1.0365, reward_response.is_correct: False, num_tokens: 3890, valid_response_length: 435
+
+
+delta_score: -0.8858999999999999, reward_response.is_correct: False, num_tokens: 1143, valid_response_length: 4096delta_score: -1.0365, reward_response.is_correct: False, num_tokens: 3890, valid_response_length: 435
+delta_score: -0.8636999999999999, reward_response.is_correct: False, num_tokens: 3464, valid_response_length: 585delta_score: -0.11909999999999998, reward_response.is_correct: False, num_tokens: 648, valid_response_length: 1045delta_score: -0.8858999999999999, reward_response.is_correct: False, num_tokens: 1143, valid_response_length: 4096
+delta_score: -0.8858999999999999, reward_response.is_correct: False, num_tokens: 1143, valid_response_length: 4096
+
+
+delta_score: -1.0365, reward_response.is_correct: False, num_tokens: 3890, valid_response_length: 435
+delta_score: -0.8636999999999999, reward_response.is_correct: False, num_tokens: 3464, valid_response_length: 585
+
+
+
+
+
+
+delta_score: -1.0365, reward_response.is_correct: False, num_tokens: 3890, valid_response_length: 435delta_score: -1.0365, reward_response.is_correct: False, num_tokens: 3890, valid_response_length: 435delta_score: -1.0365, reward_response.is_correct: False, num_tokens: 3890, valid_response_length: 435
+
+delta_score: -0.3117, reward_response.is_correct: False, num_tokens: 1970, valid_response_length: 931
+delta_score: -0.8858999999999999, reward_response.is_correct: False, num_tokens: 1143, valid_response_length: 4096
+
+
+delta_score: -0.8636999999999999, reward_response.is_correct: False, num_tokens: 3464, valid_response_length: 585
+
+
+
+delta_score: -0.8858999999999999, reward_response.is_correct: False, num_tokens: 1143, valid_response_length: 4096
+
+delta_score: -1.0365, reward_response.is_correct: False, num_tokens: 3890, valid_response_length: 435
+delta_score: -1.0365, reward_response.is_correct: False, num_tokens: 3890, valid_response_length: 435
+
+
+
+delta_score: -1.0365, reward_response.is_correct: False, num_tokens: 3890, valid_response_length: 435delta_score: -0.3117, reward_response.is_correct: False, num_tokens: 1970, valid_response_length: 931
+
+
+
+delta_score: -0.3117, reward_response.is_correct: False, num_tokens: 1970, valid_response_length: 931
+
+
+
+
+
+
+
+
+delta_score: -0.7427999999999999, reward_response.is_correct: False, num_tokens: 3374, valid_response_length: 898
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+reward_tensor's shape : torch.Size([480, 4096])
+len reward_extra_infos_dict['reward']: 480
+("Initial validation metrics: {'val-core//reward/mean@16': "
+ "-0.6010299994299809, 'val-aux//reward/std@16': 0.0010899999489386877, "
+ "'val-aux//reward/best@2/mean': -0.600511159454286, "
+ "'val-aux//reward/best@2/std': 0.000958595309975667, "
+ "'val-aux//reward/worst@2/mean': -0.6016164194025099, "
+ "'val-aux//reward/worst@2/std': 0.000918809830435772, "
+ "'val-aux//reward/best@4/mean': -0.6000947794737915, "
+ "'val-aux//reward/best@4/std': 0.0005598781315888751, "
+ "'val-aux//reward/worst@4/mean': -0.6019891993850469, "
+ "'val-aux//reward/worst@4/std': 0.0005177212907420736, "
+ "'val-aux//reward/best@8/mean': -0.599944359480838, "
+ "'val-aux//reward/best@8/std': 9.73950178975894e-05, "
+ "'val-aux//reward/worst@8/mean': -0.6021069193795323, "
+ "'val-aux//reward/worst@8/std': 0.0001683547176187866, "
+ "'val-core//reward/best@16/mean': -0.5999399994810423, "
+ "'val-core//reward/best@16/std': 0.0, 'val-aux//reward/worst@16/mean': "
+ "-0.6021199993789196, 'val-aux//reward/worst@16/std': 0.0}")
+step:0 - val-core//reward/mean@16:-0.6010299994299809 - val-aux//reward/std@16:0.0010899999489386877 - val-aux//reward/best@2/mean:-0.600511159454286 - val-aux//reward/best@2/std:0.000958595309975667 - val-aux//reward/worst@2/mean:-0.6016164194025099 - val-aux//reward/worst@2/std:0.000918809830435772 - val-aux//reward/best@4/mean:-0.6000947794737915 - val-aux//reward/best@4/std:0.0005598781315888751 - val-aux//reward/worst@4/mean:-0.6019891993850469 - val-aux//reward/worst@4/std:0.0005177212907420736 - val-aux//reward/best@8/mean:-0.599944359480838 - val-aux//reward/best@8/std:9.73950178975894e-05 - val-aux//reward/worst@8/mean:-0.6021069193795323 - val-aux//reward/worst@8/std:0.0001683547176187866 - val-core//reward/best@16/mean:-0.5999399994810423 - val-core//reward/best@16/std:0.0 - val-aux//reward/worst@16/mean:-0.6021199993789196 - val-aux//reward/worst@16/std:0.0
+Training Progress:   0%|          | 0/1887 [00:00<?, ?it/s]
+delta_score: -0.16349999999999998, reward_response.is_correct: False, num_tokens: 104, valid_response_length: 649
+delta_score: -0.0393, reward_response.is_correct: False, num_tokens: 745, valid_response_length: 876delta_score: -0.034499999999999975, reward_response.is_correct: False, num_tokens: 745, valid_response_length: 860delta_score: -0.04859999999999998, reward_response.is_correct: False, num_tokens: 745, valid_response_length: 907
+delta_score: -0.34739999999999993, reward_response.is_correct: False, num_tokens: 1669, valid_response_length: 511delta_score: -0.0039000000000000146, reward_response.is_correct: False, num_tokens: 745, valid_response_length: 732
+delta_score: -0.19440000000000002, reward_response.is_correct: False, num_tokens: 1669, valid_response_length: 1021
+
+
+delta_score: -0.41369999999999996, reward_response.is_correct: False, num_tokens: 2347, valid_response_length: 968
+delta_score: -0.011099999999999999, reward_response.is_correct: False, num_tokens: 1669, valid_response_length: 1632
+delta_score: -0.9977999999999999, reward_response.is_correct: False, num_tokens: 3906, valid_response_length: 580delta_score: -0.44099999999999995, reward_response.is_correct: False, num_tokens: 2347, valid_response_length: 877delta_score: -1.0608, reward_response.is_correct: False, num_tokens: 3906, valid_response_length: 370delta_score: -1.0883999999999998, reward_response.is_correct: False, num_tokens: 3906, valid_response_length: 278
+delta_score: -1.002, reward_response.is_correct: False, num_tokens: 3821, valid_response_length: 481delta_score: -0.13229999999999997, reward_response.is_correct: False, num_tokens: 429, valid_response_length: 870
+delta_score: -0.25439999999999996, reward_response.is_correct: False, num_tokens: 235, valid_response_length: 1083delta_score: -0.7628999999999999, reward_response.is_correct: False, num_tokens: 2886, valid_response_length: 343
+delta_score: -1.0457999999999998, reward_response.is_correct: False, num_tokens: 3821, valid_response_length: 335
+delta_score: -0.5304, reward_response.is_correct: False, num_tokens: 2307, valid_response_length: 539delta_score: -0.6962999999999999, reward_response.is_correct: False, num_tokens: 2742, valid_response_length: 421delta_score: -0.5799, reward_response.is_correct: False, num_tokens: 2307, valid_response_length: 374
+delta_score: -1.0661999999999998, reward_response.is_correct: False, num_tokens: 3821, valid_response_length: 267delta_score: -0.6525, reward_response.is_correct: False, num_tokens: 3081, valid_response_length: 906delta_score: -0.18510000000000004, reward_response.is_correct: False, num_tokens: 235, valid_response_length: 852delta_score: -0.7052999999999999, reward_response.is_correct: False, num_tokens: 2742, valid_response_length: 391delta_score: -0.027599999999999958, reward_response.is_correct: False, num_tokens: 861, valid_response_length: 769delta_score: -0.17279999999999995, reward_response.is_correct: False, num_tokens: 1913, valid_response_length: 1337
+
+delta_score: -0.3177, reward_response.is_correct: False, num_tokens: 1745, valid_response_length: 686
+delta_score: -0.024599999999999955, reward_response.is_correct: False, num_tokens: 1745, valid_response_length: 1663
+
+
+delta_score: -0.4071, reward_response.is_correct: False, num_tokens: 1913, valid_response_length: 556
+delta_score: -0.11549999999999994, reward_response.is_correct: False, num_tokens: 619, valid_response_length: 234delta_score: -0.15869999999999995, reward_response.is_correct: False, num_tokens: 1275, valid_response_length: 746delta_score: -0.22229999999999994, reward_response.is_correct: False, num_tokens: 1275, valid_response_length: 534
+delta_score: -0.72, reward_response.is_correct: False, num_tokens: 3081, valid_response_length: 681delta_score: -0.3275999999999999, reward_response.is_correct: False, num_tokens: 308, valid_response_length: 1400delta_score: -0.08340000000000003, reward_response.is_correct: False, num_tokens: 619, valid_response_length: 341
+delta_score: -0.31379999999999997, reward_response.is_correct: False, num_tokens: 3050, valid_response_length: 4096delta_score: -0.6795, reward_response.is_correct: False, num_tokens: 3050, valid_response_length: 785
+delta_score: -0.3378, reward_response.is_correct: False, num_tokens: 308, valid_response_length: 1434delta_score: -0.7674, reward_response.is_correct: False, num_tokens: 3197, valid_response_length: 639delta_score: -1.0605, reward_response.is_correct: False, num_tokens: 3821, valid_response_length: 286delta_score: -0.7695, reward_response.is_correct: False, num_tokens: 3197, valid_response_length: 632delta_score: -0.2781, reward_response.is_correct: False, num_tokens: 1636, valid_response_length: 709delta_score: -0.7397999999999999, reward_response.is_correct: False, num_tokens: 3197, valid_response_length: 731
+delta_score: -0.05159999999999998, reward_response.is_correct: False, num_tokens: 928, valid_response_length: 756
+delta_score: -0.24839999999999995, reward_response.is_correct: False, num_tokens: 1275, valid_response_length: 447delta_score: -0.31109999999999993, reward_response.is_correct: False, num_tokens: 1836, valid_response_length: 799delta_score: -0.44699999999999995, reward_response.is_correct: False, num_tokens: 1899, valid_response_length: 409delta_score: -0.2259, reward_response.is_correct: False, num_tokens: 1747, valid_response_length: 994
+delta_score: -0.2559, reward_response.is_correct: False, num_tokens: 1899, valid_response_length: 1046delta_score: -0.4104, reward_response.is_correct: False, num_tokens: 1899, valid_response_length: 531
+
+delta_score: -0.7512, reward_response.is_correct: False, num_tokens: 3197, valid_response_length: 693
+delta_score: -0.11250000000000004, reward_response.is_correct: False, num_tokens: 619, valid_response_length: 244delta_score: -0.6146999999999999, reward_response.is_correct: False, num_tokens: 3050, valid_response_length: 1001
+delta_score: -0.2934, reward_response.is_correct: False, num_tokens: 1636, valid_response_length: 658delta_score: -0.7082999999999999, reward_response.is_correct: False, num_tokens: 2571, valid_response_length: 210delta_score: -0.2559, reward_response.is_correct: False, num_tokens: 1636, valid_response_length: 783delta_score: -0.15749999999999997, reward_response.is_correct: False, num_tokens: 493, valid_response_length: 1018delta_score: -0.10619999999999996, reward_response.is_correct: False, num_tokens: 678, valid_response_length: 324delta_score: -0.43679999999999997, reward_response.is_correct: False, num_tokens: 1899, valid_response_length: 443
+
+
+
+delta_score: -0.6333, reward_response.is_correct: False, num_tokens: 2917, valid_response_length: 806
+delta_score: -0.31379999999999997, reward_response.is_correct: False, num_tokens: 1747, valid_response_length: 701delta_score: -0.1653, reward_response.is_correct: False, num_tokens: 1747, valid_response_length: 1196
+
+delta_score: -0.6099, reward_response.is_correct: False, num_tokens: 2537, valid_response_length: 504
+
+delta_score: -0.3123, reward_response.is_correct: False, num_tokens: 3197, valid_response_length: 2156delta_score: -0.7928999999999999, reward_response.is_correct: False, num_tokens: 3008, valid_response_length: 365delta_score: -0.7721999999999999, reward_response.is_correct: False, num_tokens: 3008, valid_response_length: 434
+
+delta_score: -0.7448999999999999, reward_response.is_correct: False, num_tokens: 3008, valid_response_length: 525delta_score: -0.7022999999999999, reward_response.is_correct: False, num_tokens: 2917, valid_response_length: 576
+
+delta_score: -0.5309999999999999, reward_response.is_correct: False, num_tokens: 2840, valid_response_length: 1070delta_score: -0.5577, reward_response.is_correct: False, num_tokens: 2237, valid_response_length: 4096
+
+delta_score: -0.27869999999999995, reward_response.is_correct: False, num_tokens: 2537, valid_response_length: 1608delta_score: -0.7196999999999999, reward_response.is_correct: False, num_tokens: 2769, valid_response_length: 370delta_score: -0.7071, reward_response.is_correct: False, num_tokens: 2769, valid_response_length: 412delta_score: -0.9293999999999999, reward_response.is_correct: False, num_tokens: 998, valid_response_length: 4096delta_score: -0.04500000000000004, reward_response.is_correct: False, num_tokens: 998, valid_response_length: 1148delta_score: -0.6909, reward_response.is_correct: False, num_tokens: 2555, valid_response_length: 252delta_score: -0.39239999999999997, reward_response.is_correct: False, num_tokens: 2513, valid_response_length: 1205
+delta_score: -0.7880999999999999, reward_response.is_correct: False, num_tokens: 3197, valid_response_length: 570delta_score: -0.6851999999999999, reward_response.is_correct: False, num_tokens: 2917, valid_response_length: 633delta_score: -0.006900000000000017, reward_response.is_correct: False, num_tokens: 445, valid_response_length: 468delta_score: -1.1619, reward_response.is_correct: False, num_tokens: 223, valid_response_length: 4096delta_score: -0.5202, reward_response.is_correct: False, num_tokens: 2085, valid_response_length: 351
+delta_score: -0.02400000000000002, reward_response.is_correct: False, num_tokens: 445, valid_response_length: 365
+delta_score: -0.23219999999999996, reward_response.is_correct: False, num_tokens: 426, valid_response_length: 1200delta_score: -0.6728999999999999, reward_response.is_correct: False, num_tokens: 3285, valid_response_length: 1042
+delta_score: -0.05820000000000003, reward_response.is_correct: False, num_tokens: 1024, valid_response_length: 830delta_score: -0.5808, reward_response.is_correct: False, num_tokens: 2237, valid_response_length: 301delta_score: -0.31289999999999996, reward_response.is_correct: False, num_tokens: 1620, valid_response_length: 577
+
+delta_score: -1.1091, reward_response.is_correct: False, num_tokens: 399, valid_response_length: 4096delta_score: -0.8678999999999999, reward_response.is_correct: False, num_tokens: 3197, valid_response_length: 304delta_score: -0.243, reward_response.is_correct: False, num_tokens: 399, valid_response_length: 1209delta_score: -0.5505, reward_response.is_correct: False, num_tokens: 2358, valid_response_length: 523delta_score: -0.7883999999999999, reward_response.is_correct: False, num_tokens: 3363, valid_response_length: 735
+delta_score: -0.7106999999999999, reward_response.is_correct: False, num_tokens: 2917, valid_response_length: 548delta_score: -0.5579999999999999, reward_response.is_correct: False, num_tokens: 2358, valid_response_length: 498delta_score: -0.7256999999999999, reward_response.is_correct: False, num_tokens: 3197, valid_response_length: 778delta_score: -0.6606, reward_response.is_correct: False, num_tokens: 2666, valid_response_length: 464delta_score: -0.7182, reward_response.is_correct: False, num_tokens: 3008, valid_response_length: 614
+
+
+delta_score: -0.15810000000000002, reward_response.is_correct: False, num_tokens: 284, valid_response_length: 811
+delta_score: -0.5415, reward_response.is_correct: False, num_tokens: 2431, valid_response_length: 626
+
+delta_score: -0.7605, reward_response.is_correct: False, num_tokens: 2916, valid_response_length: 381delta_score: -0.4185, reward_response.is_correct: False, num_tokens: 2085, valid_response_length: 690delta_score: -0.5348999999999999, reward_response.is_correct: False, num_tokens: 2603, valid_response_length: 820
+
+delta_score: -0.15059999999999996, reward_response.is_correct: False, num_tokens: 104, valid_response_length: 606
+delta_score: -0.486, reward_response.is_correct: False, num_tokens: 1895, valid_response_length: 275
+
+delta_score: -0.1764, reward_response.is_correct: False, num_tokens: 104, valid_response_length: 692delta_score: -0.04859999999999998, reward_response.is_correct: False, num_tokens: 745, valid_response_length: 907
+delta_score: -0.6405, reward_response.is_correct: False, num_tokens: 2555, valid_response_length: 420delta_score: -0.20699999999999996, reward_response.is_correct: False, num_tokens: 425, valid_response_length: 1115delta_score: -0.3123, reward_response.is_correct: False, num_tokens: 223, valid_response_length: 1264
+
+delta_score: -0.006900000000000017, reward_response.is_correct: False, num_tokens: 425, valid_response_length: 402delta_score: -0.2583, reward_response.is_correct: False, num_tokens: 1275, valid_response_length: 414delta_score: -0.6495, reward_response.is_correct: False, num_tokens: 3059, valid_response_length: 894
+delta_score: -0.6315, reward_response.is_correct: False, num_tokens: 3059, valid_response_length: 954delta_score: -0.6083999999999999, reward_response.is_correct: False, num_tokens: 3059, valid_response_length: 1031delta_score: -0.3015, reward_response.is_correct: False, num_tokens: 1669, valid_response_length: 664
+delta_score: -1.0700999999999998, reward_response.is_correct: False, num_tokens: 3906, valid_response_length: 339
+
+delta_score: -0.6641999999999999, reward_response.is_correct: False, num_tokens: 2666, valid_response_length: 452delta_score: -1.0541999999999998, reward_response.is_correct: False, num_tokens: 3906, valid_response_length: 392
+
+
+delta_score: -1.0644, reward_response.is_correct: False, num_tokens: 3821, valid_response_length: 273
+delta_score: -1.0097999999999998, reward_response.is_correct: False, num_tokens: 3821, valid_response_length: 455delta_score: -1.035, reward_response.is_correct: False, num_tokens: 3821, valid_response_length: 371
+delta_score: -0.44520000000000004, reward_response.is_correct: False, num_tokens: 1895, valid_response_length: 411
+delta_score: -0.46529999999999994, reward_response.is_correct: False, num_tokens: 3285, valid_response_length: 1734delta_score: -0.26459999999999995, reward_response.is_correct: False, num_tokens: 1620, valid_response_length: 738delta_score: -0.00660000000000005, reward_response.is_correct: False, num_tokens: 745, valid_response_length: 767
+
+
+delta_score: -0.9023999999999999, reward_response.is_correct: False, num_tokens: 3363, valid_response_length: 355delta_score: -0.0032999999999999696, reward_response.is_correct: False, num_tokens: 861, valid_response_length: 850delta_score: -0.06240000000000001, reward_response.is_correct: False, num_tokens: 425, valid_response_length: 633
+
+delta_score: -0.8139, reward_response.is_correct: False, num_tokens: 3363, valid_response_length: 650
+
+
+delta_score: -0.6909, reward_response.is_correct: False, num_tokens: 2742, valid_response_length: 439
+delta_score: -0.20429999999999993, reward_response.is_correct: False, num_tokens: 277, valid_response_length: 958delta_score: -1.101, reward_response.is_correct: False, num_tokens: 426, valid_response_length: 4096
+
+delta_score: -0.5390999999999999, reward_response.is_correct: False, num_tokens: 2307, valid_response_length: 510delta_score: -1.1000999999999999, reward_response.is_correct: False, num_tokens: 3906, valid_response_length: 239delta_score: -0.02729999999999999, reward_response.is_correct: False, num_tokens: 435, valid_response_length: 344
+
+delta_score: -0.47729999999999995, reward_response.is_correct: False, num_tokens: 2307, valid_response_length: 716delta_score: -1.0700999999999998, reward_response.is_correct: False, num_tokens: 3821, valid_response_length: 254
+delta_score: -0.5871, reward_response.is_correct: False, num_tokens: 2307, valid_response_length: 350
+delta_score: -0.7101, reward_response.is_correct: False, num_tokens: 3081, valid_response_length: 714delta_score: -0.15480000000000005, reward_response.is_correct: False, num_tokens: 104, valid_response_length: 620
+delta_score: -0.5931, reward_response.is_correct: False, num_tokens: 3081, valid_response_length: 1104
+delta_score: -0.6324, reward_response.is_correct: False, num_tokens: 2603, valid_response_length: 495
+delta_score: -0.040200000000000014, reward_response.is_correct: False, num_tokens: 861, valid_response_length: 995delta_score: -0.3399, reward_response.is_correct: False, num_tokens: 1913, valid_response_length: 780delta_score: -0.029100000000000015, reward_response.is_correct: False, num_tokens: 745, valid_response_length: 842delta_score: -0.15900000000000003, reward_response.is_correct: False, num_tokens: 1913, valid_response_length: 1383
+
+
+
+
+
+
+delta_score: -0.255, reward_response.is_correct: False, num_tokens: 1745, valid_response_length: 895delta_score: -0.7281, reward_response.is_correct: False, num_tokens: 1669, valid_response_length: 4096
+delta_score: -0.5262, reward_response.is_correct: False, num_tokens: 2358, valid_response_length: 604
+delta_score: -0.5096999999999999, reward_response.is_correct: False, num_tokens: 1745, valid_response_length: 46delta_score: -0.25529999999999997, reward_response.is_correct: False, num_tokens: 1333, valid_response_length: 482delta_score: -0.020100000000000007, reward_response.is_correct: False, num_tokens: 435, valid_response_length: 368delta_score: -0.3006, reward_response.is_correct: False, num_tokens: 1836, valid_response_length: 834
+delta_score: -0.8372999999999999, reward_response.is_correct: False, num_tokens: 2916, valid_response_length: 125delta_score: -0.033299999999999996, reward_response.is_correct: False, num_tokens: 1349, valid_response_length: 1460
+
+
+
+delta_score: -0.4544999999999999, reward_response.is_correct: False, num_tokens: 3081, valid_response_length: 1566
+
+
+delta_score: -0.31410000000000005, reward_response.is_correct: False, num_tokens: 308, valid_response_length: 1355delta_score: -0.08879999999999999, reward_response.is_correct: False, num_tokens: 928, valid_response_length: 632delta_score: -0.35219999999999996, reward_response.is_correct: False, num_tokens: 1899, valid_response_length: 725
+
+
+
+
+
+delta_score: -0.6675, reward_response.is_correct: False, num_tokens: 2742, valid_response_length: 517delta_score: -0.6816, reward_response.is_correct: False, num_tokens: 2742, valid_response_length: 470delta_score: -0.12209999999999999, reward_response.is_correct: False, num_tokens: 1747, valid_response_length: 1340
+
+
+delta_score: -0.2721, reward_response.is_correct: False, num_tokens: 1747, valid_response_length: 840
+
+delta_score: -0.26459999999999995, reward_response.is_correct: False, num_tokens: 1948, valid_response_length: 1066delta_score: -0.7094999999999999, reward_response.is_correct: False, num_tokens: 2571, valid_response_length: 206delta_score: -0.0252, reward_response.is_correct: False, num_tokens: 1948, valid_response_length: 2032delta_score: -0.1362, reward_response.is_correct: False, num_tokens: 1948, valid_response_length: 1494delta_score: -0.2943, reward_response.is_correct: False, num_tokens: 1836, valid_response_length: 855delta_score: -0.03420000000000001, reward_response.is_correct: False, num_tokens: 493, valid_response_length: 607delta_score: -0.19740000000000002, reward_response.is_correct: False, num_tokens: 1349, valid_response_length: 691
+
+delta_score: -0.28980000000000006, reward_response.is_correct: False, num_tokens: 1636, valid_response_length: 670delta_score: -0.021299999999999986, reward_response.is_correct: False, num_tokens: 861, valid_response_length: 932
+
+
+delta_score: -0.36, reward_response.is_correct: False, num_tokens: 1522, valid_response_length: 322delta_score: -0.27959999999999996, reward_response.is_correct: False, num_tokens: 493, valid_response_length: 1425
+delta_score: -0.029100000000000015, reward_response.is_correct: False, num_tokens: 425, valid_response_length: 522delta_score: -0.7508999999999999, reward_response.is_correct: False, num_tokens: 3285, valid_response_length: 782delta_score: -0.1572, reward_response.is_correct: False, num_tokens: 425, valid_response_length: 949delta_score: -0.02969999999999995, reward_response.is_correct: False, num_tokens: 445, valid_response_length: 346delta_score: -0.35850000000000004, reward_response.is_correct: False, num_tokens: 1620, valid_response_length: 425
+
+delta_score: -0.7409999999999999, reward_response.is_correct: False, num_tokens: 2917, valid_response_length: 447delta_score: -0.25560000000000005, reward_response.is_correct: False, num_tokens: 1747, valid_response_length: 895
+
+
+delta_score: -0.29369999999999996, reward_response.is_correct: False, num_tokens: 1745, valid_response_length: 766
+delta_score: -0.06779999999999997, reward_response.is_correct: False, num_tokens: 678, valid_response_length: 452delta_score: -0.2652, reward_response.is_correct: False, num_tokens: 1349, valid_response_length: 465
+
+
+delta_score: -0.7545, reward_response.is_correct: False, num_tokens: 3008, valid_response_length: 493
+delta_score: -0.6692999999999999, reward_response.is_correct: False, num_tokens: 2571, valid_response_length: 340delta_score: -0.7293, reward_response.is_correct: False, num_tokens: 3008, valid_response_length: 577delta_score: -0.24719999999999998, reward_response.is_correct: False, num_tokens: 284, valid_response_length: 1108
+delta_score: -0.16649999999999998, reward_response.is_correct: False, num_tokens: 1836, valid_response_length: 1281delta_score: -0.23970000000000002, reward_response.is_correct: False, num_tokens: 1636, valid_response_length: 837
+
+delta_score: -0.48449999999999993, reward_response.is_correct: False, num_tokens: 2840, valid_response_length: 1225delta_score: -0.10260000000000002, reward_response.is_correct: False, num_tokens: 1024, valid_response_length: 682delta_score: -0.12239999999999995, reward_response.is_correct: False, num_tokens: 1024, valid_response_length: 616
+delta_score: -0.2841, reward_response.is_correct: False, num_tokens: 1620, valid_response_length: 673
+
+
+
+delta_score: -0.5577, reward_response.is_correct: False, num_tokens: 2237, valid_response_length: 4096delta_score: -0.3497999999999999, reward_response.is_correct: False, num_tokens: 1522, valid_response_length: 356
+
+
+delta_score: -0.11039999999999994, reward_response.is_correct: False, num_tokens: 619, valid_response_length: 251delta_score: -0.3980999999999999, reward_response.is_correct: False, num_tokens: 1899, valid_response_length: 572delta_score: -0.45419999999999994, reward_response.is_correct: False, num_tokens: 2237, valid_response_length: 723delta_score: -0.3818999999999999, reward_response.is_correct: False, num_tokens: 1745, valid_response_length: 472
+delta_score: -0.5334, reward_response.is_correct: False, num_tokens: 2358, valid_response_length: 580
+
+
+
+
+delta_score: -0.053100000000000036, reward_response.is_correct: False, num_tokens: 399, valid_response_length: 576
+
+delta_score: -0.38759999999999994, reward_response.is_correct: False, num_tokens: 284, valid_response_length: 1576
+delta_score: -0.06059999999999999, reward_response.is_correct: False, num_tokens: 399, valid_response_length: 601
+
+
+
+delta_score: -0.5892, reward_response.is_correct: False, num_tokens: 3081, valid_response_length: 1117delta_score: -0.6296999999999999, reward_response.is_correct: False, num_tokens: 2555, valid_response_length: 456
+
+
+
+
+delta_score: -0.026100000000000012, reward_response.is_correct: False, num_tokens: 861, valid_response_length: 774
+
+
+
+
+delta_score: -0.5591999999999999, reward_response.is_correct: False, num_tokens: 2237, valid_response_length: 373
+delta_score: -0.5232, reward_response.is_correct: False, num_tokens: 2237, valid_response_length: 493delta_score: -0.02849999999999997, reward_response.is_correct: False, num_tokens: 445, valid_response_length: 350
+
+delta_score: -0.6363, reward_response.is_correct: False, num_tokens: 2603, valid_response_length: 482
+
+delta_score: -0.34230000000000005, reward_response.is_correct: False, num_tokens: 1745, valid_response_length: 604
+
+
+delta_score: -1.0851, reward_response.is_correct: False, num_tokens: 399, valid_response_length: 4016delta_score: -0.3378, reward_response.is_correct: False, num_tokens: 284, valid_response_length: 1410
+delta_score: -0.6830999999999999, reward_response.is_correct: False, num_tokens: 2666, valid_response_length: 389
+
+delta_score: -0.7179, reward_response.is_correct: False, num_tokens: 2769, valid_response_length: 376
+delta_score: -0.6137999999999999, reward_response.is_correct: False, num_tokens: 2603, valid_response_length: 557delta_score: -0.31589999999999996, reward_response.is_correct: False, num_tokens: 1349, valid_response_length: 296
+
+delta_score: -0.03059999999999996, reward_response.is_correct: False, num_tokens: 435, valid_response_length: 333delta_score: -0.007199999999999984, reward_response.is_correct: False, num_tokens: 435, valid_response_length: 411
+delta_score: -0.08879999999999999, reward_response.is_correct: False, num_tokens: 493, valid_response_length: 789delta_score: -0.4403999999999999, reward_response.is_correct: False, num_tokens: 1895, valid_response_length: 427delta_score: -0.013499999999999956, reward_response.is_correct: False, num_tokens: 998, valid_response_length: 953
+delta_score: -0.009600000000000053, reward_response.is_correct: False, num_tokens: 745, valid_response_length: 713delta_score: -0.013499999999999956, reward_response.is_correct: False, num_tokens: 745, valid_response_length: 790delta_score: -0.5540999999999999, reward_response.is_correct: False, num_tokens: 3059, valid_response_length: 1212
+delta_score: -0.08399999999999996, reward_response.is_correct: False, num_tokens: 425, valid_response_length: 705delta_score: -0.5454, reward_response.is_correct: False, num_tokens: 2431, valid_response_length: 613delta_score: -0.5433, reward_response.is_correct: False, num_tokens: 2085, valid_response_length: 274delta_score: -0.49049999999999994, reward_response.is_correct: False, num_tokens: 2237, valid_response_length: 602delta_score: -0.6033, reward_response.is_correct: False, num_tokens: 2085, valid_response_length: 4096
+delta_score: -0.3737999999999999, reward_response.is_correct: False, num_tokens: 2347, valid_response_length: 1101delta_score: -0.7281, reward_response.is_correct: False, num_tokens: 1669, valid_response_length: 4096delta_score: -0.030299999999999994, reward_response.is_correct: False, num_tokens: 425, valid_response_length: 526delta_score: -0.13080000000000003, reward_response.is_correct: False, num_tokens: 1669, valid_response_length: 1233
+delta_score: -0.13019999999999998, reward_response.is_correct: False, num_tokens: 399, valid_response_length: 833delta_score: -0.25949999999999995, reward_response.is_correct: False, num_tokens: 1636, valid_response_length: 771
+
+delta_score: -0.5450999999999999, reward_response.is_correct: False, num_tokens: 2358, valid_response_length: 541delta_score: -0.7413, reward_response.is_correct: False, num_tokens: 2886, valid_response_length: 415delta_score: -0.7008, reward_response.is_correct: False, num_tokens: 2555, valid_response_length: 219delta_score: -0.41999999999999993, reward_response.is_correct: False, num_tokens: 2513, valid_response_length: 1113delta_score: -0.4857, reward_response.is_correct: False, num_tokens: 2347, valid_response_length: 728delta_score: -1.0281, reward_response.is_correct: False, num_tokens: 3906, valid_response_length: 479
+
+delta_score: -0.28559999999999997, reward_response.is_correct: False, num_tokens: 235, valid_response_length: 1187
+delta_score: -0.6465, reward_response.is_correct: False, num_tokens: 2666, valid_response_length: 511delta_score: -0.08819999999999995, reward_response.is_correct: False, num_tokens: 1024, valid_response_length: 730delta_score: -0.4748999999999999, reward_response.is_correct: False, num_tokens: 2513, valid_response_length: 4096
+delta_score: -0.7598999999999999, reward_response.is_correct: False, num_tokens: 2916, valid_response_length: 383
+
+delta_score: -0.6869999999999999, reward_response.is_correct: False, num_tokens: 2886, valid_response_length: 596delta_score: -0.5808, reward_response.is_correct: False, num_tokens: 2537, valid_response_length: 601delta_score: -0.27749999999999997, reward_response.is_correct: False, num_tokens: 1329, valid_response_length: 404
+
+delta_score: -0.018900000000000028, reward_response.is_correct: False, num_tokens: 445, valid_response_length: 382
+
+
+
+delta_score: -0.15749999999999997, reward_response.is_correct: False, num_tokens: 425, valid_response_length: 950delta_score: -0.6500999999999999, reward_response.is_correct: False, num_tokens: 2742, valid_response_length: 575delta_score: -0.1392, reward_response.is_correct: False, num_tokens: 1669, valid_response_length: 1205
+delta_score: -0.06630000000000003, reward_response.is_correct: False, num_tokens: 399, valid_response_length: 620delta_score: -0.7362, reward_response.is_correct: False, num_tokens: 2742, valid_response_length: 288delta_score: -0.6854999999999999, reward_response.is_correct: False, num_tokens: 2742, valid_response_length: 457
+
+delta_score: -0.3131999999999999, reward_response.is_correct: False, num_tokens: 2840, valid_response_length: 1796delta_score: -0.6726, reward_response.is_correct: False, num_tokens: 2571, valid_response_length: 329
+delta_score: -0.6999, reward_response.is_correct: False, num_tokens: 2742, valid_response_length: 409delta_score: -0.5177999999999999, reward_response.is_correct: False, num_tokens: 2307, valid_response_length: 581
+delta_score: -0.6018, reward_response.is_correct: False, num_tokens: 2307, valid_response_length: 301
+
+delta_score: -0.37649999999999995, reward_response.is_correct: False, num_tokens: 235, valid_response_length: 1490
+delta_score: -0.5369999999999999, reward_response.is_correct: False, num_tokens: 2513, valid_response_length: 723
+delta_score: -0.693, reward_response.is_correct: False, num_tokens: 3081, valid_response_length: 771delta_score: -0.9293999999999999, reward_response.is_correct: False, num_tokens: 998, valid_response_length: 4096delta_score: -0.11399999999999999, reward_response.is_correct: False, num_tokens: 998, valid_response_length: 618delta_score: -0.7697999999999999, reward_response.is_correct: False, num_tokens: 2916, valid_response_length: 350
+delta_score: -0.08250000000000002, reward_response.is_correct: False, num_tokens: 3821, valid_response_length: 4096delta_score: -0.017100000000000004, reward_response.is_correct: False, num_tokens: 445, valid_response_length: 388delta_score: -0.1269, reward_response.is_correct: False, num_tokens: 619, valid_response_length: 196
+delta_score: -0.3507, reward_response.is_correct: False, num_tokens: 1745, valid_response_length: 576delta_score: -0.47339999999999993, reward_response.is_correct: False, num_tokens: 2085, valid_response_length: 507
+delta_score: -0.08309999999999995, reward_response.is_correct: False, num_tokens: 745, valid_response_length: 1022
+delta_score: -0.1644, reward_response.is_correct: False, num_tokens: 1669, valid_response_length: 1121delta_score: -0.31889999999999996, reward_response.is_correct: False, num_tokens: 2347, valid_response_length: 1284
+delta_score: -0.18899999999999995, reward_response.is_correct: False, num_tokens: 1333, valid_response_length: 703
+
+
+delta_score: -0.2627999999999999, reward_response.is_correct: False, num_tokens: 1836, valid_response_length: 960
+
+
+
+delta_score: -0.6185999999999999, reward_response.is_correct: False, num_tokens: 2307, valid_response_length: 245delta_score: -0.32430000000000003, reward_response.is_correct: False, num_tokens: 399, valid_response_length: 1480delta_score: -0.7431, reward_response.is_correct: False, num_tokens: 3050, valid_response_length: 573
+
+delta_score: -0.35040000000000004, reward_response.is_correct: False, num_tokens: 2347, valid_response_length: 1179delta_score: -0.6909, reward_response.is_correct: False, num_tokens: 2666, valid_response_length: 363
+
+
+
+delta_score: -0.6708, reward_response.is_correct: False, num_tokens: 3081, valid_response_length: 845
+delta_score: -0.3147, reward_response.is_correct: False, num_tokens: 1329, valid_response_length: 280delta_score: -1.0196999999999998, reward_response.is_correct: False, num_tokens: 3821, valid_response_length: 422
+delta_score: -0.6615, reward_response.is_correct: False, num_tokens: 2886, valid_response_length: 681delta_score: -0.10949999999999993, reward_response.is_correct: False, num_tokens: 678, valid_response_length: 313
+
+
+
+
+delta_score: -0.24, reward_response.is_correct: False, num_tokens: 1333, valid_response_length: 533
+delta_score: -0.264, reward_response.is_correct: False, num_tokens: 1333, valid_response_length: 453
+
+
+
+delta_score: -0.7202999999999999, reward_response.is_correct: False, num_tokens: 2742, valid_response_length: 341delta_score: -0.10560000000000003, reward_response.is_correct: False, num_tokens: 928, valid_response_length: 576
+delta_score: -0.8432999999999999, reward_response.is_correct: False, num_tokens: 3197, valid_response_length: 386
+
+delta_score: -0.3131999999999999, reward_response.is_correct: False, num_tokens: 2347, valid_response_length: 1303delta_score: -0.7034999999999999, reward_response.is_correct: False, num_tokens: 3050, valid_response_length: 705
+
+
+
+delta_score: -0.7244999999999999, reward_response.is_correct: False, num_tokens: 2571, valid_response_length: 156delta_score: -0.11160000000000003, reward_response.is_correct: False, num_tokens: 493, valid_response_length: 865
+
+
+delta_score: -0.11039999999999994, reward_response.is_correct: False, num_tokens: 619, valid_response_length: 251delta_score: -0.702, reward_response.is_correct: False, num_tokens: 3285, valid_response_length: 945
+
+delta_score: -0.7341, reward_response.is_correct: False, num_tokens: 3285, valid_response_length: 838delta_score: -0.22439999999999993, reward_response.is_correct: False, num_tokens: 1275, valid_response_length: 527
+
+
+
+delta_score: -0.0014999999999999458, reward_response.is_correct: False, num_tokens: 861, valid_response_length: 856
+delta_score: -0.13169999999999993, reward_response.is_correct: False, num_tokens: 678, valid_response_length: 239delta_score: -0.2768999999999999, reward_response.is_correct: False, num_tokens: 1636, valid_response_length: 713delta_score: -0.28049999999999997, reward_response.is_correct: False, num_tokens: 1620, valid_response_length: 685
+
+delta_score: -0.5082, reward_response.is_correct: False, num_tokens: 2307, valid_response_length: 613delta_score: -0.10949999999999993, reward_response.is_correct: False, num_tokens: 928, valid_response_length: 563delta_score: -0.23849999999999993, reward_response.is_correct: False, num_tokens: 1333, valid_response_length: 538delta_score: -0.10860000000000003, reward_response.is_correct: False, num_tokens: 928, valid_response_length: 566
+delta_score: -0.19320000000000004, reward_response.is_correct: False, num_tokens: 1948, valid_response_length: 1304delta_score: -0.38280000000000003, reward_response.is_correct: False, num_tokens: 2840, valid_response_length: 1564
+delta_score: -1.047, reward_response.is_correct: False, num_tokens: 3906, valid_response_length: 416
+
+
+
+
+
+delta_score: -0.36539999999999995, reward_response.is_correct: False, num_tokens: 493, valid_response_length: 1711delta_score: -1.1091, reward_response.is_correct: False, num_tokens: 399, valid_response_length: 4096
+delta_score: -0.35609999999999997, reward_response.is_correct: False, num_tokens: 1522, valid_response_length: 335
+
+
+
+
+delta_score: -0.6518999999999999, reward_response.is_correct: False, num_tokens: 2555, valid_response_length: 382delta_score: -0.5297999999999999, reward_response.is_correct: False, num_tokens: 2513, valid_response_length: 747delta_score: -0.4317, reward_response.is_correct: False, num_tokens: 308, valid_response_length: 1747
+
+delta_score: -0.037799999999999945, reward_response.is_correct: False, num_tokens: 998, valid_response_length: 872
+delta_score: -0.3497999999999999, reward_response.is_correct: False, num_tokens: 1636, valid_response_length: 470delta_score: -0.3177, reward_response.is_correct: False, num_tokens: 1329, valid_response_length: 270
+delta_score: -0.7251, reward_response.is_correct: False, num_tokens: 3008, valid_response_length: 591delta_score: -0.10229999999999995, reward_response.is_correct: False, num_tokens: 284, valid_response_length: 625
+
+delta_score: -0.02849999999999997, reward_response.is_correct: False, num_tokens: 445, valid_response_length: 350
+
+
+
+delta_score: -0.5642999999999999, reward_response.is_correct: False, num_tokens: 2237, valid_response_length: 356
+
+delta_score: -0.5283, reward_response.is_correct: False, num_tokens: 235, valid_response_length: 1996delta_score: -0.6765, reward_response.is_correct: False, num_tokens: 2769, valid_response_length: 514
+delta_score: -0.35040000000000004, reward_response.is_correct: False, num_tokens: 426, valid_response_length: 1594delta_score: -0.7052999999999999, reward_response.is_correct: False, num_tokens: 3050, valid_response_length: 699delta_score: -0.6218999999999999, reward_response.is_correct: False, num_tokens: 2603, valid_response_length: 530delta_score: -0.35939999999999994, reward_response.is_correct: False, num_tokens: 1522, valid_response_length: 324delta_score: -0.6969, reward_response.is_correct: False, num_tokens: 2769, valid_response_length: 446delta_score: -0.3635999999999999, reward_response.is_correct: False, num_tokens: 1522, valid_response_length: 310
+
+delta_score: -0.6567, reward_response.is_correct: False, num_tokens: 2555, valid_response_length: 366
+delta_score: -0.9233999999999999, reward_response.is_correct: False, num_tokens: 3691, valid_response_length: 613delta_score: -0.8477999999999999, reward_response.is_correct: False, num_tokens: 3691, valid_response_length: 865
+
+delta_score: -0.2541, reward_response.is_correct: False, num_tokens: 1620, valid_response_length: 773
+delta_score: -0.9293999999999999, reward_response.is_correct: False, num_tokens: 998, valid_response_length: 4096delta_score: -0.2733, reward_response.is_correct: False, num_tokens: 1329, valid_response_length: 418delta_score: -0.05940000000000001, reward_response.is_correct: False, num_tokens: 1349, valid_response_length: 1547
+delta_score: -0.20429999999999993, reward_response.is_correct: False, num_tokens: 223, valid_response_length: 904
+
+delta_score: -0.20789999999999997, reward_response.is_correct: False, num_tokens: 284, valid_response_length: 977
+
+delta_score: -0.5258999999999999, reward_response.is_correct: False, num_tokens: 2431, valid_response_length: 678
+
+
+delta_score: -0.12660000000000005, reward_response.is_correct: False, num_tokens: 277, valid_response_length: 699delta_score: -0.7799999999999999, reward_response.is_correct: False, num_tokens: 2916, valid_response_length: 316delta_score: -0.7119, reward_response.is_correct: False, num_tokens: 2916, valid_response_length: 543delta_score: -0.43589999999999995, reward_response.is_correct: False, num_tokens: 1895, valid_response_length: 442
+delta_score: -0.44520000000000004, reward_response.is_correct: False, num_tokens: 1895, valid_response_length: 411delta_score: -0.43499999999999994, reward_response.is_correct: False, num_tokens: 1895, valid_response_length: 445delta_score: -0.4314, reward_response.is_correct: False, num_tokens: 1895, valid_response_length: 457delta_score: -0.08850000000000002, reward_response.is_correct: False, num_tokens: 493, valid_response_length: 788delta_score: -0.6717, reward_response.is_correct: False, num_tokens: 2603, valid_response_length: 364delta_score: -0.8895, reward_response.is_correct: False, num_tokens: 3363, valid_response_length: 398
+
+
+delta_score: -0.9395999999999999, reward_response.is_correct: False, num_tokens: 3691, valid_response_length: 559delta_score: -0.20009999999999994, reward_response.is_correct: False, num_tokens: 1275, valid_response_length: 608
+
+
+
+
+delta_score: -0.6111, reward_response.is_correct: False, num_tokens: 3059, valid_response_length: 1022
+
+delta_score: -0.33929999999999993, reward_response.is_correct: False, num_tokens: 1899, valid_response_length: 768
+delta_score: -0.615, reward_response.is_correct: False, num_tokens: 3059, valid_response_length: 1009delta_score: -0.6995999999999999, reward_response.is_correct: False, num_tokens: 3050, valid_response_length: 718
+
+delta_score: -0.4617, reward_response.is_correct: False, num_tokens: 2347, valid_response_length: 808
+
+delta_score: -0.4523999999999999, reward_response.is_correct: False, num_tokens: 2347, valid_response_length: 839delta_score: -0.49049999999999994, reward_response.is_correct: False, num_tokens: 1895, valid_response_length: 260delta_score: -0.23160000000000003, reward_response.is_correct: False, num_tokens: 235, valid_response_length: 1007
+delta_score: -1.0689, reward_response.is_correct: False, num_tokens: 3906, valid_response_length: 343
+delta_score: -0.26669999999999994, reward_response.is_correct: False, num_tokens: 426, valid_response_length: 1315
+delta_score: -0.05940000000000001, reward_response.is_correct: False, num_tokens: 745, valid_response_length: 943
+
+delta_score: -0.8576999999999999, reward_response.is_correct: False, num_tokens: 3363, valid_response_length: 504
+
+
+delta_score: -0.22409999999999997, reward_response.is_correct: False, num_tokens: 429, valid_response_length: 1176
+delta_score: -0.7631999999999999, reward_response.is_correct: False, num_tokens: 2886, valid_response_length: 342
+delta_score: -0.6708, reward_response.is_correct: False, num_tokens: 2666, valid_response_length: 430
+delta_score: -0.6795, reward_response.is_correct: False, num_tokens: 2666, valid_response_length: 401delta_score: -0.6321, reward_response.is_correct: False, num_tokens: 3059, valid_response_length: 952delta_score: -0.02429999999999999, reward_response.is_correct: False, num_tokens: 435, valid_response_length: 354delta_score: -0.7263, reward_response.is_correct: False, num_tokens: 3059, valid_response_length: 638delta_score: -0.6803999999999999, reward_response.is_correct: False, num_tokens: 2917, valid_response_length: 649delta_score: -1.1457, reward_response.is_correct: False, num_tokens: 277, valid_response_length: 4096delta_score: -0.1986, reward_response.is_correct: False, num_tokens: 1349, valid_response_length: 687
+delta_score: -0.5723999999999999, reward_response.is_correct: False, num_tokens: 3059, valid_response_length: 1151
+delta_score: -0.6696, reward_response.is_correct: False, num_tokens: 2886, valid_response_length: 654delta_score: -0.7029, reward_response.is_correct: False, num_tokens: 2742, valid_response_length: 399delta_score: -0.6807, reward_response.is_correct: False, num_tokens: 2742, valid_response_length: 473delta_score: -0.7098, reward_response.is_correct: False, num_tokens: 2742, valid_response_length: 376delta_score: -0.7281, reward_response.is_correct: False, num_tokens: 1669, valid_response_length: 4096delta_score: -0.20909999999999995, reward_response.is_correct: False, num_tokens: 1948, valid_response_length: 1251delta_score: -0.4745999999999999, reward_response.is_correct: False, num_tokens: 3081, valid_response_length: 1499
+
+delta_score: -0.5246999999999999, reward_response.is_correct: False, num_tokens: 2347, valid_response_length: 4096delta_score: -0.6992999999999999, reward_response.is_correct: False, num_tokens: 3081, valid_response_length: 750
+delta_score: -0.15989999999999993, reward_response.is_correct: False, num_tokens: 426, valid_response_length: 959delta_score: -0.09870000000000001, reward_response.is_correct: False, num_tokens: 429, valid_response_length: 758delta_score: -0.24659999999999993, reward_response.is_correct: False, num_tokens: 429, valid_response_length: 1251delta_score: -1.0611, reward_response.is_correct: False, num_tokens: 3906, valid_response_length: 369delta_score: -0.4280999999999999, reward_response.is_correct: False, num_tokens: 2085, valid_response_length: 658
+delta_score: -0.11699999999999999, reward_response.is_correct: False, num_tokens: 619, valid_response_length: 229delta_score: -0.5600999999999999, reward_response.is_correct: False, num_tokens: 2358, valid_response_length: 491
+delta_score: -0.5253, reward_response.is_correct: False, num_tokens: 1745, valid_response_length: 3496
+
+delta_score: -0.23819999999999997, reward_response.is_correct: False, num_tokens: 1333, valid_response_length: 539delta_score: -1.0151999999999999, reward_response.is_correct: False, num_tokens: 3821, valid_response_length: 437delta_score: -0.26160000000000005, reward_response.is_correct: False, num_tokens: 1333, valid_response_length: 461
+delta_score: -0.3258, reward_response.is_correct: False, num_tokens: 1620, valid_response_length: 534
+delta_score: -0.07230000000000003, reward_response.is_correct: False, num_tokens: 998, valid_response_length: 757delta_score: -0.27, reward_response.is_correct: False, num_tokens: 1349, valid_response_length: 449
+
+delta_score: -0.16259999999999997, reward_response.is_correct: False, num_tokens: 277, valid_response_length: 819
+
+delta_score: -0.7223999999999999, reward_response.is_correct: False, num_tokens: 2886, valid_response_length: 478
+
+
+delta_score: -0.6599999999999999, reward_response.is_correct: False, num_tokens: 2742, valid_response_length: 542delta_score: -0.5577, reward_response.is_correct: False, num_tokens: 2237, valid_response_length: 4096
+
+
+
+
+
+delta_score: -1.1363999999999999, reward_response.is_correct: False, num_tokens: 308, valid_response_length: 4096
+delta_score: -0.7977, reward_response.is_correct: False, num_tokens: 3197, valid_response_length: 538delta_score: -0.07589999999999997, reward_response.is_correct: False, num_tokens: 425, valid_response_length: 678delta_score: -0.17789999999999995, reward_response.is_correct: False, num_tokens: 1745, valid_response_length: 1152
+
+delta_score: -0.09089999999999998, reward_response.is_correct: False, num_tokens: 678, valid_response_length: 375delta_score: -0.25949999999999995, reward_response.is_correct: False, num_tokens: 1333, valid_response_length: 468
+
+
+delta_score: -1.0214999999999999, reward_response.is_correct: False, num_tokens: 3821, valid_response_length: 416
+
+delta_score: -0.22409999999999997, reward_response.is_correct: False, num_tokens: 1836, valid_response_length: 1089
+delta_score: -0.06330000000000002, reward_response.is_correct: False, num_tokens: 928, valid_response_length: 717
+delta_score: -0.13019999999999998, reward_response.is_correct: False, num_tokens: 928, valid_response_length: 494
+
+delta_score: -0.27780000000000005, reward_response.is_correct: False, num_tokens: 1275, valid_response_length: 349delta_score: -0.0030000000000000027, reward_response.is_correct: False, num_tokens: 928, valid_response_length: 918
+delta_score: -0.3779999999999999, reward_response.is_correct: False, num_tokens: 1899, valid_response_length: 639delta_score: -0.7133999999999999, reward_response.is_correct: False, num_tokens: 3081, valid_response_length: 703delta_score: -0.2358, reward_response.is_correct: False, num_tokens: 1747, valid_response_length: 961
+delta_score: -0.6684, reward_response.is_correct: False, num_tokens: 3081, valid_response_length: 853delta_score: -0.7616999999999999, reward_response.is_correct: False, num_tokens: 3197, valid_response_length: 658
+
+
+
+delta_score: -0.14280000000000004, reward_response.is_correct: False, num_tokens: 1948, valid_response_length: 1472delta_score: -0.7491, reward_response.is_correct: False, num_tokens: 3197, valid_response_length: 700
+
+delta_score: -0.32399999999999995, reward_response.is_correct: False, num_tokens: 1913, valid_response_length: 833delta_score: -0.1563, reward_response.is_correct: False, num_tokens: 1948, valid_response_length: 1427delta_score: -0.7064999999999999, reward_response.is_correct: False, num_tokens: 2571, valid_response_length: 216
+
+
+
+
+delta_score: -0.3087, reward_response.is_correct: False, num_tokens: 1620, valid_response_length: 591
+delta_score: -0.3348, reward_response.is_correct: False, num_tokens: 308, valid_response_length: 1424
+delta_score: -0.32099999999999995, reward_response.is_correct: False, num_tokens: 1836, valid_response_length: 766
+
+
+
+delta_score: -0.31589999999999996, reward_response.is_correct: False, num_tokens: 1329, valid_response_length: 276
+delta_score: -0.32489999999999997, reward_response.is_correct: False, num_tokens: 1329, valid_response_length: 246
+delta_score: -0.7508999999999999, reward_response.is_correct: False, num_tokens: 2917, valid_response_length: 414delta_score: -0.7101, reward_response.is_correct: False, num_tokens: 2917, valid_response_length: 550delta_score: -0.5367, reward_response.is_correct: False, num_tokens: 308, valid_response_length: 2097
+
+delta_score: -0.7487999999999999, reward_response.is_correct: False, num_tokens: 3008, valid_response_length: 512delta_score: -0.345, reward_response.is_correct: False, num_tokens: 2840, valid_response_length: 1690
+
+
+
+
+
+delta_score: -0.011099999999999999, reward_response.is_correct: False, num_tokens: 1024, valid_response_length: 1061delta_score: -0.0726, reward_response.is_correct: False, num_tokens: 1024, valid_response_length: 782delta_score: -0.5487, reward_response.is_correct: False, num_tokens: 2237, valid_response_length: 408delta_score: -0.28289999999999993, reward_response.is_correct: False, num_tokens: 1913, valid_response_length: 970delta_score: -0.26249999999999996, reward_response.is_correct: False, num_tokens: 308, valid_response_length: 1183delta_score: -0.6497999999999999, reward_response.is_correct: False, num_tokens: 2571, valid_response_length: 405delta_score: -0.5577, reward_response.is_correct: False, num_tokens: 2237, valid_response_length: 4096delta_score: -0.7781999999999999, reward_response.is_correct: False, num_tokens: 3363, valid_response_length: 769delta_score: -0.13559999999999994, reward_response.is_correct: False, num_tokens: 678, valid_response_length: 226
+
+
+delta_score: -0.12480000000000002, reward_response.is_correct: False, num_tokens: 399, valid_response_length: 815
+delta_score: -0.6608999999999999, reward_response.is_correct: False, num_tokens: 2555, valid_response_length: 352
+
+
+
+delta_score: -0.3254999999999999, reward_response.is_correct: False, num_tokens: 1636, valid_response_length: 551delta_score: -0.2841, reward_response.is_correct: False, num_tokens: 1620, valid_response_length: 673delta_score: -0.05279999999999996, reward_response.is_correct: False, num_tokens: 998, valid_response_length: 822delta_score: -0.26849999999999996, reward_response.is_correct: False, num_tokens: 1329, valid_response_length: 434delta_score: -0.42179999999999995, reward_response.is_correct: False, num_tokens: 223, valid_response_length: 1629delta_score: -0.01649999999999996, reward_response.is_correct: False, num_tokens: 928, valid_response_length: 873
+
+delta_score: -0.3053999999999999, reward_response.is_correct: False, num_tokens: 1329, valid_response_length: 311
+delta_score: -0.018900000000000028, reward_response.is_correct: False, num_tokens: 445, valid_response_length: 382
+
+
+delta_score: -0.6437999999999999, reward_response.is_correct: False, num_tokens: 2431, valid_response_length: 285
+
+
+
+delta_score: -0.4758, reward_response.is_correct: False, num_tokens: 2085, valid_response_length: 499
+delta_score: -0.7166999999999999, reward_response.is_correct: False, num_tokens: 2571, valid_response_length: 182
+
+
+
+
+delta_score: -0.12, reward_response.is_correct: False, num_tokens: 399, valid_response_length: 799
+
+delta_score: -0.6830999999999999, reward_response.is_correct: False, num_tokens: 2555, valid_response_length: 278
+delta_score: -0.6356999999999999, reward_response.is_correct: False, num_tokens: 2555, valid_response_length: 436delta_score: -0.705, reward_response.is_correct: False, num_tokens: 3050, valid_response_length: 700delta_score: -0.5196, reward_response.is_correct: False, num_tokens: 2513, valid_response_length: 781delta_score: -0.708, reward_response.is_correct: False, num_tokens: 2603, valid_response_length: 243
+
+delta_score: -0.23309999999999997, reward_response.is_correct: False, num_tokens: 223, valid_response_length: 1000
+delta_score: -0.5448, reward_response.is_correct: False, num_tokens: 2537, valid_response_length: 721delta_score: -0.02969999999999995, reward_response.is_correct: False, num_tokens: 445, valid_response_length: 346
+
+
+delta_score: -0.44189999999999996, reward_response.is_correct: False, num_tokens: 2840, valid_response_length: 1367delta_score: -0.8157, reward_response.is_correct: False, num_tokens: 3363, valid_response_length: 644
+delta_score: -0.48329999999999995, reward_response.is_correct: False, num_tokens: 1895, valid_response_length: 284
+delta_score: -0.3204, reward_response.is_correct: False, num_tokens: 1747, valid_response_length: 679delta_score: -0.09750000000000003, reward_response.is_correct: False, num_tokens: 1024, valid_response_length: 699
+
+
+
+delta_score: -0.4889999999999999, reward_response.is_correct: False, num_tokens: 2085, valid_response_length: 455delta_score: -0.47309999999999997, reward_response.is_correct: False, num_tokens: 399, valid_response_length: 1976delta_score: -0.5274, reward_response.is_correct: False, num_tokens: 2358, valid_response_length: 600delta_score: -0.056400000000000006, reward_response.is_correct: False, num_tokens: 399, valid_response_length: 587
+
+delta_score: -0.2750999999999999, reward_response.is_correct: False, num_tokens: 1620, valid_response_length: 703
+
+delta_score: -0.3071999999999999, reward_response.is_correct: False, num_tokens: 1349, valid_response_length: 325
+delta_score: -0.6941999999999999, reward_response.is_correct: False, num_tokens: 2666, valid_response_length: 352delta_score: -0.1785, reward_response.is_correct: False, num_tokens: 277, valid_response_length: 872
+
+
+delta_score: -0.39149999999999996, reward_response.is_correct: False, num_tokens: 1899, valid_response_length: 594
+delta_score: -0.5501999999999999, reward_response.is_correct: False, num_tokens: 3363, valid_response_length: 1529delta_score: -0.19920000000000004, reward_response.is_correct: False, num_tokens: 104, valid_response_length: 768delta_score: -0.22799999999999998, reward_response.is_correct: False, num_tokens: 104, valid_response_length: 864delta_score: -0.027000000000000024, reward_response.is_correct: False, num_tokens: 745, valid_response_length: 835delta_score: -0.45089999999999997, reward_response.is_correct: False, num_tokens: 2840, valid_response_length: 1337
+delta_score: -0.25770000000000004, reward_response.is_correct: False, num_tokens: 1948, valid_response_length: 1089delta_score: -0.18779999999999997, reward_response.is_correct: False, num_tokens: 104, valid_response_length: 730delta_score: -0.5519999999999999, reward_response.is_correct: False, num_tokens: 2431, valid_response_length: 591delta_score: -0.4784999999999999, reward_response.is_correct: False, num_tokens: 2085, valid_response_length: 490delta_score: -0.5381999999999999, reward_response.is_correct: False, num_tokens: 2431, valid_response_length: 637
+delta_score: -0.11729999999999996, reward_response.is_correct: False, num_tokens: 619, valid_response_length: 228
+delta_score: -0.6444, reward_response.is_correct: False, num_tokens: 2666, valid_response_length: 518
+
+
+
+delta_score: -0.44309999999999994, reward_response.is_correct: False, num_tokens: 2513, valid_response_length: 1036delta_score: -0.5966999999999999, reward_response.is_correct: False, num_tokens: 2603, valid_response_length: 614
+delta_score: -0.6537, reward_response.is_correct: False, num_tokens: 2603, valid_response_length: 424delta_score: -0.7242, reward_response.is_correct: False, num_tokens: 2916, valid_response_length: 502
+
+delta_score: -0.03359999999999996, reward_response.is_correct: False, num_tokens: 435, valid_response_length: 323delta_score: -0.16500000000000004, reward_response.is_correct: False, num_tokens: 429, valid_response_length: 979delta_score: -0.32909999999999995, reward_response.is_correct: False, num_tokens: 235, valid_response_length: 1332delta_score: -0.6231, reward_response.is_correct: False, num_tokens: 2603, valid_response_length: 526
+delta_score: -0.4416, reward_response.is_correct: False, num_tokens: 1895, valid_response_length: 423
+
+delta_score: -0.7767, reward_response.is_correct: False, num_tokens: 2886, valid_response_length: 297delta_score: -0.8301, reward_response.is_correct: False, num_tokens: 3363, valid_response_length: 596delta_score: -0.6717, reward_response.is_correct: False, num_tokens: 2886, valid_response_length: 647delta_score: -0.5094, reward_response.is_correct: False, num_tokens: 2358, valid_response_length: 660
+
+
+
+delta_score: -0.7475999999999999, reward_response.is_correct: False, num_tokens: 2886, valid_response_length: 394delta_score: -0.10949999999999993, reward_response.is_correct: False, num_tokens: 493, valid_response_length: 858delta_score: -0.0675, reward_response.is_correct: False, num_tokens: 425, valid_response_length: 650delta_score: -0.04410000000000003, reward_response.is_correct: False, num_tokens: 861, valid_response_length: 714
+delta_score: -0.008700000000000041, reward_response.is_correct: False, num_tokens: 861, valid_response_length: 832delta_score: -0.6927, reward_response.is_correct: False, num_tokens: 2666, valid_response_length: 357delta_score: -0.6342, reward_response.is_correct: False, num_tokens: 3059, valid_response_length: 945delta_score: -1.0862999999999998, reward_response.is_correct: False, num_tokens: 3906, valid_response_length: 285delta_score: -0.05369999999999997, reward_response.is_correct: False, num_tokens: 861, valid_response_length: 1040delta_score: -0.5958, reward_response.is_correct: False, num_tokens: 2307, valid_response_length: 321
+
+
+
+delta_score: -1.1582999999999999, reward_response.is_correct: False, num_tokens: 235, valid_response_length: 4096
+
+
+
+delta_score: -0.21299999999999997, reward_response.is_correct: False, num_tokens: 429, valid_response_length: 1139delta_score: -1.1457, reward_response.is_correct: False, num_tokens: 277, valid_response_length: 4096delta_score: -0.10739999999999994, reward_response.is_correct: False, num_tokens: 619, valid_response_length: 261delta_score: -0.51, reward_response.is_correct: False, num_tokens: 2431, valid_response_length: 731delta_score: -0.6867, reward_response.is_correct: False, num_tokens: 2886, valid_response_length: 597
+
+
+delta_score: -0.04859999999999998, reward_response.is_correct: False, num_tokens: 861, valid_response_length: 1023delta_score: -0.40049999999999997, reward_response.is_correct: False, num_tokens: 1745, valid_response_length: 410delta_score: -0.15389999999999993, reward_response.is_correct: False, num_tokens: 678, valid_response_length: 165delta_score: -0.34919999999999995, reward_response.is_correct: False, num_tokens: 1522, valid_response_length: 358delta_score: -0.08099999999999996, reward_response.is_correct: False, num_tokens: 678, valid_response_length: 408
+
+delta_score: -0.08909999999999996, reward_response.is_correct: False, num_tokens: 678, valid_response_length: 381
+delta_score: -0.44489999999999996, reward_response.is_correct: False, num_tokens: 2347, valid_response_length: 864
+delta_score: -0.26160000000000005, reward_response.is_correct: False, num_tokens: 1275, valid_response_length: 403delta_score: -0.2976, reward_response.is_correct: False, num_tokens: 1836, valid_response_length: 844
+
+delta_score: -0.4776, reward_response.is_correct: False, num_tokens: 2307, valid_response_length: 715delta_score: -0.2247, reward_response.is_correct: False, num_tokens: 308, valid_response_length: 1057delta_score: -0.45209999999999995, reward_response.is_correct: False, num_tokens: 2431, valid_response_length: 924delta_score: -0.5519999999999999, reward_response.is_correct: False, num_tokens: 2307, valid_response_length: 467
+delta_score: -0.6564, reward_response.is_correct: False, num_tokens: 3197, valid_response_length: 1009delta_score: -0.477, reward_response.is_correct: False, num_tokens: 3197, valid_response_length: 1607
+
+
+
+
+
+
+
+
+delta_score: -0.11760000000000004, reward_response.is_correct: False, num_tokens: 678, valid_response_length: 286
+delta_score: -0.11039999999999994, reward_response.is_correct: False, num_tokens: 928, valid_response_length: 560
+delta_score: -0.2178, reward_response.is_correct: False, num_tokens: 1747, valid_response_length: 1021
+
+
+delta_score: -0.13019999999999998, reward_response.is_correct: False, num_tokens: 1948, valid_response_length: 1514
+
+
+delta_score: -0.30810000000000004, reward_response.is_correct: False, num_tokens: 1333, valid_response_length: 306delta_score: -0.6969, reward_response.is_correct: False, num_tokens: 2571, valid_response_length: 248
+
+
+delta_score: -0.6065999999999999, reward_response.is_correct: False, num_tokens: 2307, valid_response_length: 285delta_score: -0.35939999999999994, reward_response.is_correct: False, num_tokens: 1522, valid_response_length: 324delta_score: -0.2943, reward_response.is_correct: False, num_tokens: 1522, valid_response_length: 541delta_score: -0.6779999999999999, reward_response.is_correct: False, num_tokens: 3285, valid_response_length: 1025delta_score: -0.738, reward_response.is_correct: False, num_tokens: 3197, valid_response_length: 737delta_score: -0.5667, reward_response.is_correct: False, num_tokens: 2307, valid_response_length: 418delta_score: -0.6222, reward_response.is_correct: False, num_tokens: 3081, valid_response_length: 1007
+
+delta_score: -0.8042999999999999, reward_response.is_correct: False, num_tokens: 3363, valid_response_length: 682
+
+delta_score: -0.7778999999999999, reward_response.is_correct: False, num_tokens: 3285, valid_response_length: 692
+delta_score: -0.738, reward_response.is_correct: False, num_tokens: 1636, valid_response_length: 4096delta_score: -0.46799999999999997, reward_response.is_correct: False, num_tokens: 2431, valid_response_length: 871delta_score: -0.05699999999999994, reward_response.is_correct: False, num_tokens: 928, valid_response_length: 738delta_score: -0.09660000000000002, reward_response.is_correct: False, num_tokens: 928, valid_response_length: 606delta_score: -0.13529999999999998, reward_response.is_correct: False, num_tokens: 861, valid_response_length: 1312delta_score: -0.84, reward_response.is_correct: False, num_tokens: 3285, valid_response_length: 485delta_score: -0.08640000000000003, reward_response.is_correct: False, num_tokens: 928, valid_response_length: 640delta_score: -0.7388999999999999, reward_response.is_correct: False, num_tokens: 3285, valid_response_length: 822
+
+delta_score: -0.31079999999999997, reward_response.is_correct: False, num_tokens: 1329, valid_response_length: 293delta_score: -0.13739999999999997, reward_response.is_correct: False, num_tokens: 678, valid_response_length: 220delta_score: -0.8123999999999999, reward_response.is_correct: False, num_tokens: 3197, valid_response_length: 489delta_score: -0.2901, reward_response.is_correct: False, num_tokens: 1620, valid_response_length: 653
+
+delta_score: -0.5963999999999999, reward_response.is_correct: False, num_tokens: 2537, valid_response_length: 549delta_score: -0.6800999999999999, reward_response.is_correct: False, num_tokens: 2917, valid_response_length: 650
+delta_score: -0.17969999999999997, reward_response.is_correct: False, num_tokens: 1948, valid_response_length: 1349delta_score: -0.7394999999999999, reward_response.is_correct: False, num_tokens: 3008, valid_response_length: 543delta_score: -0.21150000000000002, reward_response.is_correct: False, num_tokens: 493, valid_response_length: 1198delta_score: -0.3272999999999999, reward_response.is_correct: False, num_tokens: 223, valid_response_length: 1314
+delta_score: -0.26849999999999996, reward_response.is_correct: False, num_tokens: 1333, valid_response_length: 438
+
+delta_score: -0.027000000000000024, reward_response.is_correct: False, num_tokens: 435, valid_response_length: 345
+
+
+
+
+
+
+delta_score: -0.393, reward_response.is_correct: False, num_tokens: 2840, valid_response_length: 1530delta_score: -0.7565999999999999, reward_response.is_correct: False, num_tokens: 3285, valid_response_length: 763
+delta_score: -0.24329999999999996, reward_response.is_correct: False, num_tokens: 3285, valid_response_length: 4096
+delta_score: -0.5577, reward_response.is_correct: False, num_tokens: 2237, valid_response_length: 4096delta_score: -0.05940000000000001, reward_response.is_correct: False, num_tokens: 1024, valid_response_length: 826
+
+
+
+
+
+
+
+
+
+
+delta_score: -0.2835, reward_response.is_correct: False, num_tokens: 1329, valid_response_length: 384
+
+delta_score: -0.6470999999999999, reward_response.is_correct: False, num_tokens: 2571, valid_response_length: 414
+
+
+
+
+
+delta_score: -0.32519999999999993, reward_response.is_correct: False, num_tokens: 284, valid_response_length: 1368
+delta_score: -0.7478999999999999, reward_response.is_correct: False, num_tokens: 3197, valid_response_length: 704
+delta_score: -0.9293999999999999, reward_response.is_correct: False, num_tokens: 998, valid_response_length: 4096delta_score: -0.6305999999999999, reward_response.is_correct: False, num_tokens: 2513, valid_response_length: 411delta_score: -0.5912999999999999, reward_response.is_correct: False, num_tokens: 2840, valid_response_length: 869delta_score: -1.0251, reward_response.is_correct: False, num_tokens: 223, valid_response_length: 3640
+
+
+
+
+delta_score: -0.11699999999999999, reward_response.is_correct: False, num_tokens: 619, valid_response_length: 229delta_score: -0.08699999999999997, reward_response.is_correct: False, num_tokens: 425, valid_response_length: 715
+
+delta_score: -0.6176999999999999, reward_response.is_correct: False, num_tokens: 2603, valid_response_length: 544
+delta_score: -0.4689, reward_response.is_correct: False, num_tokens: 2085, valid_response_length: 522delta_score: -0.24629999999999996, reward_response.is_correct: False, num_tokens: 1620, valid_response_length: 799delta_score: -0.8192999999999999, reward_response.is_correct: False, num_tokens: 3363, valid_response_length: 632
+delta_score: -0.5667, reward_response.is_correct: False, num_tokens: 2358, valid_response_length: 469
+delta_score: -0.4716, reward_response.is_correct: False, num_tokens: 2237, valid_response_length: 665
+delta_score: -0.57, reward_response.is_correct: False, num_tokens: 2537, valid_response_length: 637delta_score: -0.5265, reward_response.is_correct: False, num_tokens: 2358, valid_response_length: 603delta_score: -0.03090000000000004, reward_response.is_correct: False, num_tokens: 435, valid_response_length: 332
+delta_score: -0.6299999999999999, reward_response.is_correct: False, num_tokens: 2555, valid_response_length: 455
+delta_score: -0.6821999999999999, reward_response.is_correct: False, num_tokens: 2666, valid_response_length: 392delta_score: -0.015900000000000025, reward_response.is_correct: False, num_tokens: 435, valid_response_length: 382delta_score: -0.032399999999999984, reward_response.is_correct: False, num_tokens: 435, valid_response_length: 327
+delta_score: -1.005, reward_response.is_correct: False, num_tokens: 3691, valid_response_length: 341delta_score: -1.0851, reward_response.is_correct: False, num_tokens: 3906, valid_response_length: 289delta_score: -0.4424999999999999, reward_response.is_correct: False, num_tokens: 2513, valid_response_length: 1038
+
+delta_score: -0.7499999999999999, reward_response.is_correct: False, num_tokens: 2916, valid_response_length: 416
+delta_score: -0.3335999999999999, reward_response.is_correct: False, num_tokens: 277, valid_response_length: 1389delta_score: -0.11819999999999997, reward_response.is_correct: False, num_tokens: 277, valid_response_length: 671delta_score: -0.05610000000000004, reward_response.is_correct: False, num_tokens: 998, valid_response_length: 811
+
+delta_score: -0.5219999999999999, reward_response.is_correct: False, num_tokens: 2431, valid_response_length: 691delta_score: -0.40679999999999994, reward_response.is_correct: False, num_tokens: 2431, valid_response_length: 1075delta_score: -0.0041999999999999815, reward_response.is_correct: False, num_tokens: 445, valid_response_length: 459delta_score: -0.04920000000000002, reward_response.is_correct: False, num_tokens: 745, valid_response_length: 909delta_score: -0.15810000000000002, reward_response.is_correct: False, num_tokens: 425, valid_response_length: 952delta_score: -0.4617, reward_response.is_correct: False, num_tokens: 2085, valid_response_length: 546
+
+delta_score: -0.3486, reward_response.is_correct: False, num_tokens: 3285, valid_response_length: 2123delta_score: -0.6342, reward_response.is_correct: False, num_tokens: 3059, valid_response_length: 945
+
+
+
+delta_score: -0.7041, reward_response.is_correct: False, num_tokens: 2666, valid_response_length: 319delta_score: -0.6521999999999999, reward_response.is_correct: False, num_tokens: 2917, valid_response_length: 743
+delta_score: -0.12929999999999997, reward_response.is_correct: False, num_tokens: 1669, valid_response_length: 1238
+
+
+
+delta_score: -0.17700000000000005, reward_response.is_correct: False, num_tokens: 277, valid_response_length: 867
+delta_score: -0.6204, reward_response.is_correct: False, num_tokens: 2513, valid_response_length: 445
+delta_score: -0.3194999999999999, reward_response.is_correct: False, num_tokens: 277, valid_response_length: 1342delta_score: -0.8264999999999999, reward_response.is_correct: False, num_tokens: 2916, valid_response_length: 161
+delta_score: -0.4266, reward_response.is_correct: False, num_tokens: 277, valid_response_length: 1699delta_score: -0.24839999999999995, reward_response.is_correct: False, num_tokens: 235, valid_response_length: 1063
+
+delta_score: -0.6939, reward_response.is_correct: False, num_tokens: 2916, valid_response_length: 603
+
+delta_score: -0.43589999999999995, reward_response.is_correct: False, num_tokens: 1895, valid_response_length: 442delta_score: -0.2208, reward_response.is_correct: False, num_tokens: 429, valid_response_length: 1165delta_score: -0.25170000000000003, reward_response.is_correct: False, num_tokens: 429, valid_response_length: 1268delta_score: -0.15000000000000002, reward_response.is_correct: False, num_tokens: 104, valid_response_length: 604delta_score: -0.7512, reward_response.is_correct: False, num_tokens: 2886, valid_response_length: 382
+
+delta_score: -0.5586, reward_response.is_correct: False, num_tokens: 2237, valid_response_length: 375delta_score: -0.2016, reward_response.is_correct: False, num_tokens: 1747, valid_response_length: 1075delta_score: -0.33030000000000004, reward_response.is_correct: False, num_tokens: 1620, valid_response_length: 519delta_score: -0.19320000000000004, reward_response.is_correct: False, num_tokens: 1669, valid_response_length: 1025
+delta_score: -0.13260000000000005, reward_response.is_correct: False, num_tokens: 399, valid_response_length: 841delta_score: -0.5714999999999999, reward_response.is_correct: False, num_tokens: 2307, valid_response_length: 402delta_score: -0.5741999999999999, reward_response.is_correct: False, num_tokens: 2537, valid_response_length: 623delta_score: -0.6585, reward_response.is_correct: False, num_tokens: 2769, valid_response_length: 574delta_score: -0.43320000000000003, reward_response.is_correct: False, num_tokens: 1913, valid_response_length: 469delta_score: -0.3395999999999999, reward_response.is_correct: False, num_tokens: 1913, valid_response_length: 781delta_score: -0.5736, reward_response.is_correct: False, num_tokens: 3081, valid_response_length: 1169
+delta_score: -0.2546999999999999, reward_response.is_correct: False, num_tokens: 1669, valid_response_length: 820
+delta_score: -0.04349999999999998, reward_response.is_correct: False, num_tokens: 435, valid_response_length: 290
+delta_score: -0.4586999999999999, reward_response.is_correct: False, num_tokens: 2347, valid_response_length: 818
+
+
+delta_score: -0.11460000000000004, reward_response.is_correct: False, num_tokens: 619, valid_response_length: 237delta_score: -0.1965, reward_response.is_correct: False, num_tokens: 235, valid_response_length: 890
+delta_score: -0.1362, reward_response.is_correct: False, num_tokens: 1745, valid_response_length: 1291
+
+delta_score: -0.27269999999999994, reward_response.is_correct: False, num_tokens: 1333, valid_response_length: 424
+delta_score: -1.1582999999999999, reward_response.is_correct: False, num_tokens: 235, valid_response_length: 4096
+delta_score: -0.10109999999999997, reward_response.is_correct: False, num_tokens: 1024, valid_response_length: 687delta_score: -0.7484999999999999, reward_response.is_correct: False, num_tokens: 3050, valid_response_length: 555
+delta_score: -0.32909999999999995, reward_response.is_correct: False, num_tokens: 1636, valid_response_length: 539delta_score: -0.7512, reward_response.is_correct: False, num_tokens: 3050, valid_response_length: 546
+
+
+
+
+
+delta_score: -0.5196, reward_response.is_correct: False, num_tokens: 2358, valid_response_length: 626
+delta_score: -0.699, reward_response.is_correct: False, num_tokens: 2742, valid_response_length: 412
+
+
+delta_score: -0.2679, reward_response.is_correct: False, num_tokens: 1913, valid_response_length: 1020
+delta_score: -0.29069999999999996, reward_response.is_correct: False, num_tokens: 1669, valid_response_length: 700
+
+
+delta_score: -0.21719999999999995, reward_response.is_correct: False, num_tokens: 284, valid_response_length: 1008delta_score: -0.3719999999999999, reward_response.is_correct: False, num_tokens: 2347, valid_response_length: 1107delta_score: -0.738, reward_response.is_correct: False, num_tokens: 1636, valid_response_length: 4096
+
+delta_score: -0.23939999999999995, reward_response.is_correct: False, num_tokens: 1333, valid_response_length: 535
+delta_score: -0.39869999999999994, reward_response.is_correct: False, num_tokens: 1899, valid_response_length: 570
+
+delta_score: -0.21419999999999995, reward_response.is_correct: False, num_tokens: 1333, valid_response_length: 619
+delta_score: -0.3053999999999999, reward_response.is_correct: False, num_tokens: 1836, valid_response_length: 818
+
+
+
+delta_score: -0.8738999999999999, reward_response.is_correct: False, num_tokens: 3197, valid_response_length: 284
+
+
+delta_score: -0.7187999999999999, reward_response.is_correct: False, num_tokens: 3050, valid_response_length: 654delta_score: -0.2571, reward_response.is_correct: False, num_tokens: 1275, valid_response_length: 418
+
+delta_score: -0.2802, reward_response.is_correct: False, num_tokens: 1329, valid_response_length: 395delta_score: -0.7158, reward_response.is_correct: False, num_tokens: 2571, valid_response_length: 185
+delta_score: -0.5505, reward_response.is_correct: False, num_tokens: 308, valid_response_length: 2143delta_score: -1.0809, reward_response.is_correct: False, num_tokens: 493, valid_response_length: 4096
+
+
+delta_score: -0.29369999999999996, reward_response.is_correct: False, num_tokens: 308, valid_response_length: 1287delta_score: -0.12029999999999996, reward_response.is_correct: False, num_tokens: 619, valid_response_length: 218delta_score: -0.37260000000000004, reward_response.is_correct: False, num_tokens: 1522, valid_response_length: 280
+delta_score: -0.10650000000000004, reward_response.is_correct: False, num_tokens: 619, valid_response_length: 264
+
+
+
+
+
+delta_score: -0.05249999999999999, reward_response.is_correct: False, num_tokens: 928, valid_response_length: 1103
+delta_score: -0.6923999999999999, reward_response.is_correct: False, num_tokens: 3197, valid_response_length: 889delta_score: -0.31679999999999997, reward_response.is_correct: False, num_tokens: 1329, valid_response_length: 273delta_score: -0.3369, reward_response.is_correct: False, num_tokens: 1899, valid_response_length: 776
+delta_score: -0.4416, reward_response.is_correct: False, num_tokens: 1895, valid_response_length: 423delta_score: -0.5498999999999999, reward_response.is_correct: False, num_tokens: 2537, valid_response_length: 704delta_score: -0.6606, reward_response.is_correct: False, num_tokens: 3197, valid_response_length: 995
+
+
+delta_score: -0.040200000000000014, reward_response.is_correct: False, num_tokens: 745, valid_response_length: 879
+delta_score: -0.8562, reward_response.is_correct: False, num_tokens: 3197, valid_response_length: 343
+
+delta_score: -0.21330000000000005, reward_response.is_correct: False, num_tokens: 284, valid_response_length: 995
+delta_score: -0.10949999999999993, reward_response.is_correct: False, num_tokens: 1024, valid_response_length: 659delta_score: -0.23339999999999994, reward_response.is_correct: False, num_tokens: 1948, valid_response_length: 1170
+delta_score: -0.1251, reward_response.is_correct: False, num_tokens: 1948, valid_response_length: 1531
+
+
+delta_score: -0.35040000000000004, reward_response.is_correct: False, num_tokens: 1522, valid_response_length: 354delta_score: -0.9749999999999999, reward_response.is_correct: False, num_tokens: 3691, valid_response_length: 441delta_score: -0.24329999999999996, reward_response.is_correct: False, num_tokens: 3285, valid_response_length: 4096
+
+delta_score: -0.3993, reward_response.is_correct: False, num_tokens: 308, valid_response_length: 1639
+
+delta_score: -0.19920000000000004, reward_response.is_correct: False, num_tokens: 235, valid_response_length: 899
+delta_score: -0.6437999999999999, reward_response.is_correct: False, num_tokens: 2555, valid_response_length: 409delta_score: -0.9704999999999999, reward_response.is_correct: False, num_tokens: 3691, valid_response_length: 456delta_score: -0.42510000000000003, reward_response.is_correct: False, num_tokens: 1899, valid_response_length: 482delta_score: -0.9455999999999999, reward_response.is_correct: False, num_tokens: 3691, valid_response_length: 539
+delta_score: -1.0119, reward_response.is_correct: False, num_tokens: 3691, valid_response_length: 318
+
+
+delta_score: -0.3912, reward_response.is_correct: False, num_tokens: 2537, valid_response_length: 1233
+
+delta_score: -1.1436, reward_response.is_correct: False, num_tokens: 284, valid_response_length: 4096delta_score: -0.7656, reward_response.is_correct: False, num_tokens: 3050, valid_response_length: 498
+
+
+delta_score: -0.17579999999999996, reward_response.is_correct: False, num_tokens: 223, valid_response_length: 809
+delta_score: -0.0011999999999999789, reward_response.is_correct: False, num_tokens: 399, valid_response_length: 395
+
+
+delta_score: -0.3042, reward_response.is_correct: False, num_tokens: 1522, valid_response_length: 508delta_score: -0.00990000000000002, reward_response.is_correct: False, num_tokens: 445, valid_response_length: 412delta_score: -0.3891, reward_response.is_correct: False, num_tokens: 1522, valid_response_length: 225delta_score: -0.03510000000000002, reward_response.is_correct: False, num_tokens: 445, valid_response_length: 328
+delta_score: -0.609, reward_response.is_correct: False, num_tokens: 2769, valid_response_length: 739delta_score: -0.48539999999999994, reward_response.is_correct: False, num_tokens: 2431, valid_response_length: 813delta_score: -0.84, reward_response.is_correct: False, num_tokens: 3197, valid_response_length: 397delta_score: -0.3147, reward_response.is_correct: False, num_tokens: 1329, valid_response_length: 280
+
+delta_score: -0.6384, reward_response.is_correct: False, num_tokens: 2555, valid_response_length: 427delta_score: -0.8738999999999999, reward_response.is_correct: False, num_tokens: 3691, valid_response_length: 778
+
+delta_score: -0.6, reward_response.is_correct: False, num_tokens: 2537, valid_response_length: 537delta_score: -0.5445, reward_response.is_correct: False, num_tokens: 2513, valid_response_length: 698delta_score: -0.06989999999999996, reward_response.is_correct: False, num_tokens: 426, valid_response_length: 659delta_score: -0.7011, reward_response.is_correct: False, num_tokens: 2917, valid_response_length: 580
+delta_score: -0.4938, reward_response.is_correct: False, num_tokens: 2085, valid_response_length: 439
+delta_score: -0.15569999999999995, reward_response.is_correct: False, num_tokens: 1948, valid_response_length: 1429
+delta_score: -0.05520000000000003, reward_response.is_correct: False, num_tokens: 493, valid_response_length: 677
+delta_score: -0.10739999999999994, reward_response.is_correct: False, num_tokens: 998, valid_response_length: 640delta_score: -0.4236, reward_response.is_correct: False, num_tokens: 2840, valid_response_length: 1428
+delta_score: -0.6735, reward_response.is_correct: False, num_tokens: 2603, valid_response_length: 358delta_score: -0.8801999999999999, reward_response.is_correct: False, num_tokens: 3363, valid_response_length: 429
+delta_score: -0.579, reward_response.is_correct: False, num_tokens: 2603, valid_response_length: 673delta_score: -0.5091, reward_response.is_correct: False, num_tokens: 2358, valid_response_length: 661
+delta_score: -0.6638999999999999, reward_response.is_correct: False, num_tokens: 2666, valid_response_length: 453delta_score: -0.6920999999999999, reward_response.is_correct: False, num_tokens: 2666, valid_response_length: 359
+
+
+delta_score: -0.5018999999999999, reward_response.is_correct: False, num_tokens: 2431, valid_response_length: 758delta_score: -0.2742, reward_response.is_correct: False, num_tokens: 1349, valid_response_length: 435delta_score: -0.0786, reward_response.is_correct: False, num_tokens: 426, valid_response_length: 688
+delta_score: -0.31289999999999996, reward_response.is_correct: False, num_tokens: 1620, valid_response_length: 577
+
+
+delta_score: -1.0191, reward_response.is_correct: False, num_tokens: 3691, valid_response_length: 294
+delta_score: -0.05730000000000002, reward_response.is_correct: False, num_tokens: 426, valid_response_length: 617delta_score: -0.4766999999999999, reward_response.is_correct: False, num_tokens: 2537, valid_response_length: 948delta_score: -0.11609999999999998, reward_response.is_correct: False, num_tokens: 277, valid_response_length: 664
+
+delta_score: -0.03720000000000001, reward_response.is_correct: False, num_tokens: 426, valid_response_length: 550
+delta_score: -0.4523999999999999, reward_response.is_correct: False, num_tokens: 3050, valid_response_length: 1542delta_score: -0.7746, reward_response.is_correct: False, num_tokens: 2916, valid_response_length: 334delta_score: -0.06359999999999999, reward_response.is_correct: False, num_tokens: 998, valid_response_length: 786delta_score: -0.007199999999999984, reward_response.is_correct: False, num_tokens: 426, valid_response_length: 450delta_score: -0.17999999999999994, reward_response.is_correct: False, num_tokens: 284, valid_response_length: 884
+delta_score: -0.8058, reward_response.is_correct: False, num_tokens: 223, valid_response_length: 2909delta_score: -0.6629999999999999, reward_response.is_correct: False, num_tokens: 2916, valid_response_length: 706
+
+
+
+delta_score: -0.6516, reward_response.is_correct: False, num_tokens: 2603, valid_response_length: 431delta_score: -0.6236999999999999, reward_response.is_correct: False, num_tokens: 2603, valid_response_length: 524
+delta_score: -0.2784, reward_response.is_correct: False, num_tokens: 104, valid_response_length: 1032delta_score: -0.4575, reward_response.is_correct: False, num_tokens: 308, valid_response_length: 1833delta_score: -0.03420000000000001, reward_response.is_correct: False, num_tokens: 435, valid_response_length: 321
+delta_score: -0.24119999999999997, reward_response.is_correct: False, num_tokens: 1349, valid_response_length: 545delta_score: -0.6632999999999999, reward_response.is_correct: False, num_tokens: 2769, valid_response_length: 558delta_score: -0.018000000000000016, reward_response.is_correct: False, num_tokens: 425, valid_response_length: 365
+
+delta_score: -0.40679999999999994, reward_response.is_correct: False, num_tokens: 2347, valid_response_length: 991
+delta_score: -0.4962, reward_response.is_correct: False, num_tokens: 223, valid_response_length: 1877
+delta_score: -0.9554999999999999, reward_response.is_correct: False, num_tokens: 3691, valid_response_length: 506delta_score: -0.05369999999999997, reward_response.is_correct: False, num_tokens: 426, valid_response_length: 605
+delta_score: -0.3857999999999999, reward_response.is_correct: False, num_tokens: 277, valid_response_length: 1563
+delta_score: -1.0682999999999998, reward_response.is_correct: False, num_tokens: 3906, valid_response_length: 345
+
+
+
+delta_score: -0.3015, reward_response.is_correct: False, num_tokens: 284, valid_response_length: 1289
+
+delta_score: -0.6033, reward_response.is_correct: False, num_tokens: 2769, valid_response_length: 758delta_score: -0.12270000000000003, reward_response.is_correct: False, num_tokens: 235, valid_response_length: 644delta_score: -0.14700000000000002, reward_response.is_correct: False, num_tokens: 104, valid_response_length: 594
+
+
+delta_score: -0.588, reward_response.is_correct: False, num_tokens: 2769, valid_response_length: 809
+delta_score: -0.2379, reward_response.is_correct: False, num_tokens: 429, valid_response_length: 1222delta_score: -0.09419999999999995, reward_response.is_correct: False, num_tokens: 429, valid_response_length: 743
+delta_score: -0.8093999999999999, reward_response.is_correct: False, num_tokens: 3363, valid_response_length: 665delta_score: -1.0005, reward_response.is_correct: False, num_tokens: 3821, valid_response_length: 486
+
+
+delta_score: -0.2946, reward_response.is_correct: False, num_tokens: 1349, valid_response_length: 367
+delta_score: -0.7068, reward_response.is_correct: False, num_tokens: 3059, valid_response_length: 703
+
+delta_score: -1.0397999999999998, reward_response.is_correct: False, num_tokens: 3821, valid_response_length: 355delta_score: -0.3860999999999999, reward_response.is_correct: False, num_tokens: 2347, valid_response_length: 1060delta_score: -1.0851, reward_response.is_correct: False, num_tokens: 3906, valid_response_length: 289
+
+
+
+delta_score: -0.7047, reward_response.is_correct: False, num_tokens: 2886, valid_response_length: 537
+
+delta_score: -0.010800000000000032, reward_response.is_correct: False, num_tokens: 861, valid_response_length: 897delta_score: -0.05010000000000003, reward_response.is_correct: False, num_tokens: 861, valid_response_length: 1028
+delta_score: -0.6969, reward_response.is_correct: False, num_tokens: 2742, valid_response_length: 419
+
+delta_score: -0.32519999999999993, reward_response.is_correct: False, num_tokens: 1913, valid_response_length: 829delta_score: -0.7052999999999999, reward_response.is_correct: False, num_tokens: 3081, valid_response_length: 730
+
+delta_score: -0.7251, reward_response.is_correct: False, num_tokens: 2769, valid_response_length: 352
+delta_score: -0.03210000000000002, reward_response.is_correct: False, num_tokens: 445, valid_response_length: 338delta_score: -0.11880000000000002, reward_response.is_correct: False, num_tokens: 619, valid_response_length: 223delta_score: -0.36, reward_response.is_correct: False, num_tokens: 1745, valid_response_length: 545delta_score: -1.0491, reward_response.is_correct: False, num_tokens: 3821, valid_response_length: 324
+
+
+delta_score: -0.09089999999999998, reward_response.is_correct: False, num_tokens: 425, valid_response_length: 728
+
+
+delta_score: -0.33030000000000004, reward_response.is_correct: False, num_tokens: 1745, valid_response_length: 644
+delta_score: -1.0253999999999999, reward_response.is_correct: False, num_tokens: 678, valid_response_length: 4096delta_score: -0.08699999999999997, reward_response.is_correct: False, num_tokens: 678, valid_response_length: 388
+delta_score: -0.6624, reward_response.is_correct: False, num_tokens: 3059, valid_response_length: 851
+delta_score: -1.0284, reward_response.is_correct: False, num_tokens: 3821, valid_response_length: 393
+
+
+delta_score: -0.38280000000000003, reward_response.is_correct: False, num_tokens: 1836, valid_response_length: 560delta_score: -1.0703999999999998, reward_response.is_correct: False, num_tokens: 3906, valid_response_length: 338delta_score: -0.32399999999999995, reward_response.is_correct: False, num_tokens: 235, valid_response_length: 1315delta_score: -0.2763, reward_response.is_correct: False, num_tokens: 1275, valid_response_length: 354delta_score: -0.16620000000000001, reward_response.is_correct: False, num_tokens: 1275, valid_response_length: 721delta_score: -0.0756, reward_response.is_correct: False, num_tokens: 861, valid_response_length: 1113
+
+
+delta_score: -1.1582999999999999, reward_response.is_correct: False, num_tokens: 235, valid_response_length: 4096delta_score: -0.4635, reward_response.is_correct: False, num_tokens: 308, valid_response_length: 1853
+delta_score: -0.3053999999999999, reward_response.is_correct: False, num_tokens: 235, valid_response_length: 1253delta_score: -0.15239999999999998, reward_response.is_correct: False, num_tokens: 104, valid_response_length: 612
+delta_score: -0.3426, reward_response.is_correct: False, num_tokens: 308, valid_response_length: 1450delta_score: -0.35009999999999997, reward_response.is_correct: False, num_tokens: 1913, valid_response_length: 746delta_score: -0.15569999999999995, reward_response.is_correct: False, num_tokens: 429, valid_response_length: 948
+
+
+delta_score: -0.14759999999999995, reward_response.is_correct: False, num_tokens: 678, valid_response_length: 186
+delta_score: -0.8042999999999999, reward_response.is_correct: False, num_tokens: 3197, valid_response_length: 516delta_score: -0.7499999999999999, reward_response.is_correct: False, num_tokens: 3197, valid_response_length: 697delta_score: -0.237, reward_response.is_correct: False, num_tokens: 1636, valid_response_length: 846
+delta_score: -0.33420000000000005, reward_response.is_correct: False, num_tokens: 1636, valid_response_length: 522
+
+
+
+delta_score: -0.39359999999999995, reward_response.is_correct: False, num_tokens: 1899, valid_response_length: 587
+
+delta_score: -0.7269, reward_response.is_correct: False, num_tokens: 2886, valid_response_length: 463delta_score: -0.5454, reward_response.is_correct: False, num_tokens: 3197, valid_response_length: 1379
+
+
+delta_score: -0.3042, reward_response.is_correct: False, num_tokens: 1747, valid_response_length: 733
+
+delta_score: -0.14039999999999997, reward_response.is_correct: False, num_tokens: 1948, valid_response_length: 1480
+
+delta_score: -0.44520000000000004, reward_response.is_correct: False, num_tokens: 2085, valid_response_length: 601delta_score: -0.23550000000000004, reward_response.is_correct: False, num_tokens: 1275, valid_response_length: 490
+delta_score: -0.40379999999999994, reward_response.is_correct: False, num_tokens: 1913, valid_response_length: 567
+
+delta_score: -0.007800000000000029, reward_response.is_correct: False, num_tokens: 435, valid_response_length: 409
+
+delta_score: -0.37470000000000003, reward_response.is_correct: False, num_tokens: 1522, valid_response_length: 273delta_score: -0.6678, reward_response.is_correct: False, num_tokens: 3197, valid_response_length: 971delta_score: -0.38880000000000003, reward_response.is_correct: False, num_tokens: 1522, valid_response_length: 226
+
+
+delta_score: -0.8246999999999999, reward_response.is_correct: False, num_tokens: 3285, valid_response_length: 536delta_score: -0.31919999999999993, reward_response.is_correct: False, num_tokens: 1329, valid_response_length: 265
+
+delta_score: -0.7757999999999999, reward_response.is_correct: False, num_tokens: 2886, valid_response_length: 300delta_score: -0.2613, reward_response.is_correct: False, num_tokens: 1836, valid_response_length: 965
+
+
+
+delta_score: -0.6879, reward_response.is_correct: False, num_tokens: 2916, valid_response_length: 623
+
+delta_score: -0.3716999999999999, reward_response.is_correct: False, num_tokens: 1899, valid_response_length: 660
+delta_score: -0.7047, reward_response.is_correct: False, num_tokens: 1747, valid_response_length: 4096delta_score: -0.3306, reward_response.is_correct: False, num_tokens: 284, valid_response_length: 1386
+
+delta_score: -0.714, reward_response.is_correct: False, num_tokens: 2571, valid_response_length: 191delta_score: -0.09209999999999996, reward_response.is_correct: False, num_tokens: 493, valid_response_length: 800
+
+delta_score: -0.3638999999999999, reward_response.is_correct: False, num_tokens: 1522, valid_response_length: 309delta_score: -0.10470000000000002, reward_response.is_correct: False, num_tokens: 1024, valid_response_length: 675
+
+
+delta_score: -0.07830000000000004, reward_response.is_correct: False, num_tokens: 1024, valid_response_length: 763
+delta_score: -0.9873, reward_response.is_correct: False, num_tokens: 3691, valid_response_length: 400delta_score: -0.5892, reward_response.is_correct: False, num_tokens: 2769, valid_response_length: 805delta_score: -0.19440000000000002, reward_response.is_correct: False, num_tokens: 1620, valid_response_length: 972
+
+delta_score: -0.28679999999999994, reward_response.is_correct: False, num_tokens: 1329, valid_response_length: 373delta_score: -0.11309999999999998, reward_response.is_correct: False, num_tokens: 928, valid_response_length: 551delta_score: -0.2934, reward_response.is_correct: False, num_tokens: 1333, valid_response_length: 355delta_score: -0.9422999999999999, reward_response.is_correct: False, num_tokens: 3691, valid_response_length: 550
+
+
+
+delta_score: -1.0065, reward_response.is_correct: False, num_tokens: 3691, valid_response_length: 336delta_score: -0.7499999999999999, reward_response.is_correct: False, num_tokens: 3008, valid_response_length: 508delta_score: -0.6773999999999999, reward_response.is_correct: False, num_tokens: 3008, valid_response_length: 750delta_score: -0.31589999999999996, reward_response.is_correct: False, num_tokens: 2513, valid_response_length: 1460delta_score: -0.49949999999999994, reward_response.is_correct: False, num_tokens: 2513, valid_response_length: 848
+delta_score: -0.7388999999999999, reward_response.is_correct: False, num_tokens: 3008, valid_response_length: 545delta_score: -0.5787, reward_response.is_correct: False, num_tokens: 2513, valid_response_length: 584delta_score: -0.25139999999999996, reward_response.is_correct: False, num_tokens: 284, valid_response_length: 1122
+
+
+delta_score: -0.11729999999999996, reward_response.is_correct: False, num_tokens: 1948, valid_response_length: 1557delta_score: -0.46199999999999997, reward_response.is_correct: False, num_tokens: 2431, valid_response_length: 891
+delta_score: -0.7602, reward_response.is_correct: False, num_tokens: 3197, valid_response_length: 663
+
+
+
+
+
+
+delta_score: -0.5991, reward_response.is_correct: False, num_tokens: 2603, valid_response_length: 606delta_score: -0.8432999999999999, reward_response.is_correct: False, num_tokens: 3363, valid_response_length: 552delta_score: -0.624, reward_response.is_correct: False, num_tokens: 2769, valid_response_length: 689
+delta_score: -0.24329999999999996, reward_response.is_correct: False, num_tokens: 3285, valid_response_length: 4096delta_score: -0.7952999999999999, reward_response.is_correct: False, num_tokens: 3363, valid_response_length: 712delta_score: -0.5774999999999999, reward_response.is_correct: False, num_tokens: 2358, valid_response_length: 433delta_score: -0.6539999999999999, reward_response.is_correct: False, num_tokens: 2555, valid_response_length: 375
+
+delta_score: -0.048899999999999944, reward_response.is_correct: False, num_tokens: 928, valid_response_length: 765delta_score: -0.6423, reward_response.is_correct: False, num_tokens: 2555, valid_response_length: 414
+delta_score: -0.4125, reward_response.is_correct: False, num_tokens: 1836, valid_response_length: 461
+
+delta_score: -0.4079999999999999, reward_response.is_correct: False, num_tokens: 1899, valid_response_length: 539delta_score: -0.7565999999999999, reward_response.is_correct: False, num_tokens: 3008, valid_response_length: 486delta_score: -0.7568999999999999, reward_response.is_correct: False, num_tokens: 2916, valid_response_length: 393delta_score: -0.15449999999999997, reward_response.is_correct: False, num_tokens: 277, valid_response_length: 792
+
+
+delta_score: -0.6585, reward_response.is_correct: False, num_tokens: 223, valid_response_length: 2418delta_score: -0.47219999999999995, reward_response.is_correct: False, num_tokens: 1895, valid_response_length: 321delta_score: -0.7304999999999999, reward_response.is_correct: False, num_tokens: 3081, valid_response_length: 646delta_score: -0.4421999999999999, reward_response.is_correct: False, num_tokens: 1895, valid_response_length: 421
+
+delta_score: -0.07289999999999996, reward_response.is_correct: False, num_tokens: 1024, valid_response_length: 781delta_score: -0.2298, reward_response.is_correct: False, num_tokens: 429, valid_response_length: 1195
+delta_score: -0.5103, reward_response.is_correct: False, num_tokens: 2085, valid_response_length: 384delta_score: -0.17310000000000003, reward_response.is_correct: False, num_tokens: 104, valid_response_length: 681
+delta_score: -0.5163, reward_response.is_correct: False, num_tokens: 2237, valid_response_length: 516delta_score: -0.20040000000000002, reward_response.is_correct: False, num_tokens: 104, valid_response_length: 772delta_score: -0.2277, reward_response.is_correct: False, num_tokens: 104, valid_response_length: 863
+delta_score: -0.036900000000000044, reward_response.is_correct: False, num_tokens: 745, valid_response_length: 868delta_score: -0.5519999999999999, reward_response.is_correct: False, num_tokens: 2237, valid_response_length: 397
+
+
+
+
+delta_score: -0.25859999999999994, reward_response.is_correct: False, num_tokens: 1349, valid_response_length: 487
+delta_score: -0.6440999999999999, reward_response.is_correct: False, num_tokens: 2513, valid_response_length: 366delta_score: -0.5274, reward_response.is_correct: False, num_tokens: 2537, valid_response_length: 779delta_score: -0.2567999999999999, reward_response.is_correct: False, num_tokens: 1747, valid_response_length: 891
+
+delta_score: -0.17159999999999997, reward_response.is_correct: False, num_tokens: 1669, valid_response_length: 1097
+delta_score: -1.1003999999999998, reward_response.is_correct: False, num_tokens: 3906, valid_response_length: 238
+
+delta_score: -0.5253, reward_response.is_correct: False, num_tokens: 2840, valid_response_length: 1089delta_score: -0.15059999999999996, reward_response.is_correct: False, num_tokens: 429, valid_response_length: 931
+
+delta_score: -0.07740000000000002, reward_response.is_correct: False, num_tokens: 429, valid_response_length: 687delta_score: -0.15389999999999993, reward_response.is_correct: False, num_tokens: 429, valid_response_length: 942
+
+delta_score: -0.7656, reward_response.is_correct: False, num_tokens: 2886, valid_response_length: 334delta_score: -0.3429, reward_response.is_correct: False, num_tokens: 2840, valid_response_length: 1697
+delta_score: -0.024599999999999955, reward_response.is_correct: False, num_tokens: 426, valid_response_length: 508delta_score: -0.43799999999999994, reward_response.is_correct: False, num_tokens: 861, valid_response_length: 2321
+
+
+
+delta_score: -0.07709999999999995, reward_response.is_correct: False, num_tokens: 425, valid_response_length: 682delta_score: -0.6051, reward_response.is_correct: False, num_tokens: 2307, valid_response_length: 290
+
+
+
+
+
+
+delta_score: -0.011700000000000044, reward_response.is_correct: False, num_tokens: 435, valid_response_length: 396delta_score: -0.30210000000000004, reward_response.is_correct: False, num_tokens: 1669, valid_response_length: 662
+
+delta_score: -0.4254, reward_response.is_correct: False, num_tokens: 1913, valid_response_length: 495
+delta_score: -0.5283, reward_response.is_correct: False, num_tokens: 2916, valid_response_length: 1155
+delta_score: -0.10650000000000004, reward_response.is_correct: False, num_tokens: 619, valid_response_length: 264
+delta_score: -0.0474, reward_response.is_correct: False, num_tokens: 445, valid_response_length: 287delta_score: -0.42869999999999997, reward_response.is_correct: False, num_tokens: 1745, valid_response_length: 316delta_score: -1.1619, reward_response.is_correct: False, num_tokens: 223, valid_response_length: 4096
+
+
+
+
+delta_score: -0.0363, reward_response.is_correct: False, num_tokens: 678, valid_response_length: 557
+
+delta_score: -0.276, reward_response.is_correct: False, num_tokens: 1333, valid_response_length: 413delta_score: -0.27449999999999997, reward_response.is_correct: False, num_tokens: 1333, valid_response_length: 418delta_score: -0.02849999999999997, reward_response.is_correct: False, num_tokens: 399, valid_response_length: 494
+delta_score: -0.10949999999999993, reward_response.is_correct: False, num_tokens: 104, valid_response_length: 469
+delta_score: -0.07020000000000004, reward_response.is_correct: False, num_tokens: 425, valid_response_length: 659
+delta_score: -0.6026999999999999, reward_response.is_correct: False, num_tokens: 2358, valid_response_length: 349
+
+delta_score: -0.2682, reward_response.is_correct: False, num_tokens: 1275, valid_response_length: 381
+
+delta_score: -0.30089999999999995, reward_response.is_correct: False, num_tokens: 1913, valid_response_length: 910
+delta_score: -0.2823, reward_response.is_correct: False, num_tokens: 1275, valid_response_length: 334delta_score: -0.7089, reward_response.is_correct: False, num_tokens: 3059, valid_response_length: 696delta_score: -0.3348, reward_response.is_correct: False, num_tokens: 1913, valid_response_length: 797delta_score: -0.3254999999999999, reward_response.is_correct: False, num_tokens: 1913, valid_response_length: 828
+
+delta_score: -0.06599999999999995, reward_response.is_correct: False, num_tokens: 619, valid_response_length: 399delta_score: -0.4608, reward_response.is_correct: False, num_tokens: 2347, valid_response_length: 811
+delta_score: -0.24, reward_response.is_correct: False, num_tokens: 1636, valid_response_length: 836
+delta_score: -0.6107999999999999, reward_response.is_correct: False, num_tokens: 223, valid_response_length: 2259
+
+delta_score: -0.46409999999999996, reward_response.is_correct: False, num_tokens: 1895, valid_response_length: 348delta_score: -0.2891999999999999, reward_response.is_correct: False, num_tokens: 2431, valid_response_length: 1467delta_score: -0.8735999999999999, reward_response.is_correct: False, num_tokens: 3197, valid_response_length: 285delta_score: -0.2583, reward_response.is_correct: False, num_tokens: 104, valid_response_length: 965
+delta_score: -1.1000999999999999, reward_response.is_correct: False, num_tokens: 429, valid_response_length: 4096
+delta_score: -0.8132999999999999, reward_response.is_correct: False, num_tokens: 3197, valid_response_length: 486
+delta_score: -0.8327999999999999, reward_response.is_correct: False, num_tokens: 3197, valid_response_length: 421
+
+
+
+delta_score: -0.6863999999999999, reward_response.is_correct: False, num_tokens: 2571, valid_response_length: 283delta_score: -0.014399999999999968, reward_response.is_correct: False, num_tokens: 745, valid_response_length: 793
+
+delta_score: -0.7367999999999999, reward_response.is_correct: False, num_tokens: 3050, valid_response_length: 594delta_score: -0.7256999999999999, reward_response.is_correct: False, num_tokens: 3050, valid_response_length: 631delta_score: -0.8178, reward_response.is_correct: False, num_tokens: 3050, valid_response_length: 324
+delta_score: -0.2982, reward_response.is_correct: False, num_tokens: 493, valid_response_length: 1487delta_score: -0.1824, reward_response.is_correct: False, num_tokens: 493, valid_response_length: 1101delta_score: -0.3575999999999999, reward_response.is_correct: False, num_tokens: 1522, valid_response_length: 330
+
+delta_score: -0.21029999999999993, reward_response.is_correct: False, num_tokens: 1275, valid_response_length: 574
+delta_score: -0.28380000000000005, reward_response.is_correct: False, num_tokens: 1275, valid_response_length: 329
+
+
+
+delta_score: -0.6342, reward_response.is_correct: False, num_tokens: 2537, valid_response_length: 423
+delta_score: -0.11699999999999999, reward_response.is_correct: False, num_tokens: 1747, valid_response_length: 1357
+delta_score: -0.5450999999999999, reward_response.is_correct: False, num_tokens: 2537, valid_response_length: 720delta_score: -0.36329999999999996, reward_response.is_correct: False, num_tokens: 1745, valid_response_length: 534
+delta_score: -0.5727, reward_response.is_correct: False, num_tokens: 2537, valid_response_length: 628delta_score: -0.2238, reward_response.is_correct: False, num_tokens: 426, valid_response_length: 1172
+
+delta_score: -0.24180000000000001, reward_response.is_correct: False, num_tokens: 1836, valid_response_length: 1030delta_score: -0.7499999999999999, reward_response.is_correct: False, num_tokens: 2917, valid_response_length: 417delta_score: -0.37139999999999995, reward_response.is_correct: False, num_tokens: 1836, valid_response_length: 598
+delta_score: -0.699, reward_response.is_correct: False, num_tokens: 2571, valid_response_length: 241delta_score: -0.2690999999999999, reward_response.is_correct: False, num_tokens: 1836, valid_response_length: 939delta_score: -0.009299999999999975, reward_response.is_correct: False, num_tokens: 861, valid_response_length: 830
+
+
+
+
+delta_score: -0.19140000000000001, reward_response.is_correct: False, num_tokens: 3008, valid_response_length: 2370delta_score: -0.19079999999999997, reward_response.is_correct: False, num_tokens: 1349, valid_response_length: 713
+
+
+
+delta_score: -0.7878, reward_response.is_correct: False, num_tokens: 3197, valid_response_length: 571
+delta_score: -0.2895, reward_response.is_correct: False, num_tokens: 1329, valid_response_length: 364delta_score: -0.7047, reward_response.is_correct: False, num_tokens: 1747, valid_response_length: 4096
+
+delta_score: -0.4992, reward_response.is_correct: False, num_tokens: 2840, valid_response_length: 1176
+delta_score: -0.48929999999999996, reward_response.is_correct: False, num_tokens: 2840, valid_response_length: 1209delta_score: -0.4805999999999999, reward_response.is_correct: False, num_tokens: 2840, valid_response_length: 1238
+
+
+delta_score: -0.7550999999999999, reward_response.is_correct: False, num_tokens: 3197, valid_response_length: 680delta_score: -0.6684, reward_response.is_correct: False, num_tokens: 2917, valid_response_length: 689delta_score: -0.10470000000000002, reward_response.is_correct: False, num_tokens: 1024, valid_response_length: 675
+delta_score: -0.369, reward_response.is_correct: False, num_tokens: 1836, valid_response_length: 606delta_score: -0.1371, reward_response.is_correct: False, num_tokens: 1024, valid_response_length: 567delta_score: -0.2729999999999999, reward_response.is_correct: False, num_tokens: 493, valid_response_length: 1403delta_score: -0.49349999999999994, reward_response.is_correct: False, num_tokens: 3059, valid_response_length: 1414
+delta_score: -0.5346, reward_response.is_correct: False, num_tokens: 2769, valid_response_length: 987
+delta_score: -0.7205999999999999, reward_response.is_correct: False, num_tokens: 2917, valid_response_length: 515delta_score: -0.2772, reward_response.is_correct: False, num_tokens: 493, valid_response_length: 1417
+delta_score: -0.38369999999999993, reward_response.is_correct: False, num_tokens: 308, valid_response_length: 1587
+
+
+
+
+
+
+
+delta_score: -1.0341, reward_response.is_correct: False, num_tokens: 3691, valid_response_length: 244delta_score: -0.33719999999999994, reward_response.is_correct: False, num_tokens: 2840, valid_response_length: 1716
+delta_score: -0.15839999999999999, reward_response.is_correct: False, num_tokens: 998, valid_response_length: 470
+delta_score: -0.22859999999999991, reward_response.is_correct: False, num_tokens: 1747, valid_response_length: 985
+delta_score: -0.3293999999999999, reward_response.is_correct: False, num_tokens: 223, valid_response_length: 1321
+delta_score: -1.1619, reward_response.is_correct: False, num_tokens: 223, valid_response_length: 4096
+delta_score: -0.0534, reward_response.is_correct: False, num_tokens: 678, valid_response_length: 500
+delta_score: -0.4100999999999999, reward_response.is_correct: False, num_tokens: 2431, valid_response_length: 1064
+
+
+
+
+delta_score: -0.4878, reward_response.is_correct: False, num_tokens: 2085, valid_response_length: 459delta_score: -0.6476999999999999, reward_response.is_correct: False, num_tokens: 3059, valid_response_length: 900
+delta_score: -0.7212, reward_response.is_correct: False, num_tokens: 2769, valid_response_length: 365delta_score: -0.7161, reward_response.is_correct: False, num_tokens: 2917, valid_response_length: 530
+
+
+delta_score: -0.6747, reward_response.is_correct: False, num_tokens: 2666, valid_response_length: 417delta_score: -0.96, reward_response.is_correct: False, num_tokens: 3691, valid_response_length: 491
+delta_score: -0.3264, reward_response.is_correct: False, num_tokens: 3008, valid_response_length: 4096delta_score: -0.22619999999999996, reward_response.is_correct: False, num_tokens: 284, valid_response_length: 1038delta_score: -0.24329999999999996, reward_response.is_correct: False, num_tokens: 3285, valid_response_length: 4096
+delta_score: -0.009000000000000008, reward_response.is_correct: False, num_tokens: 435, valid_response_length: 405
+
+delta_score: -0.10949999999999993, reward_response.is_correct: False, num_tokens: 998, valid_response_length: 633delta_score: -0.5403, reward_response.is_correct: False, num_tokens: 2513, valid_response_length: 712delta_score: -0.26879999999999993, reward_response.is_correct: False, num_tokens: 277, valid_response_length: 1173delta_score: -0.19499999999999995, reward_response.is_correct: False, num_tokens: 1349, valid_response_length: 1999delta_score: -0.06540000000000001, reward_response.is_correct: False, num_tokens: 277, valid_response_length: 495delta_score: -0.2930999999999999, reward_response.is_correct: False, num_tokens: 1349, valid_response_length: 372
+delta_score: -0.6909, reward_response.is_correct: False, num_tokens: 2916, valid_response_length: 613delta_score: -0.022800000000000042, reward_response.is_correct: False, num_tokens: 445, valid_response_length: 369delta_score: -0.016800000000000037, reward_response.is_correct: False, num_tokens: 445, valid_response_length: 389
+delta_score: -0.1794, reward_response.is_correct: False, num_tokens: 426, valid_response_length: 1024delta_score: -0.6410999999999999, reward_response.is_correct: False, num_tokens: 2917, valid_response_length: 780delta_score: -0.7025999999999999, reward_response.is_correct: False, num_tokens: 2571, valid_response_length: 229delta_score: -0.7145999999999999, reward_response.is_correct: False, num_tokens: 2571, valid_response_length: 189delta_score: -0.13260000000000005, reward_response.is_correct: False, num_tokens: 426, valid_response_length: 868
+
+
+
+
+
+delta_score: -0.5292, reward_response.is_correct: False, num_tokens: 2358, valid_response_length: 594delta_score: -0.48929999999999996, reward_response.is_correct: False, num_tokens: 2769, valid_response_length: 1138
+
+delta_score: -0.7025999999999999, reward_response.is_correct: False, num_tokens: 2666, valid_response_length: 324delta_score: -0.7202999999999999, reward_response.is_correct: False, num_tokens: 3008, valid_response_length: 607
+
+
+delta_score: -0.4163999999999999, reward_response.is_correct: False, num_tokens: 1899, valid_response_length: 511
+delta_score: -0.34319999999999995, reward_response.is_correct: False, num_tokens: 284, valid_response_length: 1428
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+delta_score: -0.1503, reward_response.is_correct: False, num_tokens: 223, valid_response_length: 724
+
+delta_score: -0.6185999999999999, reward_response.is_correct: False, num_tokens: 2537, valid_response_length: 475
+
+
+
+
+delta_score: -0.11009999999999998, reward_response.is_correct: False, num_tokens: 1024, valid_response_length: 657delta_score: -0.44099999999999995, reward_response.is_correct: False, num_tokens: 1895, valid_response_length: 425
+delta_score: -0.5133, reward_response.is_correct: False, num_tokens: 2085, valid_response_length: 374delta_score: -0.8409, reward_response.is_correct: False, num_tokens: 3363, valid_response_length: 560
+delta_score: -0.5646, reward_response.is_correct: False, num_tokens: 2358, valid_response_length: 476
+delta_score: -0.36239999999999994, reward_response.is_correct: False, num_tokens: 1636, valid_response_length: 428
+delta_score: -0.1764, reward_response.is_correct: False, num_tokens: 1349, valid_response_length: 761
+
+
+
+
+
+delta_score: -0.17759999999999998, reward_response.is_correct: False, num_tokens: 426, valid_response_length: 1018
+delta_score: -0.6405, reward_response.is_correct: False, num_tokens: 2555, valid_response_length: 420delta_score: -0.6779999999999999, reward_response.is_correct: False, num_tokens: 2555, valid_response_length: 295
+
+
+
+
+
+delta_score: -0.3042, reward_response.is_correct: False, num_tokens: 1620, valid_response_length: 606
+
+
+delta_score: -0.018000000000000016, reward_response.is_correct: False, num_tokens: 435, valid_response_length: 375
+
+
+
+delta_score: -0.06479999999999997, reward_response.is_correct: False, num_tokens: 998, valid_response_length: 782
+
+
+
+delta_score: -0.14039999999999997, reward_response.is_correct: False, num_tokens: 1948, valid_response_length: 1480
+
+
+
+
+
+
+
+
+
+
+reward_tensor's shape : torch.Size([1024, 4096])
