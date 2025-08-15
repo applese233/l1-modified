@@ -2,3 +2,5 @@ torch
 torchvision
 torchaudio
 tabulate
+numpy==1.26.4
+flash-attn==2.7.4.post1
