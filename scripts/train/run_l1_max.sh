@@ -56,7 +56,7 @@ python3 main_ppo.py \
     algorithm.kl_ctrl.kl_coef=0.001 \
     trainer.critic_warmup=0 \
     trainer.logger=['console','wandb'] \
-    trainer.project_name='l1finetune' \
+    trainer.project_name='Length-LLM' \
     trainer.experiment_name='qwen2.5-1.5B-Instruct-l1_exact-l1_max' \
     +trainer.val_before_train=True \
     trainer.n_gpus_per_node=4 \
