@@ -1,6 +1,0 @@
-{"time":"2025-08-14T07:19:22.731424998Z","level":"INFO","msg":"stream: starting","core version":"0.21.1"}
-{"time":"2025-08-14T07:19:23.095529564Z","level":"INFO","msg":"stream: created new stream","id":"mxjgpicv"}
-{"time":"2025-08-14T07:19:23.095584389Z","level":"INFO","msg":"stream: started","id":"mxjgpicv"}
-{"time":"2025-08-14T07:19:23.095607227Z","level":"INFO","msg":"writer: started","stream_id":"mxjgpicv"}
-{"time":"2025-08-14T07:19:23.095615398Z","level":"INFO","msg":"sender: started","stream_id":"mxjgpicv"}
-{"time":"2025-08-14T07:19:23.095637677Z","level":"INFO","msg":"handler: started","stream_id":"mxjgpicv"}
