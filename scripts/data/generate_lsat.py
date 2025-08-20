@@ -34,9 +34,9 @@ for num_tokens in [512, 1024, 2048, 3600, -512, -1024, -2048, -3600]:
                 })
     if num_tokens != -1:
         if num_tokens < -1:
-            pd.DataFrame(all_data).to_parquet(f'/disk3/yiran/yaoqi/l1/data_{num_tokens}/lsat.parquet')
+            pd.DataFrame(all_data).to_parquet(f'/data/cliu/l1-modified/data_{num_tokens}/lsat.parquet')
         else:
-            pd.DataFrame(all_data).to_parquet(f'/disk3/yiran/yaoqi/l1/data_{num_tokens}/lsat.parquet')
+            pd.DataFrame(all_data).to_parquet(f'/data/cliu/l1-modified/data_{num_tokens}/lsat.parquet')
     else:
-        pd.DataFrame(all_data).to_parquet(f'/disk3/yiran/yaoqi/l1/data/lsat.parquet')
+        pd.DataFrame(all_data).to_parquet(f'/data/cliu/l1-modified/data/lsat.parquet')
     

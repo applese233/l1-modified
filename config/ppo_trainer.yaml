@@ -231,7 +231,7 @@ trainer:
   critic_warmup: 0
   default_hdfs_dir: null
   del_local_ckpt_after_load: False
-  default_local_dir: /disk3/yiran/yaoqi/l1/checkpoints/${trainer.project_name}/${trainer.experiment_name}
+  default_local_dir: /data/cliu/l1-modified/checkpoints/${trainer.project_name}/${trainer.experiment_name}
   max_actor_ckpt_to_keep: null
   max_critic_ckpt_to_keep: null
   esi_redundant_time: 0
