@@ -31,7 +31,7 @@ python3 main_ppo.py \
     data.val_files=/data/cliu/l1-modified/data_max/aime.parquet \
     data.train_batch_size=128 \
     data.val_batch_size=512 \
-    data.max_prompt_length=1024 \
+    data.max_prompt_length=2048 \
     data.max_response_length=2048 \
     actor_rollout_ref.model.path=$MODEL_PATH \
     actor_rollout_ref.actor.optim.lr=4e-6 \

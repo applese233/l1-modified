@@ -32,7 +32,7 @@ python3 main_ppo.py \
     data.val_files=HuggingFaceH4/MATH-500@test \
     data.train_batch_size=128 \
     data.val_batch_size=512 \
-    data.max_prompt_length=1024 \
+    data.max_prompt_length=2048 \
     data.max_response_length=2048 \
     actor_rollout_ref.model.path=$MODEL_PATH \
     actor_rollout_ref.actor.optim.lr=1e-6 \
