@@ -61,7 +61,7 @@ python3 main_ppo.py \
     trainer.logger=['console','wandb'] \
     trainer.project_name='Length-LLM' \
     trainer.experiment_name='l1_qwen2_5_math_1.5b_deepscaler_0820' \
-    trainer.n_gpus_per_node=8 \
+    trainer.n_gpus_per_node=4 \
     trainer.nnodes=1 \
     trainer.save_freq=25 \
     trainer.test_freq=25 \
