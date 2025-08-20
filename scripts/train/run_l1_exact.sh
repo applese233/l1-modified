@@ -28,8 +28,8 @@ fi
 # python3 -m verl.train.main_ppo \
 python3 main_ppo.py \
     algorithm.adv_estimator=grpo \
-    data.train_files=agentica-org/DeepScaleR-Preview-Dataset \
-    data.val_files=HuggingFaceH4/MATH-500@test \
+    data.train_files=/data/cliu/l1-modified/data_exact/train.parquet \
+    data.val_files=/data/cliu/l1-modified/data_exact/aime.parquet \
     data.train_batch_size=128 \
     data.val_batch_size=512 \
     data.max_prompt_length=2048 \
